@@ -1,8 +1,8 @@
 title: MARCC Scientific Computing Guide
 email: marcc-help@marcc.jhu.edu
 # description: >-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "bradleyrp.github.io/demo" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/demo" # the subpath of your site, e.g. /blog
+url: "https://bradleyrp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  marcc-hpc
 markdown: kramdown
