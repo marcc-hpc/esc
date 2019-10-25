@@ -6,6 +6,8 @@ layout: home
 title: ""
 ---
 
+Users should consult [the guide](articles/guide) for answers to common questions.
+
 # Course Content
 
 1. [HI](notebooks/epidemic)
