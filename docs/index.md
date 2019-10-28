@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-The "elements of scientific computing" (`ESC`) is a collection of workshop examples and answers to common scientific computing questions. This resource should be generally useful to academic researchers who are using scientific computing methods or high-performance computing (HPC) in their work. These notes were compiled by [Ryan Bradley](http://scattershot.info) for users of the Maryland Advanced Research Computing Center ([MARCC](https://www.marcc.jhu.edu)) and we therefore refer to our largest machine, *Blue Crab*, throughout the text.
+The "elements of scientific computing" (`ESC`) is a collection of workshop examples and answers to common scientific computing questions. This resource should be generally useful to academic researchers who are using scientific computing methods or high-performance computing (HPC) in their work. These notes were compiled by [Ryan Bradley](http://scattershot.info) for users of the Maryland Advanced Research Computing Center ([MARCC](https://www.marcc.jhu.edu)) and we therefore refer to our largest machine named *Blue Crab* throughout the text.
 
 ## Documentation sites
 
@@ -34,3 +34,4 @@ The following notes cover some of our work in the [ongoing tutorial series](http
 {% endfor %}
 </ul>
 
+*Note that this site is currently under construction as we migrate some of our documentation here.*
