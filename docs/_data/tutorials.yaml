@@ -1,0 +1,3 @@
+- name: epidemic
+  info: Build a simple model for an epidemic to demonstrate the use of two easy parallel computing methods.
+  link: "/notebooks/epidemic/epidemic.html"
