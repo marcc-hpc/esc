@@ -16,6 +16,11 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+
+    {% if page.tags contains "notebook" %}
+    <text style="color:gray"><i>This page was generated from a <a href="{{site.parent_repository}}/blob/master/notebooks/{{page.shortname}}/{{page.shortname}}.ipynb">notebook</a> available in <a href="{{site.parent_repository}}">the repository</a> for this website.</i></text>
+    {% endif %}<br><br>
+
     {{ content }}
   </div>
 
