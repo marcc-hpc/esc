@@ -1,8 +1,8 @@
-title: MARCC Scientific Computing Guide
+title: Elements of Scientific Computing
 email: marcc-help@marcc.jhu.edu
-# description: >-
-baseurl: "/demo" # the subpath of your site, e.g. /blog
-url: "https://bradleyrp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+baseurl: "/demo"
+url: "https://bradleyrp.github.io"
 # twitter_username: jekyllrb
 github_username:  marcc-hpc
 markdown: kramdown
@@ -25,3 +25,6 @@ collections:
     output: true
   articles:
     output: true
+  common:
+    output: true
+parent_repository: http://github.com/bradleyrp/demo
