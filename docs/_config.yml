@@ -1,8 +1,8 @@
 title: Elements of Scientific Computing
 email: marcc-help@marcc.jhu.edu
 description: >-
-baseurl: "/demo"
-url: "https://bradleyrp.github.io"
+baseurl: "/esc"
+url: "https://marcc-hpc.github.io"
 # twitter_username: jekyllrb
 github_username:  marcc-hpc
 markdown: kramdown
@@ -27,4 +27,4 @@ collections:
     output: true
   common:
     output: true
-parent_repository: http://github.com/bradleyrp/demo
+parent_repository: http://github.com/marcc-hpc/esc
