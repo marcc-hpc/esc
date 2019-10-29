@@ -33,7 +33,8 @@ dependencies:
   - pip
 ~~~
 
-Recall that you can review the instructions for creating an environment here. 
+Recall that you can review the [instructions for creating an
+environment](https://marcc-hpc.github.io/esc/common/python-environments#conda). 
 
 **In [1]:**
 
