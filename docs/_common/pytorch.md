@@ -7,7 +7,7 @@ PyTorch is an [open-source machine learning library](https://pytorch.org/get-sta
 
 ## Using PyTorch on *Blue Crab* {#bc}
 
-### Option 1: Use an environment
+### Option 1: Use an environment {#bc-env}
 
 The latest version of PyTorch offered on *Blue Crab* is `1.1.0` and can be accessed through an Anaconda module. The following commands are required every time you wish to use it.
 

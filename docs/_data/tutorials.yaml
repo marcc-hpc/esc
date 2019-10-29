@@ -1,3 +1,6 @@
 - name: epidemic
   info: Build a simple model for an epidemic to demonstrate the use of two easy parallel computing methods.
   link: "/notebooks/epidemic/epidemic.html"
+- name: Multiprocessing and hierarchical data
+  info: Adapt the epidemic model for parallel calculations inside one python process, using only a single file for output.
+  link: "/notebooks/epidemic-parallel/epidemic-parallel.html"
