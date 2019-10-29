@@ -1,0 +1,1 @@
+This repository hosts the course content and commonly-asked questions associated with the Maryland Advanced Research Computing Center ([MARCC](https://www.marcc.jhu.edu)). Please visit [this page](https://marcc-hpc.github.io/esc) to view the documentation.
