@@ -4,5 +4,5 @@
   link: common/matlab-parpool
 - name: PyTorch on Blue Crab
   link: common/pytorch#bc
-- name: PyTorch on Blue Crab
+- name: Perl version issue
   link: common/perl-version-issue
