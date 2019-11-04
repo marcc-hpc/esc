@@ -3,15 +3,22 @@ layout: post
 title: Python environments
 # todo: link to portal tools e.g. Jupyter
 # todo: This method uses `conda env` however it is also possible to use `conda` directly to install [packages in sequence](#conda-sequence).
+# todo: complete the list below
 ---
 
 This page explains the use of Python environments. Users who are interested in using `R` may also find the desciption of [Anaconda](https://www.anaconda.com/) useful.
 
 *This page is under construction. More options coming soon. Check out [this site](https://marcc-hpc.github.io/tutorials/shortcourse_python.html) in the meantime.*
 
+## Options for controlling Python environments {#options}
+
+1. Use the default modules.
+2. Install a `conda` environment sequentially.
+3. [Use a custom `conda` environment](#conda).
+
 ## A. Custom conda environments {#conda}
 
-Note that this is the best solution for users who need to control their Python (or `R`) version, install packages with `pip`, use interactive portal tools, or install `conda` packages from [Anaconda Cloud](https://anaconda.org/anaconda/python). The use of `conda env` ensures that you can generate your environment from an easily-portable text file. This also resolves version dependencies all at once, so that you don't paint yourself into a corner.
+Note that this is the best solution for users who need to control their Python (or `R`) version, install packages with `pip`, use interactive portal tools, or install `conda` packages from [Anaconda Cloud](https://anaconda.org/anaconda/python). The use of `conda env` ensures that you can generate your environment from an easily-portable text file. This also resolves version dependencies all at once, so that you don't paint yourself into a corner. (Users who experience perl version issues on *Blue Crab* should consult [this guide](perl-version-issue).)
 
 ### 1. Find a useful location to make an environment
 

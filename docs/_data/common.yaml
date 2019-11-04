@@ -1,4 +1,8 @@
 - name: Custom python environments with conda
   link: common/python-environments#conda
+- name: Parallel Matlab (parpool) guidance
+  link: common/matlab-parpool
 - name: PyTorch on Blue Crab
   link: common/pytorch#bc
+- name: PyTorch on Blue Crab
+  link: common/perl-version-issue
