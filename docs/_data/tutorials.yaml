@@ -4,3 +4,6 @@
 - name: Multiprocessing and hierarchical data
   info: Adapt the epidemic model for parallel calculations inside one python process, using only a single file for output.
   link: "/notebooks/epidemic-parallel/epidemic-parallel.html"
+- name: Extending Python with high-performance code
+  info: In this brief example we extend Python with C++ code to improve performance.
+  link: "/notebooks/python-extensions/python-extensions.html"
