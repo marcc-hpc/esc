@@ -6,3 +6,5 @@
   link: common/pytorch#bc
 - name: Perl version issue
   link: common/perl-version-issue
+- name: Job priority and the scheduler
+  link: common/slurm-priority-troubleshooting
