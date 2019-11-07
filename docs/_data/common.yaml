@@ -4,6 +4,8 @@
   link: common/matlab-parpool
 - name: PyTorch on Blue Crab
   link: common/pytorch#bc
+- name: Blue Crab storage guidelines
+  link: common/blue-crab-storage-guidelines
 - name: Perl version issue
   link: common/perl-version-issue
 - name: Job priority and the scheduler

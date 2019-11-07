@@ -20,7 +20,7 @@ In order for our staff to investigate priority questions, users who email `marcc
 1. The SLURM Job IDs for the jobs in question.
 2. The path to the job script.
 3. The current priority for the job according to `sprio -j N` where `N` is the job ID. This information disappears when the job ends. In order to understand wait times, we must have the priority numbers for your job.
-4. If you believe that your priority values are inconsistent with other users in the queue, we require job IDs and priority (via `sprio -j N`) reports for those jobs while they are running. These jobs must have similar hardware requests for us to compare them properly. 
+4. If you believe that your priority values are inconsistent with other users in the queue, we require job IDs and priority (via `sprio -j N`) reports for those jobs while they are running. These jobs must have similar hardware requests for us to compare them properly. If you think your job is "stuck" (see below), it may be helpful for you to provide Job IDs for similar jobs that were submitted later and started started earlier.
 
 *We cannot investigate priority disputes without a direct apples-to-apples comparison between jobs along with their associated priority values.* We encourage users to keep in mind that the queue is not strictly based on wait time (see the [general rule above](#waits)) hence there may be minor variations in scheduling besides the natural variation in job size and demand.
 
