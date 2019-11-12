@@ -1,3 +1,5 @@
+- name: The new software stack
+  link: common/new-stack
 - name: Custom python environments with conda
   link: common/python-environments#conda
 - name: Parallel Matlab (parpool) guidance
