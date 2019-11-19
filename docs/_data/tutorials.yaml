@@ -7,3 +7,6 @@
 - name: Extending Python with high-performance code
   info: In this brief example we extend Python with C++ code to improve performance.
   link: "/notebooks/python-extensions/python-extensions.html"
+- name: Databases workshop
+  info: In this exercise we will discuss the basics of relational and unstructured databases.
+  link: "/notebooks/databases/databases.html"

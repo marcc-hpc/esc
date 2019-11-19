@@ -1,0 +1,1691 @@
+3 Schténg|Brasserie Grain d'Orge|6.0
+400|'t Hofbrouwerijke voor Brouwerij Montaigu|5.6
+IV Saison|Brasserie de Jandrain-Jandrenouille|6.5
+V Cense|Brasserie de Jandrain-Jandrenouille|7.5
+VI Wheat|Brasserie de Jandrain-Jandrenouille|6.0
+Aardmonnik|De Struise Brouwers|8.0
+Aarschotse Bruine|Stadsbrouwerij Aarschot|6.0
+Abbay d'Aulne Blonde des Pères 6|Brasserie Val de Sambre|6.0
+Abbay d'Aulne Brune des Pères 6|Brasserie Val de Sambre|6.0
+Abbay d'Aulne Super Noël 9|Brasserie Val de Sambre|9.0
+Abbay d'Aulne Triple Blonde|Brasserie Val de Sambre|8.0
+Abbay d'Aulne Triple Brune|Brasserie Val de Sambre|8.0
+Abbay d'Aulne Val de Sambre|Brasserie Val de Sambre|6.4
+Abbaye de Bonne-Espérance|Brouwerij Lefebvre|7.8
+Abbaye de Forest|Brasserie de Silly|6.5
+Abbaye de la Thure|Brasserie Brootcoorens|10.0
+Abbaye de Saint-Martin Blonde|Brasserie de Brunehaut|7.0
+Abbaye de Saint-Martin Brune|Brasserie de Brunehaut|8.0
+Abbaye de Saint-Martin Cuvée de Noël|Brasserie de Brunehaut|8.5
+Abbaye de Saint-Martin Triple|Brasserie de Brunehaut|9.0
+Abbaye de Oudkerken|Brouwerij Lefebvre|6.2
+Abbaye des Rocs Blonde|Brasserie de l'Abbaye des Rocs|7.5
+Abbaye des Rocs Brune|Brasserie de l'Abbaye des Rocs|9.0
+Abbaye des Rocs Grand Cru|Brasserie de l'Abbaye des Rocs|9.5
+Abbaye des Rocs Spéciale Noël|Brasserie de l'Abbaye des Rocs|9.0
+Abdis Blond|Brouwerij Riva|6.5
+Abdis Bruin|Brouwerij Riva|6.5
+Abdis Tripel|Brouwerij Riva|8.2
+Abdij van Roosenberg Dubbel|Brouwerij Van Steenberge|7.0
+Abdij van Roosenberg Tripel|Brouwerij Van Steenberge|9.0
+Achel 5 Blond|Achelse Kluis|5.0
+Achel 5 Bruin|Achelse Kluis|5.0
+Achel 8 Blond|Achelse Kluis|8.0
+Achel 8 Bruin|Achelse Kluis|8.0
+Achel Blond Extra|Achelse Kluis|9.5
+Achel Bruin Extra|Achelse Kluis|9.5
+Adelardus|Brouwerij Sint-Jozef voor Brouwerij Kerkom|7.0
+Adler|Brouwerij Haacht|6.5
+Adriaen Brouwer|Brouwerij Roman|5.0
+Adelardus Tripel|Brouwerij Sint-Jozef voor Brouwerij Kerkom|9.0
+Adriaen Brouwer Dark Gold|Brouwerij Roman|8.5
+Affligem Dubbel|Affligem Brouwerij (Heineken)|6.8
+Affligem Blond|Affligem Brouwerij (vroeger Brouwerij De Smedt nu deel van Heineken)|6.8
+Affligem 950 Cuvee|Affligem Brouwerij (Heineken)|6.8
+Affligem Noël|Affligem Brouwerij (Heineken)|9.0
+Affligem Patersvat|Affligem Brouwerij (Heineken)|6.8
+Affligem Tripel|Affligem Brouwerij (Heineken)|8.5
+Agrumbocq|Brasserie du Bocq|3.1
+Alpha|Brouwerij Anders! voor Brussels Beer Project|6.0
+Alpaïde|Brouwerij Nieuwhuys|10.0
+Alpaïde Cuvée van de generaal|Brouwerij Nieuwhuys|8.5
+Akila Pils|Brouwerij Louwaege|5.0
+Alfri|Brouwerij Roman|0.5
+Altitude 6|Brasserie de l'Abbaye des Rocs|6.0
+Alvinne Extra Restyled|Brouwerij Alvinne|7.0
+Alvinne Lex'ke|Brouwerij Alvinne|6.3
+Alvinne Tripel|Brouwerij Alvinne|8.7
+Alvino Bourgogne Barrel OA|Brouwerij Alvinne|5.5
+Ambetanterik|Brouwerij Het Alternatief bij Brouwerij Alvinne|8.7
+Ambiorix|Brouwerij Slaghmuylder|8.0
+Angélus Blonde|Brasserie Brootcoorens|7.0
+Angélus Brune|Brasserie Brootcoorens|7.0
+Angélus Spéciale Noël|Brasserie Brootcoorens|9.0
+Anker Blond|Brouwerij Het Anker|6.5
+Anker Boscoulis|Brouwerij Het Anker|6.5
+Anker Herfstbok|Brouwerij Het Anker|6.5
+Anker Pils|Brouwerij Het Anker|5.0
+Antiek Blond|Brouwerij Deca|8.0
+Antiek Bruin|Brouwerij Deca|8.0
+Antiek Super 5 Blond|Brouwerij Deca|5.0
+Antigoon|De Proefbrouwerij voor The Musketeers|6.7
+Antwerps Blond|Huisbrouwerij 't Pakhuis|5.0
+Antwerps Bruin|Huisbrouwerij 't Pakhuis|5.8
+Applebocq|Brasserie Du Bocq|3.1
+Arabier|De Dolle Brouwers|8.0
+Archiduc|Brasserie d'Ecaussinnes|6.2
+Arend Blond|Brouwerij De Ryck|6.5
+Arend Dubbel|Brouwerij De Ryck|6.5
+Arend Tripel|Brouwerij De Ryck|8.0
+Arendonker Bruin|Dorpsbrouwerij Humulus|8.5
+Arend Winter|Brouwerij De Ryck|6.3
+Arendonker Tripel|Dorpsbrouwerij Humulus|8.0
+Armand’4 Herfst|Geuzestekerij 3 Fonteinen|6.0
+Armand’4 Lente|Geuzestekerij 3 Fonteinen|6.0
+Armand’4 Winter|Geuzestekerij 3 Fonteinen|6.0
+Armand’4 Zomer|Geuzestekerij 3 Fonteinen|6.0
+Artevelde|Brouwerij Huyghe|5.7
+Artevelde Grand Cru|Brouwerij Huyghe|7.2
+Asterie|Brasserie d'Ecaussinnes|0.0
+Atomium Premier Grand Cru|Brouwerij Van Steenberge|8.0
+Augrenette|Brouwerij Augrenoise|4.5
+Augrenoise|Brouwerij Augrenoise|6.5
+Augustijn Blond|Brouwerij Van Steenberge|7.5
+Augrenoise Blonde de Noël|Brouwerij Augrenoise|10.0
+Augustijn Donker|Brouwerij Van Steenberge|7.0
+Augustijn Grand Cru|Brouwerij Van Steenberge|9.0
+Authentic Ambrée|Authentique Brasserie|5.0
+Authentic Blonde de Noël|Authentique Brasserie|9.0
+Authentic Blonde|Authentique Brasserie|6.5
+Authentic 621|Authentique Brasserie|7.5
+Authentic Triple|Authentique Brasserie|9.5
+L'Autruche Biere des Gilles|Brasserie de Silenrieux|7.0
+Bacchus|Brouwerij Van Honsebrouck|4.5
+Bacchus Frambozenbier|Brouwerij Van Honsebrouck|5.0
+Bacchus Kriekenbier|Brouwerij Van Honsebrouck|5.8
+Balthazar|Brouwerij Alvinne|8.9
+Barbãr|Brouwerij Lefebvre|8.0
+Barbe d'Or (Goudbaard)|Brouwerij Verhaeghe|7.5
+Barbãr Winter Bok|Brouwerij Lefebvre|8.0
+Barbe Noire (Zwartbaard)|Brouwerij Verhaeghe|9.0
+Barbe Rouge (Roodbaard)|Brouwerij Verhaeghe|8.0
+Bas|De Proefbrouwerij voor bierfirma Bas-bieren|6.5
+Bastogne Pale Ale|Brasserie de Bastogne|6.5
+Basilius|De Proefbrouwerij voor ’t Brugs Bierinstituut|7.0
+Bavik Blond|Brouwerij Bavik|1.5
+Bavaro|Brouwerij Haacht|3.6
+Bavik Faro|Brouwerij Bavik|1.5
+Bavik Pony-Stout|Brouwerij Bavik|5.2
+Bavik Premium Pils|Brouwerij Bavik|5.2
+Bavik Triple Bock|Brouwerij Bavik|3.0
+Beernems Berenbier|Brouwerij Van Steenberge voor BIVO Drinks|7.5
+Beer for Life|Brouwerij Dilewyns|6.5
+Beersel Bio|Geuzestekerij 3 Fonteinen|7.0
+Beersel Blond|Geuzestekerij 3 Fonteinen|7.0
+Beersel Lager|Geuzestekerij 3 Fonteinen|5.2
+Bel Pils|Brouwerij Duvel Moortgat|5.0
+Belgian Angel Stout|Brasserie Brootcoorens|5.2
+Belgian Framboises|Brasserie Lefebvre|3.5
+Belgian Kriek|Brasserie Lefebvre|3.5
+Belgian Pêches|Brasserie Lefebvre|3.5
+Belgica IPA|Brouwerij Strubbe|7.9
+Belgoo Arboo|Brouwerij Belgoobeer bij Brouwerij La Binchoise|8.1
+Belgoo Magus|Brouwerij Belgoobeer bij Brouwerij La Binchoise|6.6
+Belgoo Maxus|Brouwerij Belgoobeer bij Brouwerij La Binchoise|8.1
+Bella Mère|Brasserie Millevertus|6.5
+Belle Cies|Huisbrouwerij Den Tseut|10.0
+Belgoo Luppoo|Brouwerij Belgoobeer bij Brouwerij La Binchoise|6.5
+Belle-Vue Framboise|Brouwerij Belle-Vue (InBev)|5.7
+Belle-Vue Extra Framboise|Brouwerij Belle-Vue (Inbev)|2.9
+Belle-Vue Kriek|Brouwerij Belle-Vue (InBev)|5.2
+Belle-Vue Kriek Classique|Brouwerij Belle-Vue (Inbev)|5.1
+Belle-Vue Extra Kriek|Brouwerij Belle-Vue (InBev)|4.3
+Belle-Vue Gueuze|Brouwerij Belle-Vue (InBev)|5.5
+Belle-Vue LA|Brouwerij Belle-Vue (Inbev)|1.0
+Bellebier Amber|Brouwerij Van Steenberge voor Paeleman|5.2
+Bellebier Dubbel|Brouwerij Van Steenberge voor Paeleman|6.2
+Bellebier Trippel|Brouwerij Van Steenberge voor Paeleman|8.0
+Bellegems Bruin|Brouwerij Bockor|5.5
+Bellegems Witbier|Brouwerij Bockor|5.0
+Belval|Gageleer|4.8
+Bersalis Kadet|Brouwerij Huyghe voor Brouwerij Oud Beersel|4.5
+Bertinchamps Blonde|Brasserie de Bertinchamps|6.2
+Bersalis Tripel|Brouwerij Huyghe voor Brouwerij Oud Beersel|9.5
+Bertinchamps Triple|Brasserie de Bertinchamps|8.0
+Beta|Brouwerij Anders! voor Brussels Beer Project|6.0
+Betchard Brune|Brasserie de Tubize|7.0
+Betchard Blonde|Brasserie de Tubize|5.5
+Bieken|Brouwerij Boelens|8.0
+Bierbeekse|Brouwerij Van Steenberge voor de gemeente Bierbeek en Terclavers|7.3
+Berentemmer|Brouwerij Maenhout|7.0
+Bierbuik|De Verhuisbrouwerij|8.0
+Bière de Beloeil|Brasserie Dupont|8.5
+Bière Darbyste|Brasserie de Blaugies|5.8
+Bière de Garde|Brouwerij Jessenhofke bij De Proefbrouwerij|10.0
+Bière de Miel Bio|Brouwerij Dupont|8.0
+Bière des Ours (Berenbier)|Brasserie La Binchoise|8.5
+Bière du Corsaire Cuvée Spéciale|Brouwerij Huyghe|9.4
+Bière du Mont Saint-Aubert|Brasserie de Brunehaut|8.0
+Bière Spéciale Belge|Brasserie La Binchoise|5.0
+Big Bavik|Brouwerij Bavik|5.0
+Bierpruver Dubbel Bruin|Huisbrouwerij de 3 vaten|7.5
+Bierpruver Tripel|Huisbrouwerij de 3 vaten|9.0
+Big Bayou|Brouwerij Smisje|4.0
+Bierpruver Winter|Huisbrouwerij de 3 vaten|8.0
+Bink Blond|Brouwerij Kerkom|5.5
+Bink Bruin|Brouwerij Kerkom|5.5
+Bink Bloesem|Brouwerij Kerkom|7.1
+Biolégère|Brouwerij Dupont|3.5
+Bitter Sweet Symphony|Brouwerij 't Gaverhopke|7.8
+Bittere Waarheid|Brouwerij Het Alternatief bij Brouwerij De Graal|11.0
+Black|Brasserie de Bellevaux|6.3
+Black Albert|De Struise Brouwers bij Brouwerij Deca|13.0
+Black Damnation I|De Struise Brouwers bij Brouwerij Deca|13.0
+Black Damnation II (Mocha Bomb)|De Struise Brouwers bij Brouwerij Deca|12.0
+Black Damnation III (Black Mes)|De Struise Brouwers bij Brouwerij Deca|13.0
+Black Damnation IV (Coffée Club)|De Struise Brouwers bij Brouwerij Deca|13.0
+Black Damnation V (Double Black)|De Struise Brouwers bij Brouwerij Deca|26.0
+Black|Brasserie de Bellevaux|6.3
+Black Ghost|Brasserie Fantôme|8.0
+Black Hole|Brouwerij Roman|5.6
+Black Jack|De Struise Brouwers bij Brouwerij Deca|7.0
+Blanche|Brasserie de Bellevaux|4.8
+Blanche de Bouillon|Brasserie de Bouillon|5.5
+Blanche d'Ardenne|Brasserie du Bocq voor Corsendonk nv|4.3
+Blanche de Brabant|Groep John Martin|5.0
+Blanche de Bruxelles|Brouwerij Lefebvre|4.5
+Blanche de Charleroi|Brasserie Val de Sambre|5.0
+Blanche de Namur|Brasserie du Bocq|5.2
+Blanche de Tubize|Brasserie de Tubize|4.8
+Blanche des Neiges|Brouwerij Huyghe|5.0
+Blanche des Honnelles|Brasserie de l'Abbaye des Rocs|6.0
+Blanchette de Gaume|Brasserie Millevertus|5.0
+Blanche du Hainaut Bio|Brouwerij Dupont|5.5
+Blanchette de Lorraine|Brasserie Millevertus|5.0
+BLAUW|Brouwerij Bockor|5.2
+Blauwersbier|Brouwerij Van Eecke|6.5
+Blinde Mol|Brouwerij Maenhout bij Brouwerij Gulden Spoor|6.5
+Bloemenbier|De Proefbrouwerij|7.0
+Bière de la Bonde|Brouwerij Van Eecke|10.0
+Bleeken Moriaen|Brouwerij Van Eecke|10.0
+Blonde|Brasserie de Bellevaux|7.0
+Blonde|Brouwerij Haacht|1.2
+Blonde Bie|Brouwerij De Bie|8.0
+Blonde de Brabant|Groep John Martin|6.0
+Blonde de Noël|Brasserie Caulier|10.0
+Blondelle|'t Hofbrouwerijke|7.0
+Blondine|Brouwerij Van Steenberge voor Hopduvel Gent|8.0
+Blondine IPA|Brouwerij De Graal voor Hopduvel Gent|8.0
+Bock Leroy|Brouwerij Het Sas|1.8
+Bock Pils|Brouwerij Palm|5.2
+Bockor Pils|Brouwerij Bockor|5.2
+Bocq Christmas|Brasserie Du Bocq|8.1
+Boembeke Luiwerk|Brouwerij De Graal|6.5
+Boerinneken|De Proefbrouwerij voor Den Ouden Advokaat|9.5
+Boerke Blond|Brouwerij Angerik|6.8
+Boerke Bruin|Brouwerij Angerik|6.8
+Boerke Krieken|Brouwerij Angerik|6.5
+Boerken|De proefbrouwerij voor Den Ouden Advokaat|9.5
+Bokkereyer|Brouwerij Sint-Jozef|6.0
+Bolivar Bruin|Brouwerij Huyghe voor Oxfam wereldwinkels|7.5
+Bolivar Blond|Brouwerij Huyghe voor Oxfam wereldwinkels|7.5
+Bolleville Calvados Barrel OA|Brouwerij Alvinne|10.0
+Bokrijks|Brouwerij du Bocq|7.2
+Bon Homme|Brouwerij De Leite|6.5
+Bon Secours Ambrée|Brouwerij Caulier|8.0
+Bon Secours Blonde|Brouwerij Caulier|8.0
+Bon Secours Brune|Brouwerij Caulier|8.0
+Bon Secours Framboise|Brouwerij Caulier|7.0
+Bon Secours Myrtille|Brouwerij Caulier|7.0
+Bon Secours Noël|Brouwerij Caulier|10.0
+Boneffe|Brasserie de Tubize|9.0
+Bons Voeux|Brouwerij Dupont|9.5
+Bornem Dubbel|Brouwerij Van Steenberge|8.0
+Bornem Tripel|Brouwerij Van Steenberge|9.0
+Bosbier|Brouwerij Sint-Jozef|4.0
+Boskeun|De Dolle Brouwers|7.0
+Boscoli|Brouwerij Het Anker|3.5
+Bos Bier|Brouwerij DijkWaert|9.0
+Bosprotter|'t Hofbrouwerijke|8.5
+Bourgogne des Flandres Bruin|Brouwerij Timmermans|5.0
+Bourgogne des Flandres Blond|Brouwerij Timmermans|6.0
+Brasserie des Rocs Triple Impériale|Brasserie de l'Abbaye des Rocs|10.0
+Brave Broeder|Brasserie de Silly|5.0
+Bremserbier|Huisbrouwerij de 3 vaten|6.0
+Bravoure|Brouwerij De Dochter van de Korenaar|6.5
+Brice|Brasserie Grain d'Orge|7.5
+Briekebakker|Brouwerij Alvinne|8.7
+Brigand IPA|Brouwerij Van Honsebrouck|6.5
+Broeder Jacob Bruin|Brasserie du Bocg voor Broeder Jacob bvba|7.5
+Brigand|Brouwerij Van Honsebrouck|9.0
+Broeder Jacob Tripel|Brasserie du Bocg voor Broeder Jacob bvba|7.5
+Broeder Jacob Double Port|Brasserie du Bocg voor Broeder Jacob bvba|9.0
+Bruegel|Brouwerij Van Steenberge|5.0
+Brugge Blond|Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)|6.5
+Brugge Tripel|Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)|8.7
+Brugs (Tarwebier)|Alken-Maes (Heineken) (vroeger in Brouwerij De Gouden Boom)|4.8
+Brugs Beertje 20|Brouwerij De Regenboog|6.5
+Brugs Beertje 25|Brouwerij De Regenboog|9.0
+Brugse Babbelaar|De Proefbrouwerij|6.5
+Brugse Bok|Brouwerij De Halve Maan|6.5
+Brugse Zot Blond|Brouwerij De Halve Maan|6.0
+Brugse Zot Dubbel|Brouwerij De Halve Maan|7.5
+Bruin Leroy|Brouwerij Het Sas|1.8
+Brune|Brasserie de Bellevaux|6.8
+Brunehaut Terroir|Brasserie de Brunehaut|5.0
+Brunehaut Tradition|Brasserie de Brunehaut|6.5
+Brunehaut Village|Brasserie de Brunehaut|6.5
+Brunehaut Bio Amber|Brasserie de Brunehaut|6.5
+Brunehaut Bio Blanche|Brasserie de Brunehaut|5.0
+Brunehaut Bio Blonde|Brasserie de Brunehaut|6.5
+Brunette|Brouwerij Van Steenberge voor Hopduvel Gent|9.0
+Brussels Kriek|Brouwerij Van Steenberge|5.0
+Brussels Framboos|Brouwerij Van Steenberge|3.5
+Brussels Perzik|Brouwerij Van Steenberge|4.0
+Brussels Fruit Beer Apple|Brasserie Du Bocq|3.2
+Brussels Fruit Beer Peaches|Brasserie Du Bocq|3.2
+Brussels Fruit Beer Red Fruit|Brasserie Du Bocq|3.2
+Brut|Brouwerij De Vlier|8.0
+BRWN|De Proefbrouwerij voor Brouwerij Jessenhofke|7.0
+Bryggja|Brouwerij De Graal voor Bryggja|8.5
+Bruynen Moriaen|Brouwerij Van Eecke|9.0
+Buffalo Belgian Stout|Brouwerij Van Den Bossche|9.0
+Buffalo|Brouwerij Van Den Bossche|6.5
+Buffalo Bitter|Brouwerij Van Den Bossche|8.0
+Bufo|De Proefbrouwerij voor Gageleer cbva-so|4.8
+Bush Amber|Brouwerij Dubuisson|12.0
+Bush Amber Tripel|Brouwerij Dubuisson|12.0
+Bush Blond|Brouwerij Dubuisson|10.5
+Bush Blond Triple|Brouwerij Dubuisson|10.5
+Bush de Noël|Brouwerij Dubuisson|12.0
+Bush de Noël Premium|Brouwerij Dubuisson|13.0
+Bush de Nuits|Brouwerij Dubuisson|13.0
+Bush Prestige|Brouwerij Dubuisson|13.0
+Bush 7|Brouwerij Dubuisson|7.5
+Camaraderie|Brouwerij Bavik|8.0
+Cambrinus|Brouwerij Verhaeghe|5.1
+Campus Premium|Brouwerij Huyghe|5.0
+Campus|Brouwerij Huyghe|7.0
+Campus Gold|Brouwerij Huyghe|6.2
+Canaille|Brasserie Grain d'Orge|5.2
+Canaster|Brouwerij De Glazen Toren|8.7
+Cantillon Geuze|Brouwerij Cantillon|5.0
+Caper Fumatis|Brouwerij Alvinne|6.3
+Capoen|De Proefbrouwerij|6.5
+Captain Cooker Manuka Beer|De Proefbrouwerij voor Captain Cooker|5.7
+Captain Cooker White Manuka Beer|De Proefbrouwerij voor Captain Cooker|4.5
+Cara Pils|Brouwerij Haacht|4.9
+Caracole|Brasserie Caracole|8.0
+Carioca|De Lion à Plume bij Brasserie de Bastogne|4.8
+Carlos|Brouwerij Contreras|6.5
+Carnavalsbier|Brouwerij De Graal voor bierfirma Vacas|6.1
+Carrousel|Brouwerij De Vlier|6.0
+Caulier Brune|De Proefbrouwerij voor The House of Caulier|6.8
+Caulier Special Extra|De Proefbrouwerij voor The House of Caulier|4.3
+Caulier Blonde|De Proefbrouwerij voor The House of Caulier|6.8
+Ceci n'est pas un Barley Wine|Brasserie Sainte-Hélène|10.0
+Ceci n'est pas une saison|'t Hofbrouwerijke|6.5
+Ceci n'est pas une stout|'t Hofbrouwerijke|6.5
+Ceci n'est pas une triple|'t Hofbrouwerijke|8.0
+Celestus|Brouwerij Haacht|5.0
+Celis White|Brouwerij Van Steenberge|5.0
+Celtic Angel|De Proefbrouwerij voor Microbrouwerij Achilles|6.2
+Cervesia|Brouwerij Dupont|8.0
+Cervoise de l'Avouerie d'Anthisnes|Brasserie de Silly|5.0
+Cesar|Brouwerij Van Steenberge|8.5
+Cezarken|Brouwerij Strubbe voor Brouwerij Crombé|5.5
+Chapeau Gueuze|Brouwerij De Troch|5.5
+Chapeau Abricot|Brouwerij De Troch|3.5
+Chapeau Banana|Brouwerij De Troch|3.5
+Chapeau Cuvée Oude Gueuze|Brouwerij De Troch|5.5
+Chapeau Exotic (ananas)|Brouwerij De Troch|3.5
+Chapeau Faro|Brouwerij De Troch|4.75
+Chapeau Fraises|Brouwerij De Troch|3.5
+Chapeau Framboise|Brouwerij De Troch|3.5
+Chapeau Kriek|Brouwerij De Troch|3.5
+Chapeau Lemon|Brouwerij De Troch|3.5
+Chapeau Mirabelle|Brouwerij De Troch|3.5
+Chapeau Pêche|Brouwerij De Troch|3.5
+Chapeau Winter Gueuze|Brouwerij De Troch|5.6
+Charles Quint|Haacht|6.3
+Chimay Blauw|Abdij Notre-Dame de Scourmont|9.0
+Chimay Rood|Abdij Notre-Dame de Scourmont|7.0
+Chimay Wit|Abdij Notre-Dame de Scourmont|8.0
+Chimay dorée|Abdij Notre-Dame de Scourmont|4.8
+Chouffe Bok 6666|Brouwerij d'Achouffe (Duvel-Moortgat)|6.0
+Christmas Leroy|Brouwerij Van Eecke|7.5
+Christmas Verhaeghe|Brouwerij Verhaeghe|7.2
+Christmas Pale Ale|Brouwerij De Ryck|6.3
+Ciney Blond|Alken-Maes (Heineken)|7.0
+Ciney Bruin|Alken-Maes (Heineken)|7.0
+Cluysenaer|De Proefbrouwerij voor Brouwerij Cluysenaer|7.0
+Cnudde Bizon|Brouwerij Cnudde|5.5
+Cnudde Oudenaards bruin (Kerkhofbier)|Brouwerij Cnudde|5.0
+Content|Brouwerij De Graal voor De Verhuisbrouwerij|7.5
+Colère Rouge|Brasserie Millevertus|5.0
+Contrapils|Brouwerij Contreras|5.0
+Contreras' Especial Mars|Brouwerij Contreras|6.5
+Cookie Beer|Brasserie d'Ecaussinnes|8.0
+Coq Hardi|Brouwerij Haacht|5.5
+Corsendonk Agnus|Brouwerij du Bocq voor Corsendonk nv|7.5
+Corsendonk Blond|Brouwerij du Bocq voor Corsendonk nv|6.5
+Corsendonk Bruin|Brouwerij du Bocq voor Corsendonk nv|6.5
+Corsendonk Christmas Ale|Brouwerij du Bocq voor Corsendonk nv|8.5
+Corsendonk Rousse|Brouwerij du Bocq voor Corsendonk nv|8.0
+Corsendonk Pater|Brouwerij du Bocq voor Corsendonk nv|7.5
+Couckelaerschen Doedel|Brouwerij Strubbe|6.5
+Courage|Brouwerij De Dochter van de Korenaar|8.0
+Coy'Heimsen|Brouwerij Van Eecke|6.0
+Corsendonk Triple 11.11.11|Brouwerij du Bocq voor Corsendonk nv|7.5
+Crack Pils|Brouwerij Het Sas|5.0
+Crianza|Brasserie de la Senne|7.0
+Cristal Alken|Alken-Maes (Heineken)|4.8
+Cristal 1928|Alken-Maes (Heineken)|5.8
+Cuvée Angélique|Brouwerij De Glazen Toren|8.3
+Cuvée de Briqville|Brouwerij Van Steenberge|7.0
+Cuvée de Bouillon|Brasserie de Bouillon|6.5
+Cuvée De Ranke|Brouwerij De Ranke|7.0
+Cuvée des Jacobins|Brouwerij Bockor|5.5
+Cuvée des Trolls|Brouwerij Dubuisson|7.0
+Cuvée des Trolls Triple|Brouwerij Dubuisson|7.0
+Cuvée Delphine|De Struise Brouwers bij Brouwerij Deca|13.0
+Cuvée de Francorchamps|Brouwerij Lefebvre|8.0
+Cuvée du Château|Brouwerij Van Honsebrouck|11.0
+Cuvée du Flo Ambrée|Brasserie du Flo|8.5
+Cuvée d'Erpigny|Brouwerij Alvinne|15.0
+Cuvée du Flo Blonde|Brasserie du Flo|8.0
+Cuvée du Flo Brune|Brasserie du Flo|9.0
+Cuvée du Flo Fruit|Brasserie du Flo|6.5
+Cuvée du Flo Miel|Brasserie du Flo|8.5
+Cuvée du Tchesté|Brasserie Les 3 Fourquets in opdracht van de Confrérie du Tchesté de Neufchâteau|7.5
+Cuvée Ermesinde|Brasserie Saint-Monon|7.8
+Cuvée Freddy|Brouwerij Alvinne|10.0
+Cuvée René Oude Geuze|Brouwerij Lindemans|5.5
+Cuvée Jeun'homme|Brouwerij De Leite|6.5
+Cuvée Jolie Môme|Brasserie du Flo|4.5
+Cuvée Li Crochon|Brasserie Du Bocq|8.7
+Cuvée Mam'zelle|Brouwerij De Leite|8.5
+Cuvée Saint-Antoine Blonde|Brasserie du Flo|7.5
+Cuvée René Oude Kriek|Brouwerij Lindemans|6.0
+Cuvée Saint-Antoine Brune|Brasserie du Flo|9.0
+Cuvée Saint Gilloise|Brouwerij Cantillon|5.0
+Cuvée Soeur'Ise|Brouwerij De Leite|8.5
+Cuvée van de Keizer Blauw|Brouwerij Het Anker|11.0
+Darinckdelver|Brouwerij Alvinne|10.5
+Cuvée van de Keizer Rood|Brouwerij Het Anker|10.0
+Dark White BBB|Brasserie Fantôme|4.5
+Dagelyckx bier|Brouwerij Jessenhofke|8.0
+De Boomgaard Framboise|Brasserie d'Ecaussinnes|4.9
+de Chokier|De Proefbrouwerij|7.0
+De Eycken Balthazar|Brouwerij Alvinne|9.0
+De Garre Tripel|Staminee De Garre (Brouwerij Van Steenberge)|11.5
+De Graal Blond|Brouwerij De Graal|6.5
+De Graal Dubbel|Brouwerij De Graal|6.5
+De Graal Gember|Brouwerij De Graal|8.0
+De Graal SloCK|Brouwerij De Graal|6.5
+De Graal Tripel|Brouwerij De Graal|9.0
+De Graal Quest|Brouwerij De Graal|9.0
+De Graal Triverius|Brouwerij De Graal|6.8
+De Kavijaks|De Dolle Brouwers voor Kaffee Kavijaks|7.0
+De Koninck|Brouwerij De Koninck (Duvel-Moortgat)|5.2
+De Koninck Triple d'Anvers|Brouwerij De Koninck (Duvel-Moortgat)|8.0
+De Koninck Winter|Brouwerij De Koninck (Duvel-Moortgat)|6.5
+De Maeght van Gottem|Huisbrouwerij Sint-Canarus|6.5
+De Nacht|Brouwerij Vissenaken|5.2
+De Regenboog IJzer|Brouwerij De Regenboog|6.0
+De Verboden Vrucht|Brouwerij De Kluis (InBev)|8.5
+De Vlier X-Mas|Brouwerij De Vlier|8.5
+Deinze Export|Huisbrouwerij Sint Canarus voor JCI Deinze en Leiestreek|4.6
+Delhaize Christmas|Affligem Brouwerij|9.0
+Delhaize Tafelbier Blond|Brouwerij Piedbœuf (InBev)|1.5
+Delirium Nocturnum|Brouwerij Huyghe|9.0
+Delhaize Tafelbier Bruin|Brouwerij Piedbœuf (InBev)|1.5
+Delirium Tremens|Brouwerij Huyghe|9.0
+Delirium Christmas|Brouwerij Huyghe|10.0
+Delirium Red|Brouwerij Huyghe|8.5
+Delta|Brouwerij Anders! voor Brussels Beer Project|6.0
+Den Alternatief|Brouwerij Het Alternatief bij Brouwerij Alvinne|5.0
+Den Bi3r|Brouwerij Den Tseut|9.0
+Den Bras|Brouwerij Den Tseut|7.5
+Den Drupneuze|Brouwerij Den Tseut|8.5
+Den Herberg Amber|Brouwerij Den Herberg|5.0
+Den Herberg Blond|Brouwerij Den Herberg|5.5
+Den Herberg Bruin|Brouwerij Den Herberg|5.5
+Den Herberg Tarwe|Brouwerij Den Herberg|5.0
+Den Mulder|Brouwerij Den Tseut|8.0
+Den Tseut|Brouwerij Den Tseut|6.5
+Den Twaalf|Brouwerij 't Gaverhopke|12.0
+Den Zytholoog|Brouwerij De Graal voor bierfirma Vacas|6.6
+Dendermonde Tripel|Brouwerij De Block|8.0
+Dentergems Wit|Brouwerij Het Anker|5.0
+Deugniet|Brasserie Du Bocq|7.3
+DeuS|Brouwerij Bosteels|11.5
+Diabolici|Groep John Martin|8.0
+Diôle|Brasserie des Carrières|6.5
+Dobbel Palm|Brouwerij Palm|6.0
+Dobbelken Amber|Brouwerij Strubbe|6.5
+Dobbelken Bruin|Brouwerij Strubbe|5.0
+Dogabier|Huisbrouwerij Sint-Canarus|6.5
+Dominus Dubbel|Group John Martin|6.5
+Dominus Tripel|Group John Martin|8.0
+Donkere Stoere|Brouwerij DijkWaert|8.2
+Double Bie|Brouwerij De Bie|6.5
+Double de Brabant|Groep John Martin|6.5
+Double Enghien Brune|Brasserie de Silly|8.0
+Double Enghien Blonde|Brasserie de Silly|7.5
+Douglas Celtic Brown|Scottish & Newcastle voor Groep John Martin|7.9
+Douglas Celtic Lager|Scottish & Newcastle voor Groep John Martin|5.0
+Dikke Mathile|Brouwerij Strubbe|6.0
+Douglas Celtic Red|Scottish & Newcastle voor Groep John Martin|7.9
+Douglas Celtic Super|Scottish & Newcastle voor Groep John Martin|7.9
+Drongens Plezierke|Brouwerij Slaghmuylder|7.5
+Douglas Celtic XXX Strong|Scottish & Newcastle voor Groep John Martin|12.0
+Draeckenier|De Proefbrouwerij voor Brouwerij Troch|7.5
+Druïde Blond|De Proefbrouwerij voor Brouwerij Druïde|6.5
+Druïde Bruin|De Proefbrouwerij voor Brouwerij Druïde|6.5
+Druïde Grand Q|De Proefbrouwerij voor Brouwerij Druïde|8.5
+Druivenbier|Brouwerij Van Steenberge voor Brouwerij Paeleman|6.0
+Dubbel Klok|Brouwerij Boelens|8.5
+Dubbel Buitenlust|De Proefbrouwerij|8.5
+Ducassis|Brasserie des Légendes|3.0
+Duchesse de Bourgogne|Brouwerij Verhaeghe Vichte|6.2
+Duivels Bier|Brouwerij Boon|8.0
+Dulle Griet|De Scheldebrouwerij|6.5
+Dulle Teve|De Dolle Brouwers|10.0
+Duvel|Brouwerij Duvel Moortgat|8.5
+Duvel Tripel Hop|Brouwerij Duvel Moortgat|9.5
+Echt Kriekenbier|Brouwerij Verhaeghe|6.8
+Echte Kriek|Brouwerij Verhaeghe|6.8
+Edel-Brau|Brouwerij Strubbe|0.3
+Eerwaarde Pater|Brouwerij Het Alternatief bij Brouwerij De Graal of Brouwerij Alvinne|9.0
+Egotripel|Brouwerij Opus Magnum|6.5
+Eeuwige Liefde|Brouwerij DijkWaert|8.2
+Egmont|Brouwerij Strubbe voor Brouwerij Crombé|6.5
+Elliot Brew|De Struise Brouwers bij Brouwerij Deca|9.0
+El Toro|Brouwerij Contreras|6.5
+Embrasse|Brouwerij De Dochter van de Korenaar|9.0
+Embrasse Special Edition|Brouwerij De Dochter van de Korenaar|9.0
+Ename Blond|Brouwerij Roman|6.5
+Ename Dubbel|Brouwerij Roman|6.5
+Ename Tripel|Brouwerij Roman|8.5
+Ename Cuvée 974|Brouwerij Roman|7.0
+Enfant Terriple|Brouwerij De Leite|8.2
+Estaminet Premium Pils|Brouwerij Palm|5.2
+Enghien Noël|Brasserie de Silly|9.0
+Equinox|Brouwerij De Ranke voor Brasserie de la Senne|8.0
+Eupener Bier|Brouwerij Haacht|5.2
+Export 8|Brouwerij Haacht|4.7
+Extase|Brouwerij De Dochter van de Korenaar|8.5
+Ezel Bruin|Brouwerij Bavik|6.5
+Ezel Wit|Brouwerij Bavik|5.8
+Fancy|Brouwerij Bavik|0.5
+Fantôme|Brasserie Fantôme|8.0
+Fantôme Chocolat|Brasserie Fantôme|8.0
+Fantôme Spéciale Noel|Brasserie Fantôme|8.0
+Faro Boon|Brouwerij Boon|4.0
+Faro Girardin|Brouwerij Girardin|5.0
+Faro Lambic Lindemans|Brouwerij Lindemans|4.5
+Faro Perte Totale|Brouwerij Boon|5.0
+Fasso Blond|Brouwerij Vissenaken|6.5
+Felix Kriek Oud Bruin|Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)|6.0
+Felix Kriekbier|Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)|5.2
+Felix Oud Bruin|Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)|5.2
+Felix Speciaal Oudenaards|Brouwerij Verhaeghe voor Brouwerij Clarysse (bierfirma)|4.6
+Femme Fatale|Brouwerij De Leite|6.5
+Ferme Framboos|Brouwerij De Vlier|8.0
+Ferre|Brouwerij Maenhout bij Brouwerij Gulden Spoor|10.0
+Festina Lente|Brouwerij Alvinne|7.0
+Finesse|Brouwerij De Dochter van de Korenaar|8.5
+Flandrien|Brouwerij Louwaege|7.0
+Flodder|De Proefbrouwerij voor bierfirma VALOCCO|8.0
+Floreffe Blond|Brouwerij Lefebvre|6.3
+Floreffe Dubbel|Brouwerij Lefebvre|6.3
+Floreffe Prima Melior|Brouwerij Lefebvre|8.0
+Floreffe Tripel|Brouwerij Lefebvre|7.5
+Floreffe Wit-Bier|Brouwerij Lefebvre|4.5
+Florilège de Pensée|Brasserie d'Ecaussinnes|9.0
+Florilège de Rose|Brasserie d'Ecaussinnes|9.0
+Florilège de Sureau|Brasserie d'Ecaussinnes|9.0
+Florilège d’Hibiscus|Brasserie d'Ecaussinnes|9.0
+Floris Cactus|Brouwerij Huyghe|4.2
+Floris Chocolat|Brouwerij Huyghe|4.2
+Floris Fraise|Brouwerij Huyghe|3.6
+Floris Framboise|Brouwerij Huyghe|3.7
+Floris Griotte|Brouwerij Huyghe|3.0
+Floris Honey|Brouwerij Huyghe|4.5
+Floris Kriek|Brouwerij Huyghe|3.6
+Floris Mango|Brouwerij Huyghe|3.6
+Floris Passion|Brouwerij Huyghe|3.6
+Floris Ninkeberry|Brouwerij Huyghe|3.6
+Floris Pear|Brouwerij Huyghe|3.5
+Floris Pomme / Apple|Brouwerij Huyghe|3.5
+Floris Witbier|Brouwerij Huyghe|5.0
+Florival Bruin|Affligem Brouwerij|7.0
+Florival Tripel|Affligem Brouwerij|8.5
+Florival Winter|Affligem Brouwerij|9.0
+Forestinne Ambrosia|Brasserie Caracole|7.5
+Forestinne Gothika|Brasserie Caracole|7.5
+Forestinne Mysteria|Brasserie Caracole|7.5
+Forestinne Nordika|Brasserie Caracole|7.5
+Foewerbier|Brouwerij Kerkom|7.0
+Forestinne Primoria|Brasserie Caracole|7.5
+Fort Lapin 8|Brouwerij Fort Lapin|8.0
+Framboise Girardin|Brouwerij Girardin|5.0
+Framboise Boon|Brouwerij Boon|6.0
+Framboise Lindemans|Brouwerij Lindemans|2.5
+Framboise Max Jacobins|Brouwerij Bockor|3.0
+Framboise Oud Beersel|Brouwerij Oud Beersel|5.0
+Frasnoise Givrée|Brasserie La Frasnoise|6.3
+Frasnoise Rétro|Brasserie La Frasnoise|6.3
+Freaky|Brouwerij Alvinne|3.8
+Freaky Dark|Brouwerij Alvinne|3.8
+Fruitig Bierreke|Brouwerij DijkWaert|8.2
+Gageleer|De Proefbrouwerij|7.5
+Gamma|Brouwerij Anders! voor Brussels Beer Project|6.0
+Gandavum Dry Hopping|De Proefbrouwerij voor Het Waterhuis aan de bierkant|7.5
+Gaspar|Brouwerij Alvinne|8.0
+Gauloise Ambrée|Brasserie Du Bocq|5.5
+Gauloise Blonde|Brasserie Du Bocq|6.3
+Gauloise Brune|Brasserie Du Bocq|8.1
+Gauloise Christmas|Brasserie Du Bocq|8.1
+Gentse Strop|Brouwerij Roman|6.9
+Gentse Tripel|Brouwerij Van Steenberge|8.0
+Gertrude Ambrée|Brasserie de Bouillon|6.0
+Gertrude Triple|De Proefbrouwerij|7.5
+Geuze Cantillon 100% Lambic Bio|Brouwerij Cantillon|5.0
+Gueuze Girardin|Brouwerij Girardin|5.0
+Gueuze Girardin gefilterd|Brouwerij Girardin|5.0
+Gauloise Red|Brasserie Du Bocq|8.2
+Geuze Jacobins|Brouwerij Bockor|5.5
+Geuze Lindemans|Brouwerij Lindemans|5.5
+Geuze Mariage Parfait|Brouwerij Boon|8.0
+Ghulden Cop|Brouwerij De Graal|6.0
+Florival Blond|Affligem Brouwerij (Brouwerij De Smedt)|7.0
+Gigi speciale|Brasserie Gigi|2.5
+Gildenbier|Brouwerij Haacht|7.0
+Glutaner|Brouwerij Huyghe|5.2
+Ginder Ale|InBev|5.1
+Goedendag|Brouwerij Toye|8.0
+Goeie Koffe|Brouwerij DijkWaert|9.5
+Goliath Blonde|Brasserie des Légendes|5.5
+Goliath Triple|Brasserie des Légendes|9.0
+Golden Kenia|Brouwerij Huyghe|5.1
+Gold Pils|Brouwerij Bavik|5.0
+Golding Campina|Alken-Maes (Heineken)|4.8
+Gordon 0|0|0.0
+Gordon Finest Chrome|Group John Martin|10.5
+Gordon Finest Copper|Group John Martin|6.6
+Gordon Finest Gold|Group John Martin|10.0
+Gordon Finest Platinum|Group John Martin|12.0
+Gordon Finest Red|Group John Martin|8.4
+Gordon Finest Scotch|Group John Martin|8.6
+Gordon Finest Silver|Group John Martin|7.7
+Gordon Finest Zero|Group John Martin|0.0
+Gordon Five|Group John Martin|5.0
+Gordon Xmas|Brouwerij Palm voor Group John Martin|8.8
+Gouden Arend 125|Brouwerij De Ryck|8.5
+Goud Vuur|Brouwerij DijkWaert|9.0
+Gouden Carolus Christmas|Brouwerij Het Anker|10.5
+Gouden Carolus Ambrio|Brouwerij Het Anker|8.0
+Gouden Carolus Classic|Brouwerij Het Anker|8.5
+Gouden Carolus Easter|Brouwerij Het Anker|10.0
+Gouden Carolus Hopsinjoor|Brouwerij Het Anker|8.0
+Gouden Carolus Tripel|Brouwerij Het Anker|9.0
+Gouden Pier Kloeffe|De Proefbrouwerij voor Brouwerij Slaapmutske|8.1
+Goudster|Brouwerij Anders! voor Verenigde Brouwers|6.0
+Gouyasse Tradition|Brasserie des Géants|6.0
+Gouyasse Triple|Brasserie des Géants|9.0
+Grand Cru Bruocsella|Brasserie Cantillon|5.0
+Green Buzz|Brasserie Millevertus|6.0
+Grelotte|Brasserie Grain d'Orge|9.0
+Gribousine Blonde|Brasserie La Binchoise (voor Brasserie de Malonne)|8.5
+Gribousine Brune|Brasserie La Binchoise (voor Brasserie de Malonne)|8.0
+Griboval|Brouwerij Van Den Bossche voor Scouts Moen 50 jaar (2011)|6.5
+Gribousine Hiver|Brasserie La Binchoise (voor Brasserie de Malonne)|8.5
+Grimbergen Blond|Alken-Maes (Heineken - Carlsberg)|6.7
+Grimbergen Cuvée de l'Ermitage|Alken-Maes (Heineken - Carlsberg)|7.5
+Grimbergen Dubbel|Alken-Maes (Heineken - Carlsberg)|6.5
+Grimbergen Goud 8°|Alken-Maes (Heineken - Carlsberg)|8.0
+Grimbergen Optimo Bruno|Alken-Maes (Heineken - Carlsberg)|10.0
+Grimbergen Selection|Alken-Maes (Heineken - Carlsberg)|7.0
+Grimbergen Tripel|Alken-Maes (Heineken - Carlsberg)|9.0
+Grisette Ambrée|Brouwerij St-Feuillien|5.0
+Grisette Blanche|Brouwerij St-Feuillien|5.0
+Grisette Blonde|Brouwerij St-Feuillien|4.5
+Grisette Cérise|Brouwerij St-Feuillien|3.5
+Grisette Country Cool|Brouwerij St-Feuillien|3.5
+Grisette Fruits des Bois|Brouwerij St-Feuillien|3.5
+Grottenbier|Brouwerij St-Bernardus|6.5
+Grotten Flemish Ale|Brouwerij St-Bernardus|7.7
+Gruut Amber|Stadsbrouwerij Gruut|6.6
+Gruut Blond|Stadsbrouwerij Gruut|5.5
+Gruut Bruin|Stadsbrouwerij Gruut|8.0
+Gruut Inferno|Stadsbrouwerij Gruut|9.0
+Gruut Wit|Stadsbrouwerij Gruut|5.0
+Guido|Brouwerij De Regenboog|8.0
+Gulden Delle|Brouwerij De Vlier|8.5
+Gulden Draak|Brouwerij Van Steenberge|10.5
+Guldenberg|Brouwerij De Ranke|8.5
+Gypsy Rose|Brasserie Sainte-Hélène|9.0
+Haanse Witte|Brouwerij Strubbe voor den Haene|5.5
+Halleschelle|Brouwerij Alvinne|8.5
+Hanssens Lambic Experimental Cassis|Brouwerij Hanssens|4.0
+Hanssens Lambic Experimental Raspberry|Brouwerij Hanssens|4.0
+Hapkin|Alken-Maes (Heineken)|8.5
+Harelbekenaar van de abdijhoeve|Brouwerij Van Eecke|6.0
+Hector|Brouwerij De Graal|8.2
+Heksemiebier|Microbrouwerij Achilles|6.2
+Hellekapelle|Brouwerij De Bie|5.0
+Helleketelbier|Brouwerij De Bie|7.0
+Hercule Stout|Brasserie des Légendes|9.0
+Herkenrode Bruin|Brouwerij Sint-Jozef|7.0
+Herkenrode Tripel|Brouwerij Sint-Jozef|7.0
+Hertalse Poorter|Brouwerij Slaghmuylder|6.5
+Hertenheer|Scheldebrouwerij voor Brouwerij Het Nest|6.5
+Hik Blond|Brouwerij Het Alternatief bij Brouwerij De Graal|6.5
+Hervoise|Brasserie Grain d'Orge|8.2
+Hik Bruin|Brouwerij Het Alternatief bij Brouwerij De Graal|6.5
+Himelein|Brouwerij Vissenaken|6.0
+Hoegaarden|Brouwerij De Kluis (InBev)|4.9
+Hoegaarden 0|0|0.0
+Hoegaarden 0|0|0.0
+Hoegaarden Citron|Brouwerij De Kluis (InBev)|3.0
+Hoegaarden Grand Cru|Brouwerij De Kluis (InBev)|8.5
+Hoegaarden Rosée|Brouwerij De Kluis (InBev)|3.0
+Hoegaarden Verboden Vrucht|Brouwerij De Kluis (InBev)|8.8
+Hoegaarden Spéciale|Brouwerij De Kluis (InBev)|5.7
+Hof Korvatunturi|'t Hofbrouwerijke|11.0
+Hof ten Dormaal Amber|Brouwerij Hof ten Dormaal|7.5
+Hof ten Dormaal Blond|Brouwerij Hof ten Dormaal|8.0
+Hof ten Dormaal Donker|Brouwerij Hof ten Dormaal|8.5
+Hofblues|'t Hofbrouwerijke|5.5
+Hofdraak|'t Hofbrouwerijke|6.5
+Hofelf|'t Hofbrouwerijke|7.5
+Hofnar|'t Hofbrouwerijke|9.0
+Hofpint|'t Hofbrouwerijke|5.5
+Hoftrol|'t Hofbrouwerijke|6.2
+Hommelbier|Brouwerij Van Eecke|7.5
+Holger|Brouwerij Martens|5.0
+Hop Harvest|Brouwerij De Ranke|8.0
+Hop Ruiter|Scheldebrouwerij|8.0
+Hoppa Hontas|Brouwerij Maenhout|6.5
+Hopjutters Triple Hop|Brouwerij De Graal voor De Hopjutters|7.3
+Hoppe|Brouwerij Van Steenberge|5.0
+Hoppesnoet|Huisbrouwerij Den Tseut|8.5
+Hopus|Brouwerij Lefebvre|8.3
+Hopverdomme|De Struise Brouwers|7.5
+Hop Verdomme IPA|Brouwerij Kerkom|7.0
+Horal's Oude Geuze Mega Blend|3 Fonteinen;Brouwerij Boon;Timmermans;Oud Beersel;Lindemans;De Troch;De Cam;Hanssens|7.0
+Horse-Ale|AB-InBev|5.0
+Horst bier|Brouwerij Haacht|6.5
+Hotteuse Grand Cru|Affligem Brouwerij|8.0
+Hougaerdse Das|Brouwerij De Kluis (InBev)|5.1
+Holsbeek Lentetripel|Brouwerij De Vlier|8.5
+Houblon Chouffe Dobbelen IPA Tripel|Brouwerij d'Achouffe (Duvel-Moortgat)|9.0
+Houten Kop|Brouwerij Strubbe|6.5
+Huardis|Brouwerij Nieuwhuys|5.2
+Ichtegem's Oud Bruin|Brouwerij Strubbe|5.0
+Ignis & Flamma|De Struise Brouwers bij Brouwerij Deca|7.0
+Ichtegem’s grand cru|Brouwerij Strubbe|6.5
+IM-JIN|Brasserie Grain d'Orge|7.5
+IPA|Brouwerij Strubbe|7.9
+Iris|Brouwerij Cantillon|6.0
+Irma|voor bierfirma Vacas|6.0
+Itters Bruin|Brouwerij Sint-Jozef|1.3
+Jack’Ouille|Brasserie de Bouillon|5.5
+Jack-Op|Brouwerij Boon|5.5
+Jaded Stillwater Artisanal|De Struise Brouwers bij Brouwerij Deca|10.0
+Jambe-de-bois|Brouwerij De Ranke voor Brasserie de la Senne|8.0
+Jan Buuc|Brouwerij Het Sas|7.5
+Jan De Lichte|Brouwerij De Glazen Toren|7.0
+Jan van Oudenaarde|Brouwerij Slaapmutske|8.0
+Jan van Gent|Brouwerij Liefmans|5.5
+Janus Triple|Brouwerij De Ranke|8.0
+Jean Nicot|Brouwerij De Graal|8.5
+Jeanke|Brasserie St. Jean|0.0
+Jessenhofke Maya|De Proefbrouwerij voor Brouwerij Jessenhofke|6.0
+Jessenhofke Bruin|De Proefbrouwerij voor Brouwerij Jessenhofke|7.0
+Jezuwiet|Brouwerij Boelens|8.5
+Jessenhofke Tripel|De Proefbrouwerij voor Brouwerij Jessenhofke|8.0
+Johannes|Brouwerij De Graal voor bierfirma Johannes|6.5
+Joseph|Brasserie de Silenrieux|5.4
+Joseph Bio|Brasserie de Silenrieux|5.4
+Joup|Brasserie Grain d'Orge|7.5
+Julius|Brouwerij De Kluis (InBev)|8.7
+Judas|Alken-Maes (Heineken)|8.5
+Jules de Bananes|Brouwerij De Ryck|4.9
+Jules de Kriek|Brouwerij De Ryck|4.9
+Jupiler|Brouwerij Piedbœuf|5.2
+Jupiler Blue|Brouwerij Piedbœuf (InBev)|3.3
+Jupiler NA|Brouwerij Piedbœuf (InBev)|0.5
+Jupiler New Tauro|Inbev|6.2
+Jupiler Tauro|Inbev|8.3
+Kalle|Brouwerij Gulden Spoor|8.0
+Kameleon Amber|Brouwerij Den Hopperd|6.5
+Kameleon Donker|Brouwerij Den Hopperd|6.0
+Kameleon Ginseng|Brouwerij Den Hopperd|6.5
+Kameleon Tripel|Brouwerij Den Hopperd|8.5
+Kapittel Abt|Brouwerij Van Eecke|10.0
+Kapittel Blond|Brouwerij Van Eecke|6.5
+Kamil|De Proefbrouwerij voor bierfirma BVG|6.5
+Kapel van Viven Bruin|De Proefbrouwerij voor Beerdevelopment Viven|6.6
+Kapittel Dubbel|Brouwerij Van Eecke|7.5
+Kapittel Pater|Brouwerij Van Eecke|6.0
+Kapittel Prior|Brouwerij Van Eecke|9.0
+Kapittel Tripel Abt|Brouwerij Van Eecke|10.0
+Karlsquell|Brouwerij Martens|4.6
+Kastaar|Brouwerij De Block|6.0
+Kasteel Blond|Brouwerij Van Honsebrouck|7.0
+Kasteel Cuvée du Chateau|Brouwerij Van Honsebrouck|11.0
+Kasteel Donker|Brouwerij Van Honsebrouck|11.0
+Kasteel Hoppy|Brouwerij Van Honsebrouck|6.5
+Kapel van Viven Blond|De Proefbrouwerij voor Beerdevelopment Viven|6.8
+Kasteel Rouge|Brouwerij Van Honsebrouck|8.0
+Kasteel Tripel|Brouwerij Van Honsebrouck|11.0
+Kasteelbier Blond|Brouwerij Van Honsebrouck|11.0
+Kasteelbier Bruin|Brouwerij Van Honsebrouck|11.0
+Kasteelbier Ooidonk|Brouwerij Van Honsebrouck|11.0
+Kastel|De Proefbrouwerij in opdracht van De Kastelse Biervereniging|7.0
+Katje Special|Brouwerij Het Sas|6.0
+Keikop Saison|Brouwerij De Graal voor Brouwerij De Kassei|6.5
+Kastels pompoenbier|De Proefbrouwerij in opdracht van De Kastelse Biervereniging|0.0
+Keikop Tripel|Brouwerij De Graal voor Brouwerij De Kassei|8.7
+Keikoppenbier|Brouwerij De Plukker|6.1
+Keizer Karel Robijn Rood|Brouwerij Haacht|8.5
+Keizer Karel Goud Blond|Brouwerij Haacht|8.5
+Keizersberg|Brouwerij Van Steenberge|9.0
+Kempisch Vuur Tripel|De Proefbrouwerij in opdracht van Brouwerij Pirlot|7.5
+Kempisch Vuur 3-Dubbel|De Proefbrouwerij in opdracht van Brouwerij Pirlot|7.5
+Kerasus|Brouwerij Alvinne|5.5
+Kerelsbier Donker|Brouwerij Het Sas|6.4
+Kerelsbier Licht|Brouwerij Het Sas|6.4
+Kerkomse Tripel|Brouwerij Kerkom bij Brouwerij Sint-Jozef|9.0
+Kerstpater|Brouwerij Van Den Bossche|9.0
+Kerstbie|Brouwerij De Bie|8.0
+KerstSmiske|Brouwerij Smisje|11.0
+Kerstvuur|De Proefbrouwerij voor Brouwerij Pirlot|8.0
+Kessel 69|Brouwerij De Vlier|6.9
+Kessel Blond|Brouwerij De Vlier|7.5
+Keyte-Dobbel-Tripel|Brouwerij Strubbe|9.2
+Keyte|Brouwerij Strubbe|7.5
+Klets|Brouwerij Bier & Karakter bij Brouwerij Deca|8.0
+Kleveretien|De Scheldebrouwerij voor Brouwerij Het Nest|10.0
+Klingse Kalsei|Brouwerij Van Steenberge|8.0
+Kloefkapper|Brouwerij 't Paenhuys|5.7
+Kloeke Blonde|De Struise Brouwers|6.0
+Klokke Roeland|Brouwerij Van Steenberge|11.5
+Klooster van Viven|De Proefbrouwerij voor Beerdevelopment Viven|6.6
+Koantjesbier|De Proefbrouwerij voor Bierfirma Vacas|7.0
+Koekelaring|Brouwerij De Graal voor De Hoevebrouwers|6.5
+Koeketiene|Brouwerij Maenhout|8.5
+Koerseklakske|Brouwerij 't Gaverhopke|5.5
+Korsakoff|'t Hofbrouwerijke|6.5
+Kortrijk-d’Utsel|Brouwerij Kortrijk-d’Utsel|8.5
+Kriek Belgique|Brasserie du Bocq|3.5
+Kriek Boon|Brouwerij Boon|4.5
+Kriek De Ranke|Brouwerij De Ranke|4.5
+Kriek Cantillon 100% Lambic|Brouwerij Cantillon|5.5
+Kriek de Silenrieux|Brasserie de Silenrieux|4.5
+Kriek Fantastiek|Brouwerij De Ryck|4.9
+Kriek Girardin|Brouwerij Girardin|5.0
+Kriek Jacobins|Brouwerij Bockor|4.5
+Kriek Lindemans|Brouwerij Lindemans|3.5
+Kriek Mariage Parfait|Brouwerij Boon|8.0
+Kriekedebie|Brouwerij De Bie|4.4
+Kriekenbier|Brouwerij Sint-Jozef|4.0
+Kriekenbier|Brouwerij Strubbe|4.5
+Kriek Max|Brouwerij Bockor|3.2
+Kwaremont|Brouwerij Bavik|6.6
+Kwets|Brouwerij De Graal voor Microbrouwerij Paeleman in opdracht van Kwets vzw|6.8
+Kwibus Blond|Brouwerij Danny|6.4
+Kwibus Donker|Brouwerij Danny|6.4
+La Barbiot Ambrée|Brasserie la Barbiot|9.5
+La Barbiot Blonde|Brasserie la Barbiot|8.0
+La Binchoise Blonde|Brouwerij La Binchoise|6.2
+La Binchoise Brune|Brouwerij La Binchoise|7.7
+La Binchoise Organic’ Brune|Brouwerij La Binchoise|7.0
+La Binchoise Organic’ Miel|Brouwerij La Binchoise|8.5
+La Binchoise Spéciale Noël|Brouwerij La Binchoise|9.0
+La Binchoise Organic’ Triple|Brouwerij La Binchoise|8.5
+La Binchoise Triple|Brouwerij La Binchoise|8.5
+La Binchoise XO|Brouwerij La Binchoise|12.0
+La Botteresse Ambrée|Brasserie la Botteresse de Sur-les-bois|8.5
+La Botteresse de Noël|Brasserie la Botteresse de Sur-les-bois|10.5
+La Botteresse Blonde|Brasserie la Botteresse de Sur-les-bois|7.5
+La Botteresse Brune|Brasserie la Botteresse de Sur-les-bois|9.5
+La Botteresse aux cerises|Brasserie la Botteresse de Sur-les-bois|5.5
+La Botteresse aux pommes|Brasserie la Botteresse de Sur-les-bois|5.4
+La Botteresse Ambrée au miel|Brasserie la Botteresse de Sur-les-bois|8.5
+La Blanche des Saisis|Brasserie Ellezelloise|6.2
+La Bouillonnaise|Brasserie de Bouillon|7.0
+La Chérie|Brasserie Val de Sambre|5.0
+La Chèvenis|Brasserie de Bouillon|6.0
+La Chouffe|Brouwerij d'Achouffe (Duvel-Moortgat)|8.0
+La Corne du Bois des Pendus Blonde|Brasserie d'Ebly|5.9
+La Corne du Bois des Pendus Triple|Brasserie d'Ebly|7.0
+La Cré Tonnerre|Brasserie de Silly|7.0
+La Divine|Brasserie de Silly|9.5
+La Douce Vertus|Brasserie Millevertus|7.0
+La Fumette|Brasserie Millevertus|6.5
+La Grognarde|Brasserie Sainte-Hélène|5.5
+La Guillotine|Brouwerij Huyghe|8.5
+La Jamboise de Bister|Brouwerij Lefebvre|6.5
+La Loubécoise|Brasserie d'Ecaussinnes|8.0
+La Mac Vertus|Brasserie Millevertus|4.8
+La Médiévale|Brasserie de Bouillon|6.0
+La Mère Vertus|Brasserie Millevertus|7.0
+La Moneuse|Brasserie de Blaugies|8.0
+La Moneuse Spéciale Noël|Brasserie de Blaugies|8.0
+La Namuroise|Les Artisans Brasseurs|7.0
+La Moraipire|Brasserie Millevertus|8.5
+La Noire Fontaine|Brasserie de Bouillon|8.0
+La Penneffoise|Brasserie d'Ecaussinnes|8.0
+La Pils des 3 Canaux|Authentique Brasserie|4.5
+La Poiluchette Brune|Brouwerij Huyghe|7.5
+La Poiluchette Blonde Cuvéé du Château|Brouwerij Huyghe|7.5
+La Poirette de Fontaine|Brasserie la Botteresse de Sur-les-bois|8.5
+La Prime|Brasserie Sainte-Hélène|8.5
+La Rulles Blonde|Brasserie Artisanale de Rulles|7.0
+La Rulles Brune|Brasserie Artisanale de Rulles|6.5
+La Rulles Cuvée Meilleurs Vœux|Brasserie Artisanale de Rulles|7.3
+La Rulles Triple|Brasserie Artisanale de Rulles|8.4
+La Rulles La Grande 10|Brasserie Artisanale de Rulles|10.0
+La Safranaise|Brasserie Millevertus|7.0
+La Saison de Pipaix|Brasserie à Vapeur|6.0
+La Saison des Chasses Ambrée|Brasserie de Bouillon|7.0
+La Saison des Chasses Blonde|Brasserie de Bouillon|6.0
+La Sambresse Blonde|Brouwerij Brootcoorens|8.0
+La Spéciale Fêtes|Brasserie de Bouillon|8.5
+La Rulles Estivale|Brasserie Artisanale de Rulles|5.2
+La Troufette Belle d'été|Brasserie de Bastogne|6.0
+La Troufette Blonde|Brasserie de Bastogne|6.0
+La Trompeuse|Brasserie Jean Tout Seul|6.9
+La Troufette Brune|Brasserie de Bastogne|6.8
+La Troufette Givrée|Brasserie de Bastogne|8.0
+La Troufette Rousse|Brasserie de Bastogne|7.8
+La Vauban|Brasserie de Bouillon|6.0
+La Vapeur en Folie|Brasserie à Vapeur|8.0
+La Vapeur Légère|Brasserie à Vapeur|5.0
+La Vermontoise|Brasserie de Blaugies|6.0
+Lam Gods|Brouwerij Van Steenberge voor Brouwerij Paeleman|6.8
+La Waterlootoise|Brouwerij Van Steenberge|9.0
+L’Amarante|Brasserie Millevertus|8.0
+Lamme Goedzak|De Scheldebrouwerij|7.0
+Lambinus|De Proefbrouwerij voor bierfirma Lesage|8.0
+Le Pavé de l'Ours|Brasserie de Silenrieux|7.5
+Lamoral Degmont|Brouwerij Van Den Bossche|8.0
+Leeuwse Witte|Affligem Brouwerij (Brouwerij De Smedt)|5.0
+Leffe Blond|AB InBev|6.6
+Leeuw Pilsener|Brouwerij Haacht|5.0
+Leffe Bruin|AB InBev|6.5
+Leffe Kerst|AB InBev|6.5
+Leffe Lente|AB InBev|6.5
+Leffe Radieuse|AB InBev|8.2
+Leffe Royale|AB InBev|7.5
+Leffe Ruby|AB InBev|6.5
+Leffe Tripel|AB InBev|8.4
+Leffe Vieille Cuvée|AB InBev|8.2
+Leffe 9°|AB InBev|9.0
+Leireken Boekweit Bruin|Brouwerij Strubbe voor Guldenboot nv|6.0
+Leireken Lager Bio|Brouwerij Strubbe voor Guldenboot nv|5.2
+Leireken Boekweit Blond|Brouwerij Strubbe voor Guldenboot nv|6.0
+Leireken Wilde Vruchten|Brouwerij Strubbe voor Guldenboot nv|5.2
+Leireken Witte Spelt|Brouwerij Strubbe voor Guldenboot nv|5.0
+L'Enfant Terrible|Brouwerij De Dochter van de Korenaar|7.0
+Lesage Blond|De Proefbrouwerij voor bierfirma Lesage|7.0
+Lesage Dubbel|De Proefbrouwerij voor bierfirma Lesage|7.5
+Leute Bokbier|Brouwerij Van Steenberge|7.5
+Li P'tite Gayoûle|Brouwerij De Ranke voor NovaBirra|5.5
+Liefmans Cuvée-Brut|Brouwerij Liefmans|6.0
+Liefmans Frambozenbier|Brouwerij Liefmans|5.4
+Li Berwette di Noyè|Brasserie Saint-Monon voor Confrérie du Busson|8.5
+Liefmans Fruitesse Rood|Brouwerij Liefmans|4.2
+Liefmans Goudenband|Brouwerij Liefmans|8.0
+Liefmans Oud Bruin|Brouwerij Liefmans|5.0
+Liene|'t Hofbrouwerijke in opdracht van Brouwerij Het Nest|7.0
+Liers Kerstbier|Brouwerij Strubbe voor stad Lier|6.0
+Lily Blue|Brasserie Sainte-Hélène|7.5
+Limburgse Witte|Brouwerij Sint-Jozef|5.0
+Limerick|De Proefbrouwerij voor bierfirma Bas-bieren|8.0
+Lindemans Apple|Brouwerij Lindemans|3.5
+Lindemans Cassis|Brouwerij Lindemans|3.5
+Lindemans Framboise|Brouwerij Lindemans|2.5
+Lindemans Kriek|Brouwerij Lindemans|4.0
+Lindemans Pecheresse|Brouwerij Lindemans|2.5
+Liter van Pallieter|Microbrouwerij Achilles|8.0
+Living Tripel|De Proefbrouwerij|9.0
+Li Berwette|Brasserie Saint-Monon voor Confrérie du Busson|8.0
+Livinus Blonde|Brouwerij Van Eecke|10.0
+Lokernaere|Brouwerij Het Sas|5.5
+Livinus|Brouwerij Van den Bossche|10.0
+Loterbol 6°|Brouwerij Loterbol|6.0
+Livinus Brune|Brouwerij Van Eecke|9.0
+Loterbol Blond|Brouwerij Loterbol|8.0
+Lou Pepe|Brasserie Cantillon|5.0
+Louwaege Dubbel Blond|Brouwerij Louwaege|1.4
+Louwaege Faro|Brouwerij Louwaege|1.4
+Loterbol Bruin|Brouwerij Loterbol|8.0
+Louwaege's Kriek|Brouwerijen Alken-Maes|4.3
+Lupulus Blonde|Brasserie les 3 Fourquets|8.5
+Louwaege Stout|Brouwerij Louwaege|4.8
+Lozen Boer|De Proefbrouwerij voor de familie Neyt|10.0
+Lucifer|Brouwerij Het Anker (vroeger in Brouwerij Riva en Brouwerij Liefmans)|8.4
+Lupulus Brune|Brasserie les 3 Fourquets|8.5
+Lusja|Bierfirma NoordSter bij Brouwerij De Vlier|7.0
+Ma Mère Spéciale|Brouwerij De Leite|6.0
+Maerlant|Brouwerij Van Steenberge|9.0
+Lustem|‘t Hofbrouwerijke voor De Verhuisbrouwerij|7.0
+Maes|Alken-Maes|5.2
+Maes Nature|Alken-Maes (Heineken)|1.5
+Mageleno|Huisbrouwerij Sint Canarus|7.5
+Malheur 10|Brouwerij De Landtsheer|10.0
+Malheur 6|Brouwerij De Landtsheer|6.0
+Malheur 12|Brouwerij De Landtsheer|12.0
+Malheur Bière Brut|Brouwerij De Landtsheer|11.0
+Malheur Dark Brut|Brouwerij De Landtsheer|12.0
+Malheur Cuvée Royale|Brouwerij De Landtsheer|9.0
+Maltosa|Brouwerij Haacht|1.2
+Maneblusser|Brouwerij Het Anker|6.0
+Mamouche|Brouwerij Cantillon|5.0
+Manneken Pils|Brouwerij Lefebvre|5.2
+Mano Negra|Brouwerij Alvinne|10.0
+Manten|Brouwerij Gulden Spoor|6.0
+Marckloff|Brasserie La Ferme au Chêne|6.5
+Maredsous blond|Brouwerij Duvel Moortgat|6.0
+Maredsous bruin|Brouwerij Duvel Moortgat|8.0
+Maredsous tripel|Brouwerij Duvel Moortgat|10.0
+Margriet|Brouwerij Het Anker|6.5
+Martens Pils|Brouwerij Martens (Bocholt)|5.0
+Martin’s Blond|Group John Martin|6.0
+Martin’s Pale Ale|Group John Martin|5.5
+Mater Witbier|Brouwerij Roman|5.0
+Mc Chouffe|Brasserie d'Achouffe (Duvel-Moortgat)|8.0
+Mc Thals|Brouwerij DijkWaert|9.5
+Melchior|Brouwerij Alvinne|11.0
+Melchior Oak Aged|Brouwerij Alvinne|11.0
+Melse God|Brouwerij Huyghe|6.5
+Métisse Saison|De Lion à Plume bij Brasserie Sainte-Hélène|5.7
+Merck toch hoe sterck|De Scheldebrouwerij|9.0
+Meuuh!|Brasserie Saint-Monon voor Confrérie du Busson|5.5
+Modeste Bruin|Brouwerij Strubbe voor BioFresh|7.8
+Mistinguett|Brasserie Sainte-Hélène|6.5
+Modeste Tripel|Brouwerij Strubbe voor BioFresh|8.4
+Moeder Overste|Brouwerij Lefebvre|8.0
+Moinette Blonde|Brasserie Dupont|8.0
+Moinette Brune|Brasserie Dupont|8.5
+Moinette Biologique|Brasserie Dupont|7.5
+Molse Tripel|Scheldebrouwerij|8.3
+Mongozo Banana|Brouwerij Huyghe|4.5
+Mongozo Mango|Brouwerij Huyghe|3.6
+Mongozo Coconut|Brouwerij Huyghe|3.5
+Mongozo Palmnut|Brouwerij Huyghe|7.0
+Mongozo Premium Pilsener|Brouwerij Huyghe|5.0
+Mongozo Quinua|Brouwerij Huyghe|5.9
+Monk's Stout|Brasserie Dupont|5.2
+Mont-Saint-Aubert|Brasserie de Brunehaut|8.0
+Montagnarde|Brasserie de l'Abbaye des Rocs|9.0
+Montagnarde Altitude 6|Brasserie de l'Abbaye des Rocs|6.0
+Morpheus Dark|Brouwerij Alvinne|10.2
+Morpheus Extra RA|Brouwerij Alvinne|7.1
+Morpheus Tripel|Brouwerij Alvinne|8.7
+Morpheus Wild|Brouwerij Alvinne|5.9
+Mort Subite Cassis|Brouwerijen Alken-Maes|4.5
+Mort Subite Faro|Alken-Maes|4.0
+Mort Subite Framboise|Alken-Maes|5.0
+Mort Subite Gueuze|Alken-Maes|4.5
+Mort Subite Kriek|Alken-Maes|4.5
+Mort Subite Original Gueuze|Alken-Maes|4.5
+Mort Subite Original Kriek|Alken-Maes|4.5
+Mort Subite Oude Gueuze|Alken-Maes|7.0
+Mort Subite Oude Kriek|Alken-Maes|6.5
+Mort Subite Pêche|Alken-Maes|4.5
+Mort Subite Xtreme Manzana|Alken-Maes|4.2
+Mort Subite Xtreme Kriek|Alken-Maes|4.3
+Mort Subite Witte Lambic|Alken-Maes|5.0
+Moulin de Hollange – Blonde d’Epeautre|Brasserie Millevertus|6.0
+Motuecha|De Struise Brouwers|5.0
+Mort Subite Xtreme Framboise|Alken-Maes|4.3
+Mouten Kop|Brouwerij De Graal voor De Hopjutters|6.0
+Mug|De Scheldebrouwerij|5.0
+Myn's Pils|Brasserie de Silly|5.0
+Mystic Krieken|Brouwerij Haacht|3.5
+Mystic Perzik|Brouwerij Haacht|3.7
+Mystic Limoen|Brouwerij Haacht|3.5
+'n Maurootje|Brouwerij Alvinne|7.0
+'n Peerdevisscher|Brouwerij Strubbe|6.5
+'n Slypke|Brouwerij Van Eecke|6.0
+'n Toeback|Scheldebrouwerij|9.5
+Naked Ladies|Brouwerij Alvinne|4.4
+Napoleon|Affligem Brouwerij (Brouwerij De Smedt)|7.0
+Ne Flierefluiter|Brouwerij De Smedt in opdracht van bierfirma Fisser|8.5
+Ne Kopstoot|Brasserie de Brunehaut|7.0
+Ne Snoeper|'t Hofbrouwerijke|10.0
+Nelle van Cruysem|Huisbrouwerij Sint Canarus|6.0
+Nello's Blond|Brouwerij De Arend|7.0
+Nello's Tripel|Brouwerij De Arend|0.0
+Nen Bangelijke|Brouwerij 't Pakhuis|8.0
+Nen Biskop|Brouwerij Danny voor Stichting Marcel De Bisschop|6.4
+Nen Kerstbal|voor bierfrima Vacas|8.0
+Nen Uts|Brouwerij De Graal voor De Hoevebrouwers|7.0
+Netebuk|Brouwerij Gulden Spoor|6.5
+Newton|Brouwerij Lefebvre|3.5
+N'Ice Chouffe|Brasserie d'Achouffe (Duvel-Moortgat)|10.0
+Nivoo|Brouwerij Anders! voor GIBRIT|7.0
+Noblesse|Brouwerij De Dochter van de Korenaar|5.5
+Noblesse Extra|Brouwerij De Dochter van de Korenaar|7.0
+Noël de Silenrieux|Brasserie de Silenrieux|9.0
+Noir de Dottignies|Brouwerij De Ranke|9.0
+Nondedju|’t Hofbrouwerijke voor Montaigu|10.7
+Nonneke|Brouwerij Anders! voor Nonneke|8.0
+NOORderbierke|Brouwerij Donum Ignis|8.1
+Norman|Bierfirma NoordSter bij Brouwerij De Vlier|7.0
+Nostradamus|Brasserie Caracole|9.0
+Notre Passion|’t Hofbrouwerijke voor Montaigu|8.0
+Nounnette|Brasserie de l'Abbaye des Rocs|7.5
+Novice Blue|Brouwerij De Landtsheer|8.5
+Malheur 8|Brouwerij De Landtsheer|8.0
+Odlo Blond|Brouwerij De Graal voor (T)Huisbrouwerij Odlo|6.7
+Odlo Triviaal|Brouwerij De Graal voor (T)Huisbrouwerij Odlo|8.2
+Oeral|De Dolle Brouwers|6.0
+Oerbier|De Dolle Brouwers|7.5
+Oerbier special Reserva|De Dolle Brouwers|13.0
+Nuits Blanches|Brasserie de l'Abbaye des Rocs|7.5
+Odlo Hivernum|Brouwerij Lupus voor (T)Huisbrouwerij Odlo|8.7
+Oesterstout|De Scheldebrouwerij|8.5
+Omer.|Brouwerij Bockor|8.0
+Ommegang|Brouwerij Haacht|8.0
+Ondineke|Brouwerij De Glazen Toren|8.5
+Op-Ale|Affligem Brouwerij (Brouwerij De Smedt)|5.0
+Opitter|Brouwerij Sint-Jozef|0.0
+Ops-Ale|Brouwerij Sint-Jozef|5.5
+Orval|Abdij Notre-Dame d'Orval|6.2
+Orvélo|De Proefbrouwerij voor bierfirma Half Zeven|7.5
+Oudbeitje|Hanssens Artisanaal|6.0
+Oud Bier|Brouwerij Strubbe|2.1
+Oud Tassels|Brouwerij Boelens voor Bier- en Wijnhandel De Neys-Asselman|8.5
+Oud Kriekenbier|Brouwerij Strubbe|6.0
+Oud Zottegems Bier|Brouwerij Strubbe|6.5
+Oude Geuze 3 Fonteinen|Geuzestekerij 3 Fonteinen|7.0
+Oude Geuze Boon|Brouwerij Boon|6.5
+Oude Geuze De Cam|Geuzestekerij De Cam|6.0
+Oude Geuze Oud Beersel|Brouwerij Oud Beersel|6.0
+Oude Gueuze Hanssens|Hanssens Artisanaal|6.0
+Oude Gueuze Tilquin à l'ancienne|Gueuzerie Tilquin|6.0
+Oude Kriek 3 Fonteinen|Geuzestekerij 3 Fonteinen|6.0
+Oude Geuze Vintage 3 Fonteinen|Geuzestekerij 3 Fonteinen|6.0
+Oude Kriek Boon|Brouwerij Boon|6.5
+Oude Kriek De Cam|Geuzestekerij De Cam|6.5
+Oude Kriek Hanssens|Hanssens Artisanaal|6.0
+Oude Kriek Oud Beersel|Brouwerij Oud Beersel|6.5
+Oude Lambiek De Cam|Geuzestekerij De Cam|5.0
+Oude Quetsche Tilquin à l'ancienne|Gueuzerie Tilquin|6.4
+Outblack|De Struise Brouwers|10.0
+Oxymore|Brasserie Oxymore|5.0
+Pa-Gijs|Brouwerij Boelens|8.5
+Paasei|voor bierfirma Vacas|7.8
+Paix-Dieu|Brasserie Caulier|10.0
+Novice Tripel Black|Brouwerij De Landtsheer|8.5
+Paljas Blond|Brouwerij Anders! voor Brouwerij Henricus|6.0
+Palm|Brouwerij Palm|5.4
+Palm Dobbel|Brouwerij Palm|6.0
+Palm Green|Brouwerij Palm|0.25
+Palm Hopper|Brouwerij Palm|6.0
+Palm Hop Select|Brouwerij Palm|6.0
+Palm Royale|Brouwerij Palm|7.5
+Palm N.A|Brouwerij Palm|0.25
+Palm Sauvin|Brouwerij Palm|4.9
+Palm Speciale|Brouwerij Palm|5.2
+Pandreitje|Brouwerij De Regenboog|7.0
+Pannepot|De Struise Brouwers bij Brouwerij Deca|10.0
+Pannepot Reserva|De Struise Brouwers bij Brouwerij Deca|10.0
+Pannepot Grand Reserva Vintage|De Struise Brouwers bij Brouwerij Deca|10.0
+Pannepeut|De Struise Brouwers bij Brouwerij Deca|10.0
+Papegaei|Brouwerij Deca voor Verstraete|8.0
+Passendale|Brouwerij Duvel Moortgat|6.0
+Pater Lieven Blond|Brouwerij Van Den Bossche|6.5
+Pater Lieven Bruin|Brouwerij Van Den Bossche|6.5
+Pater|De Scheldebrouwerij voor De Lelie|6.0
+Pater Lieven Tripel|Brouwerij Van Den Bossche|8.0
+Pater Verbiest Blond|De Proefbrouwerij|6.5
+Pater Verbiest Donker|De Proefbrouwerij|9.0
+Paternoster Dubbel|Microbrouwerij Achilles in De Proefbrouwerij in opdracht van Paters en Prinsen|8.0
+Paternoster Tripel|Brouwerij Lupus in opdracht van Paters en Prinsen|8.0
+Patrasche dubbel|Brouwerij De Arend|8.0
+Paulus|Brouwerij Het Sas|6.0
+Paus|De Scheldebrouwerij voor De Lelie|8.5
+Pauwel Kwak|Brouwerij Bosteels|8.4
+Pater Lieven Wit|Brouwerij Van Den Bossche|8.0
+Pax Pils|Brouwerij Sint-Jozef|4.6
+Pêche Mel Bush|Brouwerij Dubuisson|8.5
+Père Abbé|Brasserie Du Bocq|7.3
+Pee Klak Grand Cru|Brouwerij Strubbe voor Brouwerij Crombé|8.4
+Père Noël|Brouwerij De Ranke|7.0
+Peter Benoit|Brouwerij Het Sas|5.0
+Petrus Blond|Brouwerij Bavik|6.6
+Petrus Aged Pale|Brouwerij Bavik|7.3
+Petrus Dubbel Bruin|Brouwerij Bavik|6.5
+Petrus Gouden Tripel|Brouwerij Bavik|7.5
+Petrus Oud Bruin|Brouwerij Bavik|5.5
+Petrus Speciale|Brouwerij Bavik|5.5
+Petrus Winterbier|Brouwerij Bavik|6.5
+Phaedra|Brouwerij Het Alternatief bij Brouwerij De Graal|6.0
+Pick-Up|Brouwerij Walrave|5.0
+Piedbœuf Blonde|Brouwerij Piedbœuf (InBev)|1.5
+Piedbœuf Brune|Brouwerij Piedbœuf (InBev)|1.5
+Piedbœuf Excellence|Brouwerij Piedbœuf (InBev)|2.0
+Piedbœuf Foncée|Brouwerij Piedbœuf (InBev)|1.5
+Piedbœuf Triple|Brouwerij Piedbœuf (InBev)|3.8
+Pierewietje|Brouwerij De Regenboog|6.0
+Piet-Agoras|Brouwerij Het Alternatief bij Brouwerij De Graal|9.0
+Pikkeling|Brouwerij Slaghmuylder in opdracht van VVV De Faluintjesstreek|6.2
+Pilaarbijter Blond|Brouwerij Bavik|7.2
+Pikkeling Tripel|Brouwerij Boelens in opdracht van VVV De Faluintjesstreek|8.0
+Pilaarbijter Bruin|Brouwerij Bavik|6.5
+Pils de Brabant|Groep John Martin|4.9
+Pimpernelle|Brouwerij Jessenhofke|8.0
+Pink Killer|Brasserie de Silly|5.0
+Pipedream|Brouwerij Alvinne|7.8
+Piraat|Brouwerij Van Steenberge|10.5
+Plezir Blond|Brouwerij Sint-Jozef in opdracht van Zirvest Cvba|5.5
+Pissenlit|Brasserie Fantôme|8.0
+Plezir D Lux Blond|Brouwerij Sint-Jozef in opdracht van Zirvest Cvba|6.7
+Plezir Brown|Brouwerij Sint-Jozef in opdracht van Zirvest Cvba|7.1
+Plezir D Lux Rosé|Brouwerij Sint-Jozef in opdracht van Zirvest Cvba|5.2
+Ploegsteert|Brouwerij Verhaeghe Vichte|5.4
+PMPRNL|Brouwerij Jessenhofke|8.0
+Plokkersbier|Brouwerij De Bie|7.0
+Podge Belgian Imperial Stout|Brouwerij Alvinne|10.5
+Podge Oak Aged Stout|Brouwerij Alvinne|11.0
+Polygonneke|Brouwerij Van Eecke|6.0
+Postel Blond|Affligem Brouwerij (Brouwerij De Smedt)|7.0
+Postel Christmas|Brouwerijen Alken-Maes|9.0
+Postel Dubbel|Affligem Brouwerij|7.0
+Postel Tripel|Affligem Brouwerij|8.5
+Potteloereke|Huisbrouwerij Sint-Canarus|8.0
+Poorter|Brasserie du Bocq voor Brouwerij Sterkens|6.5
+Poperings Hommelbier|Brouwerij Van Eecke|7.5
+Poperings Nunnebier|Brouwerij Verhaeghe|7.2
+Préaris Blond|De Proefbrouwerij voor Vliegende Paard Brouwers|6.0
+Préaris Quadrupel|De Proefbrouwerij voor Vliegende Paard Brouwers|10.0
+Préaris IPA (No Hops No Glory)|De Proefbrouwerij voor Vliegende Paard Brouwers|6.7
+Primus|Brouwerij Haacht|5.2
+Prima Leroy|Brouwerij Het Sas|3.25
+Prinsesken|Brouwerij Boelens|6.5
+Puitenkop|Brouwerij 't Paenhuys|5.6
+Qantelaar|Brouwerij Maenhout voor bierfirma Proefbrouwerij d'oude maalderij|8.0
+Quadrigenti|'t Hofbrouwerijke voor bierfirma Montaignu|5.6
+Quest|Brouwerij De Graal|9.0
+Queueu de Charrue Ambrée|Brouwerij Verhaeghe Vichte in opdracht van Brouwerij Vanuxeem|5.6
+Queueu de Charrue Blonde|Brouwerij Verhaeghe Vichte in opdracht van Brouwerij Vanuxeem|6.6
+Queueu de Charrue Brune|Brouwerij Verhaeghe Vichte in opdracht van Brouwerij Vanuxeem|5.4
+Queueu de Charrue Triple|Brouwerij Van Steenberge in opdracht van Brouwerij Vanuxeem|9.0
+Quackelbeens Donker|Brouwerij Gulden Spoor voor Alain Quackelbeen|7.1
+Quintine Ambrée|Brasserie Ellezelloise|8.5
+Quintine Bio Organic|Brasserie Ellezelloise|5.9
+Quintine Blonde|Brasserie Ellezelloise|8.0
+Rader Ambrée|Brasserie de l'Abbaye du Val-Dieu voor Radermacher Distillerie|10.5
+Rader Blonde|Brasserie de l'Abbaye du Val-Dieu voor Radermacher Distillerie|6.5
+Ramée Amber|Brasserie de Brunehaut|7.5
+Ramée Triple Blond|Brasserie de Brunehaut|8.0
+Rebel Local|Brouwersverzet bij Brouwerij Gulden Spoor|8.5
+Redbach|Brouwerij Rodenbach|3.5
+Redbocq|Brasserie Du Bocq|3.1
+Redor|Brasserie Dupont|5.0
+Regal Christmas|Brasserie Du Bocq|8.1
+Reinaert Blond|De Proefbrouwerij|7.0
+Reinaert Grand Cru|De Proefbrouwerij|9.5
+Reinaert Tripel|De Proefbrouwerij|9.0
+Reninge Bitter Blond|Seizoensbrouwerij Vandewalle|7.0
+Reninge Oud Bruin|Seizoensbrouwerij Vandewalle|6.0
+Revolucion Mexicana’10|Group John Martin|5.0
+Ridder|Brouwerij Het Sas|2.25
+Riebedebie|Brouwerij De Bie|9.0
+Ribaldus blond|Brouwerij De Graal voor bierfirma Ribaldus|7.5
+Riva Blanche|Brouwerij Riva|5.0
+Robustus|Brouwerij Het Gulden Spoor|10.0
+Rochefort 6|Abdij Notre-Dame de Saint-Rémy|7.5
+Rochefort 8|Abdij Notre-Dame de Saint-Rémy|9.2
+Rochefort 10|Abdij Notre-Dame de Saint-Rémy|11.3
+Rodenbach|Brouwerij Rodenbach|5.2
+Rodenbach Alexander|Brouwerij Rodenbach|6.0
+Rodenbach Caractère Rouge|Brouwerij Rodenbach|7.0
+Rodenbach Grand Cru|Brouwerij Rodenbach|6.0
+Rodenbach Vintage|Brouwerij Rodenbach|7.0
+Rogier|Brouwerij De Graal voor Traagwater|6.5
+Romy Pils|Brouwerij Roman|5.1
+Ronsischen Dubbel|De Proefbrouwerij voor bierfirma Slaapmutske|7.4
+Ronsischen Tripel|De Proefbrouwerij voor bierfirma Slaapmutske|8.0
+Roodebol|Brouwerij Loterbol|6.6
+Rosdel|Brouwerij Nieuwhuys|5.8
+Rose des Remparts|Brasserie La Binchoise|4.5
+Rosé de Gambrinus|Brasserie Cantillon|5.5
+Roste Jeanne|De Struise Brouwers bij Brouwerij Deca|7.0
+Rousse de Brabant|Groep John Martin|5.2
+RSRV|Brouwerij Jessenhofke bij De Proefbrouwerij|10.0
+'s Lands Souvenirs Du Terroir|Brouwerij De Landtsheer|11.0
+Safir|InBev|5.0
+Saint-Benoît Blonde|Brasserie du Bocq|6.3
+Saint-Benoît Brune|Brasserie du Bocq|6.5
+Saint-Monon au Miel|Brasserie Saint-Monon|8.0
+Saint-Monon Brune|Brasserie Saint-Monon|7.5
+Saison 1858|Brasserie du Bocq|6.4
+Saison 1900|Brouwerij Lefebvre|5.2
+Saison 2000|Brasserie des Légendes|6.5
+Saison Cazeau|Brasserie de Cazeau|5.0
+Saison de Dottignies|Brouwerij De Ranke|5.5
+Rosé Max|Brouwerij Bockor|4.5
+Saison de Mai|Brasserie Saint-Monon|8.3
+Saison de la Senne|Brouwerij De Ranke voor Brasserie de la Senne|4.3
+Saison de Pipaix|Brasserie à Vapeur|6.0
+Saison d'Epeautre|Brasserie de Blaugies|6.0
+Saint-Lamvinus|Brouwerij Cantillon|6.0
+Saint-Monon Ambrée|Brasserie Saint-Monon|6.5
+Saison d'Erpe-Mere|Brouwerij De Glazen Toren|6.9
+Saison de Silly|Brasserie de Silly|5.0
+Saison Dupont|Brouwerij Dupont|6.5
+Saison Dupont Bio|Brouwerij Dupont|5.5
+Saison Dupont Cuvée Dry Hopping|Brouwerij Dupont|6.5
+Saison Regal|Brasserie du Bocq|5.5
+Saison St-Feuillien|Brasserie Saint-Feuillien|6.5
+Saison Voisin|Brasserie des Légendes|5.0
+Santa Bee|Brouwerij Boelens|8.5
+Sara Blond|Brasserie de Silenrieux|6.0
+Sara Bruin|Brasserie de Silenrieux|6.0
+Sas Brune|Brouwerij Het Sas|5.3
+Sas Export|Brouwerij Het Sas|5.0
+Sas Pils|Brouwerij Het Sas|5.0
+Sasbräu|Brouwerij Het Sas|6.3
+Satan Gold|Brouwerij De Block|8.0
+Satan Red|Brouwerij De Block|8.0
+Saxo|Brasserie Caracole|8.0
+Schaarbeekse Oude Kriek 3 Fonteinen|Geuzestekerij 3 Fonteinen|5.0
+Schapenkop|Brouwerij 't Paenhuys|8.0
+Scheldepils|Brouwerij Huyghe voor de De Scheldebrouwerij|5.0
+Schoenlappertje|De Scheldebrouwerij|5.0
+Schultenbräu|Brouwerij Martens voor Aldi|4.9
+Schuppenboer|De Scheldebrouwerij voor Brouwerij Het Nest|8.5
+Scotch C.T.S.|Inbev|7.2
+Serafijn Blond|De Proefbrouwerij voor Microbrouwerij Achilles|6.2
+Serafijn Donker|De Proefbrouwerij voor Microbrouwerij Achilles|8.0
+Serafijn Grand Cru|De Proefbrouwerij voor Microbrouwerij Achilles|9.0
+Serafijn Tripel|De Proefbrouwerij voor Microbrouwerij Achilles|8.0
+Serafijn Kerstlicht|De Proefbrouwerij voor Microbrouwerij Achilles|7.0
+Scotch Silly|Brasserie de Silly|7.8
+Sernia Brune|Inbev|7.2
+Sezoens Quattro|Brouwerij Martens (Bocholt)|8.0
+Sezoens Blond|Brouwerij Martens (Bocholt)|6.0
+Shark Pants|De Struise Brouwers bij Brouwerij Deca|9.0
+Silly Pils|Brasserie de Silly|5.0
+Silly Pils Bio|Brasserie de Silly|5.0
+Sinpalsken Blond|Brouwerij De Cock bij Brouwerij Van Steenberge|8.5
+Sint-Adriaansbier Blond|Brouwerij Van Steenberge|6.5
+Sinpalsken Donker|Brouwerij De Cock bij Brouwerij Van Steenberge|8.5
+Sint Canarus Tripel|Huisbrouwerij Sint Canarus bij De Proefbrouwerij|7.5
+Sint-Gummarus Dubbel|Brouwerij Sint-Jozef|7.0
+Sint-Adriaansbier Bruin|Brouwerij Van Steenberge|0.0
+Sint-Gummarus Tripel|Brouwerij Sint-Jozef|8.0
+Sint-Idesbald|Brouwerij Huyghe|6.5
+Seefbier|Antwerpse Brouw Compagnie|6.5
+Slaapmutske Blond|De Proefbrouwerij voor Brouwerij Slaapmutske|6.4
+Slaapmutske Bruin|De Proefbrouwerij voor Brouwerij Slaapmutske|6.0
+Slaapmutske Bio Tripel|De Proefbrouwerij voor Brouwerij Slaapmutske|8.0
+Slaapmutske Hop Collection ft. Kent Goldings|De Proefbrouwerij voor Brouwerij Slaapmutske|10.0
+Slaapmutske Tripel|De Proefbrouwerij voor Brouwerij Slaapmutske|8.1
+Slaapmutske Christmas|De Proefbrouwerij voor Brouwerij Slaapmutske|7.4
+Slaapmutske Dry Hopped Lager|De Proefbrouwerij voor Brouwerij Slaapmutske|5.3
+Slaefke|Huisbrouwerij Sint Canarus voor De Verhuisbrouwerij|7.5
+Slag Lager|Brouwerij Slaghmuylder|5.0
+Slaghmuylder's Kerstbier|Brouwerij Slaghmuylder|5.2
+Slaghmuylder's Paasbier|Brouwerij Slaghmuylder|5.2
+Slim³|Brouwerij De Graal voor SLIM|8.0
+Sloeber|Brouwerij Roman|7.5
+Smisje Kerst|Brouwerij Smisje|11.0
+Smiske|Brouwerij Smisje|7.0
+Smiske Bruin|Brouwerij Smisje|7.0
+Smiske Extra|Brouwerij Smisje|7.0
+Smiske Winter|Brouwerij Smisje|11.0
+Snaaskerstbier|Brouwerij Deca|8.0
+Snoek Blond|Brouwerij Bavik voor “Mout- en Brouwhuis De Snoek”|7.5
+Snoek Bruin|Brouwerij Strubbe voor “Mout- en Brouwhuis De Snoek”|5.5
+Snowbuk|Brouwerij Gulden Spoor|6.0
+Snuffelbeer|Brouwerij De Regenboog|6.0
+Sparta Pils|Brouwerij Van Steenberge|5.0
+Special 6 Block|Brouwerij De Block|6.0
+Special Extra Export Stout|De Dolle Brouwers|9.0
+Special Roman|Brouwerij Roman|5.5
+Speciale 1900|Brouwerij Haacht|5.0
+Spéciale de Brabant|Groep John Martin|5.3
+Speculoos Bier|Brasserie d'Ecaussinnes|8.0
+Spelziale|Brasserie Millevertus|4.5
+Spioenkopje|Brouwerij Strubbe voor den Haene|5.0
+Spitfire Oud Balegems|Brouwerij Van Steenberge|8.0
+Special De Ryck|Brouwerij De Ryck|5.5
+Sint-Amatus|De Struise Brouwers bij Brouwerij Deca|10.5
+St. Bernardus Abt 12|Brouwerij St. Bernardus|10.5
+St. Bernardus Christmas Ale|Brouwerij St. Bernardus|10.0
+St. Bernardus Pater 6|Brouwerij St. Bernardus|6.7
+St. Bernardus Prior 8|Brouwerij St. Bernardus|8.0
+St. Bernardus Tripel|Brouwerij St. Bernardus|8.0
+St. Bernardus Witbier|Brouwerij St. Bernardus|5.5
+Sint-Idesbald Réserve Ten Duinen Blond|Brouwerij Huyghe|6.5
+Sint-Idesbald Réserve Ten Duinen Dubbel|Brouwerij Huyghe|8.0
+Sint-Idesbald Réserve Ten Duinen Rousse|Brouwerij Huyghe|7.0
+Sint-Idesbald Réserve Ten Duinen Tripel|Brouwerij Huyghe|9.0
+St. Benoit Blonde|Brasserie du Bocq|6.3
+St. Benoit Brune|Brasserie du Bocq|6.5
+St. Feuillien Blonde|Brouwerij St-Feuillien|7.5
+Grand Cru St-Feuillien Grand Cru|Brasserie Saint Feuillien|9.5
+St. Feuillien Brune Réserve|Brouwerij St-Feuillien|7.5
+St. Feuillien Triple|Brouwerij St-Feuillien|8.5
+St. Feuillien Cuvée de Noël|Brouwerij St-Feuillien|8.5
+St. Firminus Blond|Brasserie Du Bocq|0.0
+St. Firminus Bruin|Brasserie Du Bocq|0.0
+St. Louis Cassis|Brouwerij Van Honsebrouck|4.5
+St. Louis Framboise|Brouwerij Van Honsebrouck|0.0
+St. Louis Frambozen(bier)|Brouwerij Van Honsebrouck|5.0
+St. Louis Gueuze|Brouwerij Van Honsebrouck|0.0
+St. Louis Gueuze Fond Tradition|Brouwerij Van Honsebrouck|5.0
+St. Louis Kriek Lambic|Brouwerij Van Honsebrouck|4.5
+St. Louis Peche|Brouwerij Van Honsebrouck|3.5
+St. Louis Premium Cassis|Brouwerij Van Honsebrouck|3.2
+St. Louis Premium Framboise|Brouwerij Van Honsebrouck|2.8
+St. Louis Premium Faro|Brouwerij Van Honsebrouck|3.2
+St. Louis Premium Kriek|Brouwerij Van Honsebrouck|3.2
+St. Louis Premium Pêche|Brouwerij Van Honsebrouck|2.6
+St. Paul Blond|Brasserie du Bocq voor Brouwerij Sterkens|5.3
+St. Paul Double|Brasserie du Bocq voor Brouwerij Sterkens|6.9
+St. Paul Speciale|Brasserie du Bocq voor Brouwerij Sterkens|5.5
+St. Sebastiaan Dark|Brasserie du Bocq voor Brouwerij Sterkens|6.9
+St. Paul Tripel|Brasserie du Bocq voor Brouwerij Sterkens|5.0
+St. Sebastiaan Grand Cru|Brasserie du Bocq voor Brouwerij Sterkens|7.6
+Star Blond|Brouwerij Haacht|0.4
+Steenbrugge Blond|Brouwerij Palm|6.5
+Steenbrugge Dubbel Bruin|Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)|6.5
+Steenbrugge Tripel|Brouwerij Palm (vroeger in Brouwerij De Gouden Boom)|8.7
+Steendonk|Brouwerij Duvel Moortgat|4.5
+Steenuilke|Brouwerij De Rijck|6.5
+Steenbrugge Wit|Brouwerij Palm|5.0
+Stella Artois|InBev|5.2
+Stepa|De Proefbrouwerij voor Stepaja bvba|8.0
+Stoere Wulp|De Proefbrouwerij|6.5
+Stoeren Bonk|Brouwerij Van Steenberge|6.3
+Stille Nacht|De Dolle Brouwers|12.0
+Stout Leroy|Brouwerij Het Sas|5.0
+Stoeren Bonk Blond|Brouwerij Van Steenberge|8.0
+Stoute Bie|Brouwerij De Bie|5.5
+Stouterik|Brouwerij De Ranke voor Brasserie de la Senne|4.5
+Straffe Hendrik|Brouwerij De Halve Maan|9.0
+Straffe Hendrik Quadrupel|Brouwerij De Halve Maan|11.0
+Straffe Toeback|Scheldebrouwerij|9.5
+Straffe Winter|Geuzestekerij 3 fonteinen|8.0
+Strandgaper|De Scheldebrouwerij|6.2
+Strandjuttersbier Mong De Vos|Brouwerij Strubbe voor bierfirma Den Haene|9.2
+Stropken|Brouwerij Bios|7.0
+Strubbe Pils|Brouwerij Strubbe|5.2
+Struise Rosse|De Struise Brouwers bij Brouwerij Deca|5.0
+Struise Witte|De Struise Brouwers bij Brouwerij Deca|5.0
+Struiselensis|De Struise Brouwers bij Brouwerij Deca|7.0
+Suma Pils|Brouwerij Het Sas|5.0
+Super 64|Brasserie de Silly|5.0
+Super des Fagnes Brune|Brasserie des Fagnes|7.5
+Super des Fagnes Griottes|Brasserie des Fagnes|4.8
+Super des Fagnes Blonde|Brasserie des Fagnes|7.5
+Super NoAH|Brouwers Verzet in Brouwerij De Ranke|4.9
+Superpils|Brouwerij Strubbe|4.3
+Sur-les-Bois Ambrée|Brasserie La Botteresse de Sur-les-Bois|8.0
+Sur-les-Bois Brune|Brasserie La Botteresse de Sur-les-Bois|9.0
+Sur-les-Bois Blonde|Brasserie La Botteresse de Sur-les-Bois|7.0
+Svea IPA|De Struise Brouwers bij Brouwerij Deca|5.0
+'t Baronneke|'t Hofbrouwerijke|6.5
+'t Gaverhopke Blondje|Brouwerij 't Gaverhopke|6.8
+'t Gaverhopke Bruintje|Brouwerij 't Gaverhopke|6.8
+'t Gaverhopke Kriek|Brouwerij 't Gaverhopke|6.8
+'t Gaverhopke Kerstbier|Brouwerij 't Gaverhopke|6.8
+'t Gaverhopke Paasbier|Brouwerij 't Gaverhopke|8.0
+'t Schoenlappertje|De Scheldebrouwerij|6.5
+'t Smisje + dubbel IPA|Brouwerij De Regenboog|10.0
+'t Smisje Bananenbier|Brouwerij De Regenboog|6.0
+'t Smisje BBBourgondier|Brouwerij De Regenboog|12.0
+'t Smisje Blond|Brouwerij De Regenboog|6.0
+'t Smisje Calva Reserva|Brouwerij De Regenboog|12.0
+'t Smisje Catherine The Great Imperial Stout|Brouwerij De Regenboog|10.0
+'t Smisje Cuvee 2005|Brouwerij De Regenboog|10.0
+'t Smisje Dubbel|Brouwerij De Regenboog|9.0
+'t Smisje Fiori|Brouwerij De Regenboog|7.0
+'t Smisje Grande Reserva|Brouwerij De Regenboog|11.0
+'t Smisje Halloween|Brouwerij De Regenboog|10.5
+'t Smisje Honing|Brouwerij De Regenboog|6.0
+'t Smisje Great Reserva|Brouwerij De Regenboog|10.0
+'t Smisje Honingbier Bruin|Brouwerij De Regenboog|6.0
+'t Smisje Kuvee Elektrik 979 W|Brouwerij De Regenboog|9.0
+'t Smisje Sleedoornbier|Brouwerij De Regenboog|6.0
+'t Smisje Meso|Brouwerij De Regenboog|2.5
+'t Smisje Speciaal|Brouwerij De Regenboog|10.5
+'t Smisje Sleedoorn Extra|Brouwerij De Regenboog|7.0
+'t Smisje Tripel|Brouwerij De Regenboog|9.0
+'t Zelfde|Brouwerij Bosteels|4.0
+'t Zwarte Gat Bier|Brouwerij De Regenboog|6.0
+Taras Boulba|Brouwerij De Ranke voor Brasserie de la Senne|4.5
+Tatsevoet|Brouwerij Het Alternatief bij Brouwerij Alvinne|6.0
+Tempelier|Brasserie du Bocq voor Brouwerij Corsendonk|6.0
+Ter Dolen Blond|Kasteelbrouwerij De Dool|6.1
+Ter Dolen Donker|Brouwerij Ter Dolen|7.1
+Ter Dolen Kriek|Brouwerij Ter Dolen|4.5
+Ter Dolen Tripel|Brouwerij Ter Dolen|8.1
+Terracotta|Brouwerij De Regenboog|7.0
+Thouroutenaere|Alken-Maes (Heineken)|8.5
+Timmermans Caveau Gueuze|Brouwerij Timmermans|5.5
+Timmermans Faro Lambic|Brouwerij Timmermans|4.0
+Timmermans Framboise Lambic|Brouwerij Timmermans|4.0
+Timmermans Gueuze Lambic|Brouwerij Timmermans|5.0
+Timmermans Kriek Lambic|Brouwerij Timmermans|4.0
+Timmermans Kriek Retro|Brouwerij Timmermans|5.0
+Timmermans Lambicus Blanche|Brouwerij Timmermans|4.5
+Timmermans Oude Gueuze|Brouwerij Timmermans|5.5
+Timmermans Oude Kriek|Brouwerij Timmermans|5.5
+Timmermans Pêche Lambic|Brouwerij Timmermans|4.0
+Timmermans Strawberry Lambic|Brouwerij Timmermans|4.0
+Timmermans Warme Kriek|Brouwerij Timmermans|4.0
+Tineke Van Heule|Brouwerij Gulden Spoor|8.0
+Titje|Brasserie de Silly|5.0
+Toetëlèr Amber Tripel|Brouwerij Den Toetëlèr|8.5
+Toetëlèr Speculaas|Brouwerij Den Toetëlèr|8.5
+Toetëlèr Wit|Brouwerij Den Toetëlèr|5.2
+Tongerlo Blond|Brouwerij Haacht|6.0
+Tongerlo Bruin|Brouwerij Haacht|6.0
+Tongerlo Christmas|Brouwerij Haacht|6.5
+Tongerlo Tripel|Brouwerij Haacht|8.0
+Tonneke|Brouwerij Contreras|5.0
+Tongerlo Prior|Brouwerij Haacht|8.0
+Toria Blond|Brouwerij De Graal voor De Hoevebrouwers|6.5
+Toria Tripel|Brouwerij De Graal voor De Hoevebrouwers|8.7
+Totentrekker|De Proefbrouwerij voor Buitenlust|5.5
+Tournay de Noël|Brasserie de Cazeau|8.2
+Tournay|Brasserie de Cazeau|6.7
+Tournay Noire|Brasserie de Cazeau|7.6
+Tournée Générale|Brouwerij Duvel Moortgat|6.5
+Tournée Générale Tripel Hop|Brouwerij Palm|7.5
+Toverhekske|Brouwerij Walrave|5.9
+Trammelantje|Brouwerij Strubbe voor Bierfirma Den Haene|6.5
+Trappieter|De Proefbrouwerij voor Bierfirma Trappieter|6.5
+Triest Blond|Microbrouwerij Den Triest|6.0
+Tremist|Brouwerij Van Eecke voor Extremis|6.0
+Triest Dubbel|Microbrouwerij Den Triest|8.0
+Triest Kriek|Microbrouwerij Den Triest|5.2
+Triest Tripel|Microbrouwerij Den Triest|7.5
+Triest X-mas|Microbrouwerij Den Triest|8.5
+Tripel Kanunnik|Brouwerij en stokerij Wilderen|8.2
+Tripel Karmeliet|Brouwerij Bosteels|8.4
+Tripel Klok|Brouwerij Boelens|8.5
+Triple de Brabant|Groep John Martin|8.5
+Triporteur from Heaven|Brouwerij Anders! voor BOMBrewery|6.2
+Triple Moine|Brasserie Du Bocq|7.3
+Triporteur from Hell|Brouwerij Anders! voor BOMBrewery|6.6
+Trisser|De Proefbrouwerij voor De Verhuisbrouwerij|7.5
+Triverius|Brouwerij De Graal|6.8
+Troubadour Blond|De Proefbrouwerij voor Brouwerij The Musketeers|6.5
+Troubadour Magma|De Proefbrouwerij voor Brouwerij The Musketeers|9.0
+Troubadour Imperial Stout|De Proefbrouwerij voor Brouwerij The Musketeers|9.0
+Troubadour Obscura|De Proefbrouwerij voor Brouwerij The Musketeers|8.2
+Troubadour Spéciale|De Proefbrouwerij voor Brouwerij The Musketeers|5.7
+Troublette|Brasserie Caracole|5.0
+TRPL|De Proefbrouwerij voor Brouwerij Jessenhofke|8.0
+Tsjeeses|De Struise Brouwers|10.0
+Tsjeeses Reserva|De Struise Brouwers|10.0
+Tumulus 800|De Proefbrouwerij in opdracht van De Kale Ridders|6.0
+Tumulus Aura|De Proefbrouwerij in opdracht van De Kale Ridders|5.5
+Tumulus Nera|De Proefbrouwerij in opdracht van De Kale Ridders|8.0
+Tumulus Magna|De Proefbrouwerij in opdracht van De Kale Ridders|9.0
+Turnhoutse Patriot|Scheldebrouwerij voor Hobbybrouwerij Het Nest|6.5
+Tuverbol|Brouwerij Loterbol|11.0
+Uilenspiegelbier|Brouwerij Van Steenberge|7.0
+Uitzet 1730|Brouwerij Van Steenberge voor Brouwerij Paeleman|6.8
+Ulricher Extra|Brouwerij Girardin|5.0
+Uitzet Kriekbier|Brouwerij Van Steenberge voor Brouwerij Paeleman|7.5
+Ultra Ambrée|Brasserie d'Ecaussinnes|7.0
+Ultra Fraîche|Brasserie d'Ecaussinnes|3.5
+Ultra Soif|Brasserie d'Ecaussinnes|5.0
+Ultramour|Brasserie d'Ecaussinnes|5.0
+Ultra Blonde|Brasserie d'Ecaussinnes|8.0
+Ultradélice|Brasserie d'Ecaussinnes|8.0
+Ultrabrune|Brasserie d'Ecaussinnes|10.0
+Unkerzak|De Proefbrouwerij|0.0
+Urthel Parlus Magnificum|Brouwerij De Leyerth|7.5
+Urchon|Brasserie des Légendes|7.5
+Urthel Hibernus Quentum|Brouwerij De Leyerth|9.0
+Urthel Samaranth|Brouwerij De Koningshoeven in opdracht van Brouwerij Urthel|11.5
+Val-Dieu Blonde|Brouwerij Val-Dieu|6.0
+Urthel Tonicum Finiboldus|Brouwerij De Leyerth|7.5
+Val-Dieu Brune|Brouwerij Val-Dieu|8.0
+Urthel Hop-It|Brouwerij De Koningshoeven in opdracht van Brouwerij Urthel|9.5
+Urthel Saisonnière|Brouwerij De Koningshoeven in opdracht van Brouwerij Urthel|6.0
+Val-Dieu Grand Cru|Brouwerij Val-Dieu|10.5
+Val-Dieu Triple|Brouwerij Val-Dieu|9.0
+Valeir Blond|Brouwerij Contreras|6.5
+Valeir Divers|Brouwerij Contreras|8.5
+Valeir Donker|Brouwerij Contreras|6.5
+Valeir Extra|Brouwerij Contreras|6.5
+Vals Paterke|Brouwerij De Graal voor t'Drankorgel|8.3
+Vanderghinste oud bruin|Brouwerij Bockor|5.5
+Vapeur cochonne|Brasserie à Vapeur|9.0
+Vat 44|Brouwerij Boon|8.0
+Valeir Donker|Brouwerij Contreras|6.5
+Vedett Extra Blond|Brouwerij Duvel Moortgat|5.2
+Vedett Extra White|Brouwerij Duvel Moortgat|4.7
+Verhaeghe Pils|Brouwerij Verhaeghe|5.1
+Vicardin|Brouwerij Dilewyns|7.0
+Vicaris Generaal|Brouwerij Dilewyns|8.8
+Vicaris Kerst|Brouwerij Dilewyns|10.0
+Vicaris Tripel|Brouwerij Dilewyns|8.5
+Vicaris Quinto|Brouwerij Dilewyns|5.0
+Vichtenaar|Brouwerij Verhaeghe|5.1
+Vieux Bruges Blanche|Brouwerij Van Honsebrouck|4.5
+Vieux Bruges Framboise(s)|Brouwerij Van Honsebrouck|0.0
+Vieux Bruges Gueuze|Brouwerij Van Honsebrouck|5.0
+Vieux Bruges Kriek|Brouwerij Van Honsebrouck|3.2
+Vieux Bruges Kriek Lambic|Brouwerij Van Honsebrouck|5.0
+Vieux Bruges Peche|Brouwerij Van Honsebrouck|3.5
+Vieux Bruxelles Gueuze|Brouwerij Van Honsebrouck|5.0
+Vieux Bruxelles Kriek|Brouwerij Van Honsebrouck|4.0
+Vieux Temps|AB Inbev|5.2
+Vingeronne|Brouwerij Cantillon|6.0
+Villers Tripel|Brouwerij Huyghe|8.0
+Villers Vieille|Brouwerij Huyghe|7.0
+Viven Ale|De Proefbrouwerij voor Beerdevelopment Viven|5.0
+Viven Blond|De Proefbrouwerij voor Beerdevelopment Viven|6.1
+Viven Bruin|De Proefbrouwerij voor Beerdevelopment Viven|6.1
+Viven Imperial IPA|De Proefbrouwerij voor Beerdevelopment Viven|8.0
+Viven Porter|De Proefbrouwerij voor Beerdevelopment Viven|7.0
+Vlaamsch Wit|Brouwerij Van Honsebrouck|4.5
+Vlaamsche Leeuw Blondje|Brouwerij Van Steenberge voor De Brouwerij van Vlaanderen|5.5
+Vlaamsche Leeuw Donker|Brouwerij Van Steenberge voor De Brouwerij van Vlaanderen|7.5
+Vlaamsche Leeuw Tripel|Brouwerij Van Steenberge voor De Brouwerij van Vlaanderen|8.5
+Vlasbier|Brouwerij Van Eecke|6.5
+Vlaskapelle|Brouwerij Gulden Spoor|5.0
+Vlaskop|Brouwerij Strubbe|5.5
+Vleteren Alt|Brouwerij Deca|8.0
+Vleteren Super 8 Blond|Brouwerij Deca|8.0
+Vondel|Brouwerij Liefmans|8.5
+Vossen met de Meynen Blond|Brouwerij Het Anker|6.5
+Vossen met de Meynen 69|Brouwerij Hof ten Dormaal|6.9
+Vurig Bierreke|Brouwerij DijkWaert|11.5
+Vuuve|Brouwerij De Regenboog|5.0
+Waas Klok Bier Bruin|Brouwerij Boelens|8.5
+Waas Klok Bier Tripel|Brouwerij Boelens|8.5
+Waase Wolf|Brouwerij Boelens|6.0
+Waaslander|Brouwerij Boelens|5.0
+Waterloo Double 8 Dark|Brasserie Du Bocq|8.5
+Waterloo Tripel 7 Blond|Brasserie Du Bocq|7.5
+Watneys Scotch Ale|Alken-Maes|8.0
+Watou Tripel|Brouwerij St. Bernardus|7.5
+Watou's Wit|Brouwerij Van Eecke|5.0
+Wechelse Tripel|Brouwerij St. Bernardus voor café Den Toerist|7.5
+West Pils|Brouwerij Het Sas|5.0
+Westhoek|De Struise Brouwers|6.0
+Westhoek XX|De Struise Brouwers|6.0
+Westmalle Dubbel|Brouwerij Westmalle|7.0
+Westmalle Tripel|Brouwerij Westmalle|9.5
+Westvleteren Blond|Sint-Sixtusabdij van Westvleteren|5.8
+Westvleteren Zes|Sint-Sixtusabdij van Westvleteren|6.2
+Westvleteren Acht|Sint-Sixtusabdij van Westvleteren|8.0
+Westvleteren Twaalf|Sint-Sixtusabdij van Westvleteren|10.2
+Wevelgemse Tripel|Brouwerij De Ranke voor Bierwinkel Bacelle|8.0
+White by Mystic|Brouwerij Haacht|5.1
+Wieze Christmas Tripel Hop|Brouwerij Wieze|8.0
+Wieze Tripel Blond|Brouwerij Wieze|8.0
+Wieze Tripel zoet Bruin|Brouwerij Wieze|8.0
+Wildebok|De Scheldebrouwerij|6.5
+Wilderen Goud|Brouwerij Wilderen|6.2
+Wilderen Kriek|Brouwerij Wilderen|3.5
+Willy Kriegelbier|Huisbrouwerij Sint Canarus|7.0
+Winter Zjef|Brouwerij 't Paenhuys|9.0
+Winterkoninck|Brouwerij De Koninck (Duvel-Moortgat)|6.5
+Winterkoninkske|Brouwerij Sint-Jozef voor brouwerij Kerkom|8.3
+Winterkoninkske Haspengouwse Grand Cru|Brouwerij Sint-Jozef voor brouwerij Kerkom|13.0
+Wintersnood|‘t Hofbrouwerijke voor De Verhuisbrouwerij|6.4
+Wit Goud|Brouwerij Hof ten Dormaal|8.0
+Witheer|Scheldebrouwerij|5.0
+Witkap Pater Dubbel|Brouwerij Slaghmuylder|7.0
+Witkap Pater Special|Brouwerij Slagmuylder|5.5
+Witkap Pater Stimulo|Brouwerij Slaghmuylder|6.0
+Witkap Pater Tripel|Brouwerij Slagmuylder|7.5
+Witte Pol|Brouwerij Inter-Pol|5.6
+Wittekerke|Brouwerij Bavik|5.0
+Wittekerke Passion|Brouwerij Bavik|5.8
+Wittekerke Rosé|Brouwerij Bavik|4.3
+Wittoen|Brouwerij Strubbe|7.0
+Wolf 7|Brouwerij Lupus|7.4
+Wolf 8|Brouwerij Lupus|8.5
+Wolf 9|Brouwerij Lupus|9.0
+Wostyntje|Brouwerij De Regenboog|7.0
+Xenophon’s Wine|De Struise Brouwers|11.0
+X-Mas Beer|Brouwerij Contreras|8.5
+XX Bitter|Brouwerij De Ranke|6.2
+XXX Bitter|Brouwerij De Ranke|6.0
+Yperman|Brouwerij Het Sas|5.5
+Yellow Mortal|Brouwerij Mortal's Beers|7.2
+Zatte Bie|Brouwerij De Bie|9.0
+Zeezuiper|De Scheldebrouwerij|8.0
+Zennenat|Brouwerij Den Herberg|6.0
+Zeunt|De Proefbrouwerij voor het Zeuntcomité|7.0
+Zeven Zonden Gula|Brouwerij Gulden Spoor voor bierfirma Hugel|9.0
+Zeven Zonden Invidia|Brouwerij Gulden Spoor voor bierfirma Hugel|10.0
+Zeven Zonden Luxuria|Brouwerij Gulden Spoor voor bierfirma Hugel|8.5
+Zingende Blondine|Brouwerij 't Gaverhopke|9.8
+Zinnebir|Brouwerij De Ranke voor Brasserie de la Senne|5.8
+Zomer Zjef|Brouwerij 't Paenhuys|9.0
+Zonderik 100|De Proefbrouwerij voor Zonderik Beer Company|7.0
+Zonderik Dubbel Donker|De Proefbrouwerij voor Zonderik Beer Company|8.0
+Zonderik Tripel|De Proefbrouwerij voor Zonderik Beer Company|8.0
+Zonderix|De Proefbrouwerij voor Zonderik Beer Company|10.0
+Zonnegemse Zot|De Proefbrouwerij voor Oude Brouwerij van Zonnegem vzw|7.1
+Zotte Bloare|Brouwerij 't Paenhuys|5.5
+Zottegemse Grand Cru|Brouwerij Strubbe voor Brouwerij Crombé|8.4
+ZUIDerbierke|Brouwerij Donum Ignis|8.2
+Zulte|Alken-Maes (Heineken)|4.7
+Zwalmse Tripel|De Proefbrouwerij voor de gemeente Zwalm|8.0
+Zwarte Piet|Zennebrouwerij|8.0
+Zwarte Pol|Brouwerij Inter-Pol|6.5
+Zwarte Zjef|Brouwerij 't Paenhuys|9.0
+Zwet.be|De Proefbrouwerij voor Geuzestekerij 3 Fonteinen|7.0
+Zwijntje|Brouwerij Bios|8.0
