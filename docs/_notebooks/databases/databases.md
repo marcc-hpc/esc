@@ -33,7 +33,9 @@ dependencies:
 ```
 
 You can build this environment from [these instructions](https://marcc-
-hpc.github.io/esc/common/python-environments#conda). 
+hpc.github.io/esc/common/python-environments#conda). On *Blue Crab* this
+environment can be accessed with `ml anaconda` and `conda activate databases-
+examples`. 
  
 ## Relational databases
 
@@ -43,22 +45,22 @@ a set of tuples (rows) that all have the same attributes (columns). A relational
 database is composed of many such tables along with unique ID numbers for each
 row. These IDs allow for relations *between* tables known as a `JOIN` clause.
 
-### An introduction to `sqlite`
+### An introduction to sqlite
 
 In the following exercise we will build a simple database. Our data comes from a
-file called `beers_data_simple.txt` (courtesy of [Jan Aerts]([this
-exercise](http://vda-lab.github.io/2016/04/mongodb-exercises))). Most of the
-following exercise will be completed entirely in BASH and recapped in the steps
-below. Note that a `$` indicates the BASH prompt, however most of this exercise
-occurs inside the `sqlite3` program, which has its own prompt.
+file called `beers.txt` (courtesy of [Jan Aerts]([this exercise](http://vda-
+lab.github.io/2016/04/mongodb-exercises))). Most of the following exercise will
+be completed entirely in BASH and recapped in the steps below. Note that a `$`
+indicates the BASH prompt, however most of this exercise occurs inside the
+`sqlite3` program, which has its own prompt.
 
 #### Source data
 
-The text in `beers_data_simple.txt` includes the beer name, ABV, and brewery, in
-the following format:
+The text in `beers.txt` includes the beer name, ABV, and brewery, in the
+following format:
 
 ```
-$ head beers_data_simple.txt
+$ head beers.txt
 3 Schténg|Brasserie Grain d'Orge|6.0
 400|'t Hofbrouwerijke voor Brouwerij Montaigu|5.6
 IV Saison|Brasserie de Jandrain-Jandrenouille|6.5
@@ -181,7 +183,7 @@ exercise we will examine one type of interface.
 In this example we will repeat some of the work above using `sqlalchemy` from
 [this documentation](https://docs.sqlalchemy.org/en/13/orm/tutorial.html). 
 
-**In [2]:**
+**In [1]:**
 
 {% highlight python %}
 # clear the existing data if you are starting over
@@ -205,7 +207,7 @@ other drivers in place of `sqlite` below. The following command creates the file
 `beer_alchemy.sqlite` on disk, however you are welcome to use `:memory:`
 instead. 
 
-**In [3]:**
+**In [2]:**
 
 {% highlight python %}
 import sqlalchemy
@@ -215,7 +217,7 @@ engine = create_engine('sqlite:///beer_alchemy.sqlite',echo=True)
  
 Next we must make a "session" to interact with the ORM. 
 
-**In [4]:**
+**In [3]:**
 
 {% highlight python %}
 # make a session instead of transacting directly
@@ -228,7 +230,7 @@ We design our database by sub-classing a `delarative_base`. All of our
 interactions with the database are abstract, and occur implicitly when we
 interact with the library objects (namely `Base`). 
 
-**In [5]:**
+**In [4]:**
 
 {% highlight python %}
 from sqlalchemy.ext.declarative import declarative_base
@@ -244,7 +246,7 @@ regenerate the database if you wish to modify it. This imposes an important type
 of discipline on your workflow, however all databases must eventually be
 migrated, one way or the other. 
 
-**In [6]:**
+**In [5]:**
 
 {% highlight python %}
 class Brewery(Base):
@@ -257,7 +259,7 @@ class Brewery(Base):
         return f'<Brewery name={self.name}>'
 {% endhighlight %}
 
-**In [7]:**
+**In [6]:**
 
 {% highlight python %}
 class Beer(Base):
@@ -277,25 +279,25 @@ Defining the class is not enough to actually *build* the table. For that, we
 must communicate with the engine. Since we asked the engine to echo our results,
 we can see how `sqlalchemy` is directly manipulating the database. 
 
-**In [8]:**
+**In [7]:**
 
 {% highlight python %}
 Base.metadata.create_all(engine)
 {% endhighlight %}
 
-    2019-11-18 20:09:07,168 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1
-    2019-11-18 20:09:07,169 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,170 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1
-    2019-11-18 20:09:07,171 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,173 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("brewery")
-    2019-11-18 20:09:07,174 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,176 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("brewery")
-    2019-11-18 20:09:07,176 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,177 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("beer")
-    2019-11-18 20:09:07,178 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,180 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("beer")
-    2019-11-18 20:09:07,180 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,182 INFO sqlalchemy.engine.base.Engine 
+    2019-11-18 20:59:43,834 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1
+    2019-11-18 20:59:43,836 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,837 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1
+    2019-11-18 20:59:43,838 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,839 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("brewery")
+    2019-11-18 20:59:43,839 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,841 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("brewery")
+    2019-11-18 20:59:43,841 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,842 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("beer")
+    2019-11-18 20:59:43,843 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,843 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("beer")
+    2019-11-18 20:59:43,844 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,845 INFO sqlalchemy.engine.base.Engine 
     CREATE TABLE brewery (
     	id INTEGER NOT NULL, 
     	name VARCHAR, 
@@ -303,9 +305,9 @@ Base.metadata.create_all(engine)
     )
     
     
-    2019-11-18 20:09:07,183 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,188 INFO sqlalchemy.engine.base.Engine COMMIT
-    2019-11-18 20:09:07,190 INFO sqlalchemy.engine.base.Engine 
+    2019-11-18 20:59:43,846 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,848 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-18 20:59:43,849 INFO sqlalchemy.engine.base.Engine 
     CREATE TABLE beer (
     	id INTEGER NOT NULL, 
     	name VARCHAR, 
@@ -316,14 +318,14 @@ Base.metadata.create_all(engine)
     )
     
     
-    2019-11-18 20:09:07,190 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:09:07,193 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-18 20:59:43,850 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-18 20:59:43,852 INFO sqlalchemy.engine.base.Engine COMMIT
 
  
 We are finally ready to enter some data using the somewhat elegant Python
 syntax. 
 
-**In [9]:**
+**In [8]:**
 
 {% highlight python %}
 beer = Beer(name='Rt. 113 IPA', abv=7.0)
@@ -338,19 +340,19 @@ The beer has no ID yet because all of our Python objects are not permanently
 added to the database until we commit the results. The following command will
 finalize this transaction. 
 
-**In [10]:**
+**In [9]:**
 
 {% highlight python %}
 session.commit()
 {% endhighlight %}
 
-    2019-11-18 20:09:09,577 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)
-    2019-11-18 20:09:09,579 INFO sqlalchemy.engine.base.Engine INSERT INTO beer (name, abv, brewery_id) VALUES (?, ?, ?)
-    2019-11-18 20:09:09,580 INFO sqlalchemy.engine.base.Engine ('Rt. 113 IPA', 7.0, None)
-    2019-11-18 20:09:09,582 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-18 20:59:43,874 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)
+    2019-11-18 20:59:43,880 INFO sqlalchemy.engine.base.Engine INSERT INTO beer (name, abv, brewery_id) VALUES (?, ?, ?)
+    2019-11-18 20:59:43,883 INFO sqlalchemy.engine.base.Engine ('Rt. 113 IPA', 7.0, None)
+    2019-11-18 20:59:43,885 INFO sqlalchemy.engine.base.Engine COMMIT
 
 
-**In [11]:**
+**In [10]:**
 
 {% highlight python %}
 # turn off the verbose SQL output
@@ -359,7 +361,7 @@ engine.echo = False
  
 Now that this object is entered, we can query the table to return it. 
 
-**In [12]:**
+**In [11]:**
 
 {% highlight python %}
 # query the Beer table
@@ -381,7 +383,7 @@ from the top of our `beers.txt` file, which has itself been extracted for this
 exercise from a source database. The data below include the beer name, brewery,
 and alcohol by volume (ABV). 
 
-**In [13]:**
+**In [12]:**
 
 {% highlight python %}
 # start with some source data
@@ -406,7 +408,7 @@ Python classes. If a particular brewer or beer is missing, we add the objects
 and commit. After this step is complete, we can read out all of the rows from
 this limited data set. 
 
-**In [14]:**
+**In [13]:**
 
 {% highlight python %}
 # ingest the data
@@ -445,7 +447,7 @@ session.query(Beer).all()
 Having proved that this method works, we can ingest all of the data from the
 source. It's best to package these operations into separate functions. 
 
-**In [18]:**
+**In [14]:**
 
 {% highlight python %}
 def ingest_beer(line):
@@ -466,7 +468,7 @@ def ingest_beer(line):
         session.commit()
 {% endhighlight %}
 
-**In [17]:**
+**In [15]:**
 
 {% highlight python %}
 with open('beers.txt') as fp:
@@ -478,14 +480,14 @@ print('we have %d records'%n_records)
     we have 1691 records
 
 
-**In [None]:**
+**In [16]:**
 
 {% highlight python %}
 # mistakes may later require a rollback
 session.rollback()
 {% endhighlight %}
 
-**In [19]:**
+**In [17]:**
 
 {% highlight python %}
 # easy progress bar in case this takes a while
@@ -497,7 +499,7 @@ def drawProgressBar(f,barLen=20):
     sys.stdout.flush()
 {% endhighlight %}
 
-**In [20]:**
+**In [18]:**
 
 {% highlight python %}
 # ingest everything
@@ -508,7 +510,7 @@ for lnum,line in enumerate(text):
 
     [====================] 100%
 
-**In [21]:**
+**In [19]:**
 
 {% highlight python %}
 # query Brewery and Beer together
@@ -521,7 +523,7 @@ print('found %d records'%len(boozy_breweries))
     found 256658 records
 
 
-**In [23]:**
+**In [20]:**
 
 {% highlight python %}
 # something is suspicious
@@ -539,7 +541,7 @@ The number of records returned from our search above seems absurdly high. This
 is an example of an *accidental outer join* which was the result of clumsy code
 on my part! Let's try again, and limit our "join" to the desired target: beer. 
 
-**In [24]:**
+**In [21]:**
 
 {% highlight python %}
 boozy_breweries = session.query(Brewery).join(
@@ -556,7 +558,7 @@ exceed the number of records. To find the best breweries (i.e. those with the
 highest-octane beers), we can *query* both the `Beer` and `Brewery` objects
 while joining only on Beer. 
 
-**In [25]:**
+**In [22]:**
 
 {% highlight python %}
 boozy_beers_by_brewery = session.query(
@@ -569,7 +571,7 @@ print('found %d records'%len(boozy_beers_by_brewery))
  
 Next we can sort these to find the booziest beers, paired with their brewers. 
 
-**In [29]:**
+**In [23]:**
 
 {% highlight python %}
 sort_abv = lambda i:i[1].abv
@@ -645,7 +647,7 @@ Once you have started a mongo daemon in the background, we are readyt o start
 using the database. Note that if you use docker or Singularity directly, the
 `docker run` command above will make the data available automatically. 
 
-**In [30]:**
+**In [24]:**
 
 {% highlight python %}
 from pymongo import MongoClient
@@ -655,7 +657,7 @@ client = MongoClient('localhost', 27017)
  
 To complete the exercise we must create a database and a collection. 
 
-**In [None]:**
+**In [25]:**
 
 {% highlight python %}
 db = client["beer_survey"]
@@ -665,7 +667,7 @@ beers = db["beers"]
 First, we should take a look at the raw data which we exported for this
 exercise. 
 
-**In [31]:**
+**In [26]:**
 
 {% highlight python %}
 ! head -n 3 beers.json
@@ -680,13 +682,13 @@ We can see that each JSON entry includes a beer and "type" along with the ABV.
 The JSON syntax is a useful way to represented a nested dictionary or tree of
 values. 
 
-**In [34]:**
+**In [27]:**
 
 {% highlight python %}
 import json,pprint
 {% endhighlight %}
 
-**In [35]:**
+**In [28]:**
 
 {% highlight python %}
 # if you repeat this exercise, it may be useful to clear the database
@@ -698,7 +700,7 @@ Next we will unpack each line with JSON and use `insert_one` to directly add
 them to the database. Since  this database is unstructured, we do not have to
 define the schema ahead of time. 
 
-**In [36]:**
+**In [29]:**
 
 {% highlight python %}
 with open('beers.json') as f:
@@ -712,7 +714,7 @@ with open('beers.json') as f:
         ))
 {% endhighlight %}
 
-**In [37]:**
+**In [30]:**
 
 {% highlight python %}
 # we can count the records
@@ -729,7 +731,7 @@ beers.count_documents({})
 The syntax is slightly different, but as with the relational database, queries
 are relatively easy to write. 
 
-**In [39]:**
+**In [31]:**
 
 {% highlight python %}
 boozy = list(beers.find({"abv": {"$gt": 8}}))
@@ -742,7 +744,7 @@ print("there are %d breweries with boozy beers"%
  
 We can sort the results of our query directly in Python. 
 
-**In [47]:**
+**In [32]:**
 
 {% highlight python %}
 [(i['beer'],i['abv']) 
@@ -770,7 +772,7 @@ Alternately, we can chain together a series of queries to filter the data. In
 the following example we find all beers above 8% ABV, group them by brewery,
 take the average, and then collect a sample of five. 
 
-**In [62]:**
+**In [33]:**
 
 {% highlight python %}
 agg = db.beers.aggregate([
@@ -781,11 +783,11 @@ agg = db.beers.aggregate([
 print('\n'.join(['%05.2f %s'%(i['avg'],i['_id']) for i in agg]))
 {% endhighlight %}
 
-    08.50 Brasserie Millevertus
-    08.50 Brouwersverzet bij Brouwerij Gulden Spoor
-    08.50 Alken-Maes (Heineken)
-    08.40 Brouwerij Strubbe voor Brouwerij Crombé
-    08.45 AB InBev
+    08.80 Brouwerij Palm voor Group John Martin
+    08.50 Brouwerij Contreras
+    08.70 Brouwerij Lupus voor (T)Huisbrouwerij Odlo
+    09.17 Brouwerij Gulden Spoor voor bierfirma Hugel
+    09.00 Brouwerij Kerkom bij Brouwerij Sint-Jozef
 
  
 The syntax above, including the use of `$group` and `$match` is reviewed in the
@@ -820,13 +822,13 @@ In our final example, we will use *map reduce* to count the number of beers per
 brewery. This requires some JavaScript implemented with the `bson` library,
 since this is Mongo's native language. 
 
-**In [87]:**
+**In [34]:**
 
 {% highlight python %}
 from bson.code import Code
 {% endhighlight %}
 
-**In [88]:**
+**In [35]:**
 
 {% highlight python %}
 mapped = Code("""
@@ -836,7 +838,7 @@ function () {
 """)
 {% endhighlight %}
 
-**In [89]:**
+**In [36]:**
 
 {% highlight python %}
 reduce = Code("""
@@ -846,7 +848,7 @@ function (brewery, values) {
 """)
 {% endhighlight %}
 
-**In [90]:**
+**In [37]:**
 
 {% highlight python %}
 result = db.beers.map_reduce(mapped,reduce,out="numberBeersPerBrewery")
