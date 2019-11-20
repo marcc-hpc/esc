@@ -104,7 +104,7 @@ The command above can repeat the schema back to you.
 3. Drop a table.
 
 ```
-sqlite> DROP TABLE artists;
+sqlite> DROP TABLE brewery;
 sqlite> .tables
 ```
 
@@ -141,7 +141,7 @@ sqlite> SELECT rowid, name from brewery;
 sqlite> INSERT INTO beer VALUES ('90 Minute IPA', 9.0, 1);
 sqlite> INSERT INTO beer VALUES ('60 Minute IPA', 6.0, 1);
 sqlite> INSERT INTO beer VALUES ('HopHands', 5.5, 2);
-sqlite> INSERT INTO beer (name) VALUES ('SaisonHands',);
+sqlite> INSERT INTO beer (name) VALUES ('SaisonHands');
 ```
 
 7. We can easily search the database for beers from a particular brewery.
@@ -285,19 +285,19 @@ we can see how `sqlalchemy` is directly manipulating the database.
 Base.metadata.create_all(engine)
 {% endhighlight %}
 
-    2019-11-18 20:59:43,834 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1
-    2019-11-18 20:59:43,836 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,837 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1
-    2019-11-18 20:59:43,838 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,839 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("brewery")
-    2019-11-18 20:59:43,839 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,841 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("brewery")
-    2019-11-18 20:59:43,841 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,842 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("beer")
-    2019-11-18 20:59:43,843 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,843 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("beer")
-    2019-11-18 20:59:43,844 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,845 INFO sqlalchemy.engine.base.Engine 
+    2019-11-19 20:25:38,928 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1
+    2019-11-19 20:25:38,929 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,930 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1
+    2019-11-19 20:25:38,930 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,931 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("brewery")
+    2019-11-19 20:25:38,932 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,933 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("brewery")
+    2019-11-19 20:25:38,934 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,935 INFO sqlalchemy.engine.base.Engine PRAGMA main.table_info("beer")
+    2019-11-19 20:25:38,936 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,937 INFO sqlalchemy.engine.base.Engine PRAGMA temp.table_info("beer")
+    2019-11-19 20:25:38,937 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,938 INFO sqlalchemy.engine.base.Engine 
     CREATE TABLE brewery (
     	id INTEGER NOT NULL, 
     	name VARCHAR, 
@@ -305,9 +305,9 @@ Base.metadata.create_all(engine)
     )
     
     
-    2019-11-18 20:59:43,846 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,848 INFO sqlalchemy.engine.base.Engine COMMIT
-    2019-11-18 20:59:43,849 INFO sqlalchemy.engine.base.Engine 
+    2019-11-19 20:25:38,939 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,941 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-19 20:25:38,942 INFO sqlalchemy.engine.base.Engine 
     CREATE TABLE beer (
     	id INTEGER NOT NULL, 
     	name VARCHAR, 
@@ -318,8 +318,8 @@ Base.metadata.create_all(engine)
     )
     
     
-    2019-11-18 20:59:43,850 INFO sqlalchemy.engine.base.Engine ()
-    2019-11-18 20:59:43,852 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-19 20:25:38,942 INFO sqlalchemy.engine.base.Engine ()
+    2019-11-19 20:25:38,944 INFO sqlalchemy.engine.base.Engine COMMIT
 
  
 We are finally ready to enter some data using the somewhat elegant Python
@@ -346,10 +346,10 @@ finalize this transaction.
 session.commit()
 {% endhighlight %}
 
-    2019-11-18 20:59:43,874 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)
-    2019-11-18 20:59:43,880 INFO sqlalchemy.engine.base.Engine INSERT INTO beer (name, abv, brewery_id) VALUES (?, ?, ?)
-    2019-11-18 20:59:43,883 INFO sqlalchemy.engine.base.Engine ('Rt. 113 IPA', 7.0, None)
-    2019-11-18 20:59:43,885 INFO sqlalchemy.engine.base.Engine COMMIT
+    2019-11-19 20:25:38,956 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)
+    2019-11-19 20:25:38,957 INFO sqlalchemy.engine.base.Engine INSERT INTO beer (name, abv, brewery_id) VALUES (?, ?, ?)
+    2019-11-19 20:25:38,958 INFO sqlalchemy.engine.base.Engine ('Rt. 113 IPA', 7.0, None)
+    2019-11-19 20:25:38,959 INFO sqlalchemy.engine.base.Engine COMMIT
 
 
 **In [10]:**
@@ -416,12 +416,12 @@ for line in data.strip().splitlines():
     beer_name,brewery_name,abv = line.split('|')
     row_brewery = session.query(Brewery).filter_by(name=brewery_name).first()
     if not row_brewery:
-        brewery_row = Brewery(name=brewery_name)
-        session.add(brewery_row)
+        row_brewery = Brewery(name=brewery_name)
+        session.add(row_brewery)
         session.commit()
     beer_row = session.query(Beer).filter_by(name=beer_name).first()
     if not beer_row:
-        beer_row = Beer(name=beer_name,brewery=brewery_row,abv=abv)
+        beer_row = Beer(name=beer_name,brewery=row_brewery,abv=abv)
         session.add(beer_row)
         session.commit()
 session.query(Beer).all()
@@ -783,11 +783,11 @@ agg = db.beers.aggregate([
 print('\n'.join(['%05.2f %s'%(i['avg'],i['_id']) for i in agg]))
 {% endhighlight %}
 
-    08.80 Brouwerij Palm voor Group John Martin
-    08.50 Brouwerij Contreras
-    08.70 Brouwerij Lupus voor (T)Huisbrouwerij Odlo
-    09.17 Brouwerij Gulden Spoor voor bierfirma Hugel
-    09.00 Brouwerij Kerkom bij Brouwerij Sint-Jozef
+    09.20 Brasserie d'Ecaussinnes
+    09.25 Brasserie de Silly
+    08.40 Brouwerij Het Anker (vroeger in Brouwerij Riva en Brouwerij Liefmans)
+    09.00 Huisbrouwerij de 3 vaten
+    09.75 Brouwerij Val-Dieu
 
  
 The syntax above, including the use of `$group` and `$match` is reviewed in the
