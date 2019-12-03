@@ -42,6 +42,7 @@ dependencies:
   - numpy
   - scipy
   - jupyter
+  - nb_conda_kernels
   # use tensorflow-gpu if you have a GPU
   - tensorflow==1.12
   - scikit-learn
@@ -50,7 +51,6 @@ dependencies:
   - pip
   - pip:
     - torchviz
-    - git+https://github.com/tensorflow/docs
 ~~~
 
 Note that this environment may be precompiled before class. 
@@ -1176,19 +1176,6 @@ classes = (
     Files already downloaded and verified
     Files already downloaded and verified
 
-
-**In [55]:**
-
-{% highlight python %}
-len(trainloader)
-{% endhighlight %}
-
-
-
-
-    12500
-
-
  
 We can plot a few representative images. 
 
@@ -1217,7 +1204,7 @@ print(' '.join('%5s' % classes[labels[j]] for j in range(4)))
 {% endhighlight %}
 
  
-![png](machine-learning_files/machine-learning/machine-learning_64_0.png) 
+![png](machine-learning_files/machine-learning/machine-learning_63_0.png) 
 
 
     horse   dog  frog   dog
@@ -1332,7 +1319,7 @@ print('GroundTruth: ', ' '.join('%5s' % classes[labels[j]] for j in range(4)))
 {% endhighlight %}
 
  
-![png](machine-learning_files/machine-learning/machine-learning_73_0.png) 
+![png](machine-learning_files/machine-learning/machine-learning_72_0.png) 
 
 
     GroundTruth:    cat  ship  ship plane
@@ -1429,9 +1416,3 @@ course in Convolutional Neural Networks for visual
 recognition](http://cs231n.github.io/). Users with specific questions about the
 hardware, software, or best practices for building machine learning models are
 welcome to contact our staff (`marcc-help@marcc.jhu.edu`) for further advice. 
-
-**In [None]:**
-
-{% highlight python %}
-
-{% endhighlight %}
