@@ -42,6 +42,7 @@ dependencies:
   - numpy
   - scipy
   - jupyter
+  # use tensorflow-gpu if you have a GPU
   - tensorflow==1.12
   - scikit-learn
   - pandas
@@ -1423,6 +1424,14 @@ functions, model structure.
 compatible with our HPC cluster and reproducible.
 - Our predictions are only as good as the data! 
  
-Users with specific questions about the hardware, software, or best practices
-for building machine learning models are welcome to contact our staff (`marcc-
-help@marcc.jhu.edu`) for further advice. 
+We recommend that readers interested in learning more check out the [Stanford
+course in Convolutional Neural Networks for visual
+recognition](http://cs231n.github.io/). Users with specific questions about the
+hardware, software, or best practices for building machine learning models are
+welcome to contact our staff (`marcc-help@marcc.jhu.edu`) for further advice. 
+
+**In [None]:**
+
+{% highlight python %}
+
+{% endhighlight %}
