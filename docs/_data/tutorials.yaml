@@ -10,3 +10,6 @@
 - name: Databases workshop
   info: In this exercise we will discuss the basics of relational and unstructured databases.
   link: "/notebooks/databases/databases.html"
+- name: "Machine learning: a very quick introduction"
+  info: Three exercises illustrate some of the basic patterns for using machine learning algorithms.
+  link: "/notebooks/machine-learning/machine-learning.html"
