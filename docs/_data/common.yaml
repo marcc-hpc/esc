@@ -12,3 +12,5 @@
   link: common/perl-version-issue
 - name: Job priority and the scheduler
   link: common/slurm-priority-troubleshooting
+- name: Simple profiling with the top utility
+  link: common/simple-profile-top
