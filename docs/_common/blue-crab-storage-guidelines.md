@@ -17,6 +17,16 @@ As of Fall 2019 the *Blue Crab* cluster is experiencing a very high level of I/O
 
 *If you are experiencing a sporadic I/O error, please read the following guide for diagnosing and correcting the problem.* Note that a persistent I/O error (one that occurs every single time you run your program) is more likely to be due to user error, in which case you should try debugging your code first.
 
+### Step 0: Write small files
+
+If you *already know* that you are trying to write **many (>1000) small (<500MB) files on Lustre (`~/work` and `~/scratch`)** then you can use this one easy trick to improve performance. Find the directory that will hold these files, and then run the following command.
+
+~~~
+lfs setstripe -c 1 ./path/to/small/file/writes
+~~~
+
+This will signal to our high-performance Lustre system that you will *not* be performing large block I/O and it will take steps to ease the burden of these small files on our system. The command above will set the concurrency to one. Lustre typically tries to take large files and fragment them across many servers to improve performance and reliability. This is counterproductive when users write many small files, hence the recommendation to write them to a single server.
+
 ### Step 1: **Determine your I/O profile** {#profile}
 
 The first step required to overcome a storage-related difficulty is to characterize your "I/O profile" by estimating the following behaviors of your program:
