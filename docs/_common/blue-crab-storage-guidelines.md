@@ -27,6 +27,8 @@ lfs setstripe -c 1 ./path/to/small/file/writes
 
 This will signal to our high-performance Lustre system that you will *not* be performing large block I/O and it will take steps to ease the burden of these small files on our system. The command above will set the concurrency to one. Lustre typically tries to take large files and fragment them across many servers to improve performance and reliability. This is counterproductive when users write many small files, hence the recommendation to write them to a single server.
 
+Remember: **do not compile or store executables** on Lustre (`~/scratch` and `~/work`). These should be stored in your home directory or data directory (`~/` or `~/data`) on our ZFS filesystem.
+
 ### Step 1: **Determine your I/O profile** {#profile}
 
 The first step required to overcome a storage-related difficulty is to characterize your "I/O profile" by estimating the following behaviors of your program:
