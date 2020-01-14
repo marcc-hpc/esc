@@ -18,7 +18,9 @@ conda activate torchvision
 
 ### Option 2: Use a custom environment
 
-If you wish to install a custom version of PyTorch, you can [make a conda environment]() with `pytorch::pytorch` in your requirements file. The package can be found on [Anaconda cloud](https://anaconda.org/pytorch/pytorch). You are also welcome to install it with `pip` according to their [guide here](), however you should be mindful of the [caveats on our system](python-environments#pip-caveats).
+If you wish to install a custom version of PyTorch, you can [make a conda environment](python-environments#conda) with `pytorch::pytorch` in your requirements file. Note that until we upgrade to CUDA 10, you should use `pytorch::pytorch=1.3=*cuda9.2*` to select our highest available CUDA version. Before using the code you should also load the appropriate module with `ml cuda/9.2` to ensure the environment is correctly linked.
+
+The `pytorch` package can be found on [Anaconda cloud](https://anaconda.org/pytorch/pytorch). You are also welcome to install it with `pip` according to their [guide here](https://pytorch.org/get-started/locally/), however you should be mindful of the [caveats on our system](python-environments#pip-caveats).
 
 ### Option 3: Legacy versions in containers
 
