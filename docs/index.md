@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-The "elements of scientific computing" (`ESC`) is a collection of workshop examples and answers to common scientific computing questions. This resource should be generally useful to academic researchers who are using scientific computing methods or high-performance computing (HPC) in their work. These notes were compiled by [Ryan Bradley](http://scattershot.info) for users of the Maryland Advanced Research Computing Center ([MARCC](https://www.marcc.jhu.edu)) and we therefore refer to our largest machine named *Blue Crab* throughout the text.
+The "elements of scientific computing" (`ESC`) is a collection of workshop examples and answers to common scientific computing questions. This resource should be generally useful to academic researchers who are using scientific computing methods or high-performance computing (HPC) in their work. These notes were compiled by [Ryan Bradley](http://scattershot.info) for users of the Maryland Advanced Research Computing Center ([MARCC](https://www.marcc.jhu.edu)) and we therefore refer to our largest machine named *Blue Crab* throughout the text. Material for the [tutorial series] is listed below.
 
 ## Documentation sites
 
@@ -13,9 +13,21 @@ Our documentation is currently in flux. The following guide should help you find
 2. This "short course" is a good introduction to the machine for new users:<br>[`https://marcc-hpc.github.io/tutorials/`](https://marcc-hpc.github.io/tutorials/)
 3. The current site includes a set of [common tasks](#common-tasks) and materials for the [tutorial series](#tutorial-series) below.
 
+## Common tasks and workflows {#common-tasks}
+
+The following list provides answers to frequently asked questions and common workflows. These answers are specific to *Blue Crab* and designed to help users migrate their local development and calculations to our high-performance computing (HPC) environment.
+
+<ul>
+{% for task in site.data.common %}
+<li><a href="{{task.link}}">{{task.name}}</a></li>
+{% endfor %}
+</ul>
+
+*Note that this site is currently under construction as we migrate some of our documentation here.*
+
 {% if site.data.tutorials %}
 
-## Tutorial Series
+## Tutorial Series {#tutorial-series}
 
 The following notes cover some of our work in the [ongoing tutorial series](https://www.marcc.jhu.edu/training/tutorial-series/).
 
@@ -25,13 +37,5 @@ The following notes cover some of our work in the [ongoing tutorial series](http
 	<strong>{{ tutorial.name | capitalize }}</strong></a>: {{ tutorial.info }}</li>
 {% endfor %}
 </ol>
+
 {% endif %}
-
-## Common tasks
-<ul>
-{% for task in site.data.common %}
-<li><a href="{{task.link}}">{{task.name}}</a></li>
-{% endfor %}
-</ul>
-
-*Note that this site is currently under construction as we migrate some of our documentation here.*
