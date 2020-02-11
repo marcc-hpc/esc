@@ -52,7 +52,14 @@ $ R
 
 ### Issue: network security
 
-We encourage all users to start an interactive session with `interact` when using this method. This command will start an interactive SLURM job on a compute node. Only the compute nodes can access [`cran`](https://cran.r-project.org/) to download the packages. If you see the error `Failed to install 'unknown package' from URL: (converted from warning) Problem closing connection:  No space left on device` then you must visit a compute node to complete the installation.
+We encourage all users to start an interactive session with `interact` when using this method. This command will start an interactive SLURM job on a compute node. Only the compute nodes can access [`cran`](https://cran.r-project.org/) to download the packages. This problem produces the following error.
+
+~~~
+Error: Failed to install 'unknown package' from URL:
+  (converted from warning) Problem closing connection:  No space left on device
+~~~
+
+If you see this error, you must visit a compute node to complete the installation.
 
 ## Case 3: Extra dependencies required
 
