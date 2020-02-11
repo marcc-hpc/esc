@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perl version issues
+title: "Issue: using perl in conda"
 ---
 
 We have found that a subset of perl-dependent programs installed via [`conda`](python-environments#options) have a problem finding the right version on our system. The error message might look like this:

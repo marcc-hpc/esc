@@ -1,18 +1,26 @@
-- name: The new software stack
-  link: common/new-stack
-- name: Python packages and modules
-  link: common/python-environments
-- name: Custom python environments with conda
-  link: common/python-environments#conda
-- name: Parallel Matlab (parpool) guidance
-  link: common/matlab-parpool
-- name: PyTorch on Blue Crab
-  link: common/pytorch#bc
-- name: Blue Crab storage guidelines
-  link: common/blue-crab-storage-guidelines
-- name: Perl version issue
-  link: common/perl-version-issue
-- name: Job priority and the scheduler
-  link: common/slurm-priority-troubleshooting
-- name: Simple profiling with the top utility
-  link: common/simple-profile-top
+core:
+  - name: Software modules
+    link: common/software-modules
+  - name: Software environments
+    link: common/python-environments
+  - name: R Packages
+    link: common/r-packages
+common:
+  - name: The latest software builds
+    link: common/software-modules#new
+  - name: Custom environments with Anaconda
+    link: common/python-environments#conda
+  - name: Parallel Matlab (parpool) guidance
+    link: common/matlab-parpool
+  - name: PyTorch on Blue Crab
+    link: common/pytorch#bc
+  - name: Blue Crab storage guidelines
+    link: common/blue-crab-storage-guidelines
+  - name: "Issue: using perl in conda"
+    link: common/perl-version-issue
+  - name: Job priority and the SLURM scheduler
+    link: common/slurm-priority-troubleshooting
+  - name: Simple profiling with the top utility
+    link: common/simple-profile-top
+  - name: Singularity containers
+    link: common/singularity

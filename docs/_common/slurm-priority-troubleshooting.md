@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Job priority and the scheduler 
+title: Job priority and the SLURM scheduler
 ---
 
 ## Wait times on *Blue Crab* {#waits}

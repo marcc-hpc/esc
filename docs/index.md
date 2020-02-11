@@ -11,14 +11,26 @@ Our documentation is currently in flux. The following guide should help you find
 
 1. Questions about MARCC resources can be found on the main site:<br>[`https://www.marcc.jhu.edu`](https://www.marcc.jhu.edu)
 2. This "short course" is a good introduction to the machine for new users:<br>[`https://marcc-hpc.github.io/tutorials/`](https://marcc-hpc.github.io/tutorials/)
-3. The current site includes a set of [common tasks](#common-tasks) and materials for the [tutorial series](#tutorial-series) below.
+3. The current site includes a set of [core documentation](#docs), [common workflows](#common-tasks), and materials for the [tutorial series](#tutorial-series) below.
+
+## Core Documentation for *Blue Crab* {#docs}
+
+The following guides cover the most critical features of the *Blue Crab* cluster. Most users will find the right software in our *software modules* system, while users who require Python, R, virtual environments, or Anaconda should consult the guide on *software environments* linked below. 
+
+<ol>
+{% for task in site.data.common.core %}
+<li><a href="{{task.link}}">{{task.name}}</a></li>
+{% endfor %}
+</ol>
+
+If you cannot find what you need in the guides on this page, please contact our support staff at <code><nobr><a href="marcc-help@marcc.jhu.edu">marcc-help@marcc.jhu.edu</a></nobr></code> for additional guidance.
 
 ## Common tasks and workflows {#common-tasks}
 
 The following list provides answers to frequently asked questions and common workflows. These answers are specific to *Blue Crab* and designed to help users migrate their local development and calculations to our high-performance computing (HPC) environment.
 
 <ul>
-{% for task in site.data.common %}
+{% for task in site.data.common.common %}
 <li><a href="{{task.link}}">{{task.name}}</a></li>
 {% endfor %}
 </ul>
