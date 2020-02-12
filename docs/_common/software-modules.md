@@ -87,6 +87,10 @@ The original software modules were built after our August 2018 upgrade. In 2019 
 
 The new stack can be accessed by running `ml stack` which loads a special module that replaces all of the available modules. You must run this command *once per terminal session* unless you add it to your `~/.bashrc` file. After you load the `stack` module, try `module avail` to see the new additions. As with the [original software modules](#original), the modules are hierachical, which means that loading a different compiler or MPI implementation will change the available list. The default compiler is `gcc/7.4.0` and the default MPI is `openmpi/3.1.5` on the new software modules.
 
+### Releases
+
+We maintain both a *current* and *pre-release* version of the `stack` module. We recommend taking note of which one you are using. After you load the default with `ml stack`, use `ml` to see which version you are using. The current release is `ml stack/0.3`. You should use this in your SLURM scripts in case we upgrade the modules. We also offer a pre-release version with new software available if you use `ml spider` to list the versions.
+
 ### Extra compilers
 
 The primary benefit to the new stack is that we can easily supply almost any package [provided by Spack](https://spack.readthedocs.io/en/latest/package_list.html). This helps improve the number and combination of supporting packages, including compilers and MPI implementations. As of 2019 this includes the following items which cannot be found on the default modules list:

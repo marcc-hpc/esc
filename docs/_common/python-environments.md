@@ -28,11 +28,22 @@ We encourage all users to carefully select the best environment option for their
 4. Build a `conda` environment [in sequence](#conda-seq) (alternative C).
 4. Use [Singularity](#singularity) (alternative D).
 
-### Beware: a word of caution when managing user installed softare
+### Beware: a word of caution when managing user installed software
 
 For example, if you use `pip install --user` to install software, it often preempts the methods described below. This can cause 
 
   This method will install packages to `~/.local` however the precise path depends on which version of Python you are using when you install the code. Because this method is opaque, we recommend using virtual environments instead. You can confirm the use of user-installed packages by checking for the location `~/.local` with `python -m site` which summarizes the underlying package locations.
+
+### Temporary directories
+
+Please set `TMPDIR` to a location on `~/data` before running any `pip install` commands. This relieves pressure on our operating system image by using our filesystem for temporary space.
+
+~~~
+mkdir ~/data/john_doe_tmp
+export TMPDIR=~/data/john_doe_tmp
+~~~
+
+You can clean up these files after the installations are complete.
 
 ## Case A. Python virtual environments {#venv}
 

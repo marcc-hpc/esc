@@ -22,5 +22,7 @@ common:
     link: common/slurm-priority-troubleshooting
   - name: Simple profiling with the top utility
     link: common/simple-profile-top
+  - name: "Tensorflow: latest"
+    link: common/tensorflow-latest
   - name: Singularity containers
     link: common/singularity
