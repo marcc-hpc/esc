@@ -8,7 +8,7 @@ title: Software modules
 
 *Blue Crab* hosts two extensive sets of software modules accessible by the [`Lmod` environment modules system](https://lmod.readthedocs.io/en/latest/). Most users will start with the default modules which we call the "[**original software modules**](#original)" and can be viewed with `module avail` after you log on. We also offer "new software modules" which provide additional packages installed with the [Spack](https://spack.readthedocs.io/en/latest/) build system. The "[**new software modules**](#new)" offer the newest set of compilers and package options. More importantly, they also provide a number of supporting Python and R packages which can save users the effort of configuring these packages on their own.
 
-# The "Original" Software Modules {#original}
+## The "Original" Software Modules {#original}
 
 *Blue Crab* provides a large number of software modules using the [`Lmod` environment modules system](https://lmod.readthedocs.io/en/latest/). Users can view the modules using the `module avail` or `ml av` command. You can load a module by using the `module load` command. For example, to use Python 3.7, you can run `module load python/3.7` or `ml 3.7` for short. 
 
@@ -77,15 +77,17 @@ In the workflow above we have listed our modules, used `module spider` to search
 
 Users with further questions about the modules system should [read the documentation for Lmod](https://lmod.readthedocs.io/en/latest/) for more details. 
 
-# The "New" Software Modules {#new}
+## The "New" Software Modules {#new}
 
 The latest software builds on *Blue Crab* are now available through an alternative modules tree. These have been delivered with the [Spack](https://spack.readthedocs.io/en/latest/) package management tool which has been developed by a large community of very generous programmers who help to make a more uniform and comprehensive set of software available to scientists.
 
-## History
+To use the "new" software modules, run `ml stack/0.3` or `ml stack/0.4` for the beta version.
+
+### History
 
 The original software modules were built after our August 2018 upgrade. In 2019 we started offering new software inside of a separate set of Lmod software modules using [Spack](https://spack.readthedocs.io/en/latest/). New and complex software requests will be added to this module tree in the future. 
 
-The new stack can be accessed by running `ml stack` which loads a special module that replaces all of the available modules. You must run this command *once per terminal session* unless you add it to your `~/.bashrc` file. After you load the `stack` module, try `module avail` to see the new additions. As with the [original software modules](#original), the modules are hierachical, which means that loading a different compiler or MPI implementation will change the available list. The default compiler is `gcc/7.4.0` and the default MPI is `openmpi/3.1.5` on the new software modules.
+The new stack can be accessed by running `ml stack` which loads a special module that replaces all of the available modules. You must run this command *once per terminal session* unless you add it to your `~/.bashrc` file. After you load the `stack` module, try `module avail` to see the new additions. As with the [original software modules](#original), the modules are hierachical, which means that loading a different compiler or MPI implementation will change the available list. The default compiler is `gcc/7.4.0` and the default MPI is `openmpi/3.1.5` on the new software modules. *To return to the original modules,* use `ml -stack` and your modules will be reset.
 
 ### Releases
 
@@ -108,7 +110,7 @@ You cannot unload the `stack` module to return to the original tree at this time
 
 For example, you may find that loading the new stack with `ml stack` followed by an interactive SLURM session may cause a conflict. This is caused by our use of an *ad hoc* solution for supplying *two separate* module trees. You will see a warning message that looks like this: `The following module(s) are unknown: "stack"`. If you see this error, then either you already have the new stack loaded, or you need to run `ml original` first to return to the original modules. The warning should not interfere with your use of either set of software modules, as long as they are visible on the `module avail` list.
 
-## More efficient R packages {#stack_R}
+### More efficient R packages {#stack_R}
 
 The R package provided by `r/3.6.1` on the new software stack also provides packages via modules. Typically a user who wants to use the `devtools` package will install a local copy using `install.packages` inside an R session. This is both time-consuming and wastes disk space. Users who wish to automatically load R packages from the list (e.g. `r-devtools` and `r-ggplot`) can use these commands.
 
