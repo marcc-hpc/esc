@@ -7,7 +7,7 @@ title: Python environments
 # remove the shortcourse below
 # singularity below
 # link to interactive development below
-# should we lock down ~/.local on the next cluster?
+# should we lock down $HOME/.local on the next cluster?
 ---
 
 Python is one of the most popular and versatile programming languages available to scientists. It supports multiple programming styles and emphasizes the readability of your code. The straightforward syntax combined with an extensive standard library and a native interface to high-performance, low-level compiled languages (namely C) has led to the widespread use of Python in the scientific computing world. Python's nearest neighbors in the space of scientific programming include [R](https://www.r-project.org/about.html) and [Matlab](https://www.mathworks.com/). As all three languages have matured, they have converged in functionality and all provide a large user base. We encourage all users to explore Python and its associated libraries when planning their calculations. 
@@ -60,7 +60,9 @@ Virtual environments can be a useful tool for reproducing your workflow on other
 
 ## Case B. Custom conda environments {#conda}
 
-Note that this is the best solution for users who need to control their Python (or `R`) version, install packages with `pip`, use interactive portal tools, or install `conda` packages from [Anaconda Cloud](https://anaconda.org/anaconda/python). The use of `conda env` ensures that you can generate your environment from an easily-portable text file. This also resolves version dependencies all at once, so that you don't paint yourself into a corner. (Users who experience perl version issues on *Blue Crab* should consult [this guide](perl-version-issue).)
+Note that this is the best solution for users who need to control their Python (or `R`) version, install packages with `pip`, use interactive portal tools, or install `conda` packages from [Anaconda Cloud](https://anaconda.org/anaconda/python). The use of `conda env` ensures that you can generate your environment from an easily-portable text file. This also resolves version dependencies all at once, so that you don't paint yourself into a corner. (Users who experience Perl version issues on *Blue Crab* should consult [this guide](perl-version-issue).)
+
+**Note** that whenever possible, it is best to use the software module (`ml anaconda`) to use the `conda` executable. Our module will allow you to use `conda` *without* adding it to your `~/.bashrc` file. This prevents later confusion and ensures that you have a clean and straightforward environment.
 
 ### B1. Find a useful location to make an environment
 
