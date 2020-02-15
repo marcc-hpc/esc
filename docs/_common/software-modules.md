@@ -4,6 +4,7 @@ title: Software modules
 # add examples for Python and R packages
 # add tensorflow for stack
 # add a complete list for stack
+# explain the nested modules on the new tree are there for reference
 ---
 
 *Blue Crab* hosts two extensive sets of software modules accessible by the [`Lmod` environment modules system](https://lmod.readthedocs.io/en/latest/). Most users will start with the default modules which we call the "[**original software modules**](#original)" and can be viewed with `module avail` after you log on. We also offer "new software modules" which provide additional packages installed with the [Spack](https://spack.readthedocs.io/en/latest/) build system. The "[**new software modules**](#new)" offer the newest set of compilers and package options. More importantly, they also provide a number of supporting Python and R packages which can save users the effort of configuring these packages on their own.
@@ -81,7 +82,7 @@ Users with further questions about the modules system should [read the documenta
 
 The latest software builds on *Blue Crab* are now available through an alternative modules tree. These have been delivered with the [Spack](https://spack.readthedocs.io/en/latest/) package management tool which has been developed by a large community of very generous programmers who help to make a more uniform and comprehensive set of software available to scientists.
 
-To use the "new" software modules, run `ml stack/0.3` or `ml stack/0.4` for the beta version.
+To use the "new" software modules, run `ml stack/0.3` or `ml stack/0.4` for the pre-release version.
 
 ### History
 
@@ -93,7 +94,7 @@ Note that there may be some lingering issues with module collections, including 
 
 ### Releases
 
-We maintain both a *current* and *pre-release* version of the `stack` module. We recommend taking note of which one you are using. After you load the default with `ml stack`, use `ml` to see which version you are using. The current release is `ml stack/0.3`. You should use this in your SLURM scripts in case we upgrade the modules. We also offer a pre-release version with new software available if you use `ml spider` to list the versions.
+We maintain both a *current* and *pre-release* version of the `stack` module. We recommend taking note of which one you are using. After you load the default with `ml stack`, use `ml` to see which version you are using. The current release is `ml stack/0.3`. You should use this in your SLURM scripts to maintain a stable environment. We may upgrade or remove packages over time. We also offer a pre-release version with new software available if you use `ml spider` to list the versions.
 
 ### Extra compilers
 
@@ -106,11 +107,9 @@ The primary benefit to the new stack is that we can easily supply almost any pac
 
 The entire list includes many more complex packages. We encourage all users to consult the list when they need new software. 
 
-### Open issue: module conflicts
+### Returning to the original modules
 
-You cannot unload the `stack` module to return to the original tree at this time. This differs from the standard [Lmod](https://lmod.readthedocs.io/en/latest/) method to accomodate our use of two entirely distinct sets of modules. Instead, use `ml original` to return to the default modules system if the new stack does not interest you. You cannot repeatedly execute `ml stack` because this module replaces the entire software tree. We have not yet found a more elegant way to switch between the original and new software modules, hence we encourage you to run `ml stack` once from your `~/.bashrc` at login, once per session when logging on, or once per SLURM script. You may receive an error if you attempt to load it twice, but this should not stop you from accessing the underlying modules. 
-
-For example, you may find that loading the new stack with `ml stack` followed by an interactive SLURM session may cause a conflict. This is caused by our use of an *ad hoc* solution for supplying *two separate* module trees. You will see a warning message that looks like this: `The following module(s) are unknown: "stack"`. If you see this error, then either you already have the new stack loaded, or you need to run `ml original` first to return to the original modules. The warning should not interfere with your use of either set of software modules, as long as they are visible on the `module avail` list.
+You cannot unload the `stack` module (if you try, you will see a warning message). This differs from the standard [Lmod](https://lmod.readthedocs.io/en/latest/) method in order to accomodate our use of two entirely distinct sets of modules. Instead, use `ml original` to return to the default modules system if the new stack does not interest you. We provide hints when you load the `stack` module to remind you of the right command. If you want to permanently use the new modules, load `stack` and then save your default modules with `ml save` which will save your current modules as the default for next time
 
 ### More efficient R packages {#stack_R}
 

@@ -7,6 +7,7 @@ title: Python environments
 # remove the shortcourse below
 # singularity below
 # link to interactive development below
+# should we lock down ~/.local on the next cluster?
 ---
 
 Python is one of the most popular and versatile programming languages available to scientists. It supports multiple programming styles and emphasizes the readability of your code. The straightforward syntax combined with an extensive standard library and a native interface to high-performance, low-level compiled languages (namely C) has led to the widespread use of Python in the scientific computing world. Python's nearest neighbors in the space of scientific programming include [R](https://www.r-project.org/about.html) and [Matlab](https://www.mathworks.com/). As all three languages have matured, they have converged in functionality and all provide a large user base. We encourage all users to explore Python and its associated libraries when planning their calculations. 
