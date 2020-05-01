@@ -6,6 +6,8 @@ core:
   - name: R Packages
     link: common/r-packages
 common:
+  - name: Allocation policy
+    link: common/allocations
   - name: The latest software builds
     link: common/software-modules#new
   - name: Custom environments with Anaconda
