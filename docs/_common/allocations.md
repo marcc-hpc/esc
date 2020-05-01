@@ -3,7 +3,7 @@ layout: post
 title: Allocation policy
 ---
 
-This page outlines the current allocation policy for the *Blue Crab* cluster at [MARCC](https://www.marcc.jhu.edu/). You can inspect your current allocation with the `new_sbalance -u $USER` command.
+This page outlines the current allocation policy for the *Blue Crab* cluster at [MARCC](https://www.marcc.jhu.edu/). You can inspect your current allocation with the `new_sbalance` command.
 
 ## Overview
 
@@ -17,7 +17,9 @@ An allocation is [a flow, not a stock](https://en.wikipedia.org/wiki/Stock_and_f
 
 There are many disadvantages to resetting the allocations every quarter. First, users who quickly consume all of their hours would typically have to wait until the allocation resets to use the machine again. If the machine goes idle in the meantime, these resources are wasted. Second, groups which hoard their hours or fail to use them regularly throughout the quarter will typically try to use large amounts of their allocation shortly before the reset so that these hours do not disappear. Both of these usage patterns make it difficult to efficiently use the resource.
 
-To more efficiently allocate the machine, your hours will slowly recharge after you use them. The larger your allocation, the faster they will recharge. Therefore, the allocation size (e.g. 100,000 hours per quarter) operates as a *set point* which controls the total rate of hours your group can consume. In the [balance](#sbalance) section below, we will show you how to check your allocation (the set point) along with your recent or apparent usage and your total usage for the quarter.
+To more efficiently allocate the machine, your hours will slowly recharge after you use them. The larger your allocation, the faster they will recharge. Therefore, the allocation size (e.g. 100,000 hours per quarter) operates as a *set point* which controls the total rate of hours your group can consume. In the [balance](#sbalance) section below, we will show you how to check your allocation (the set point) along with your recent or apparent usage and your total usage for the quarter. 
+
+If you consume 50,000 hours from an allocation with 100,000 hours, your "recent" or apparent usage will exponentially decay to zero, thereby returning your available hours to a full charge of 100,000 hours, with a half life of roughly one week (this may be subject to change). This system continuously resets your allocation, rather than resetting it all at once every three months.
 
 ## Recharge: practical implications
 
@@ -59,7 +61,7 @@ We are currently transitioning to a new account balance system. To preview the n
 
 This output tells us the following:
 
-1. The total allocation size is 1.24 million hours per quarter.
+1. The total allocation size is 1.25 million hours per quarter.
 2. This group has actually consumed over 800,000 hours so far.
 3. Thanks to recharge, their apparent or recent usage is only about 500,000 hours. 
 4. This means that they have 60% of their allocation, or roughly `1250000 - 500765 = 749235` hours *available for use now*. 
