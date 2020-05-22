@@ -37,7 +37,7 @@ If your PI has purchased hardware on *Blue Crab*, you have access to a separate 
 
 ## Checking the balance {#sbalance}
 
-We are currently transitioning to a new account balance system. To preview the new system, run the `new_sbalance` command. Here is some example output. Some users may be associated with multiple projects.
+We have transitioned to a new account balance system. To preview the new system, run the `new_sbalance` command. Here is some example output. Some users may be associated with multiple projects.
 
 ~~~
 +-----------------------------------------------+
