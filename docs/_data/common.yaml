@@ -28,3 +28,5 @@ common:
     link: common/tensorflow-latest
   - name: Singularity containers
     link: common/singularity
+  - name: Managing R package versions
+    link: common/r-packages-versions

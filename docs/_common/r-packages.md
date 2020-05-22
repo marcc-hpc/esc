@@ -16,7 +16,7 @@ The following list describes the methods for installing R packages on *Blue Crab
 
 1. [**Software Modules**](software-modules#new) provide R packages directly, as long as you are using our [new software modules](software-modules#new).
 
-## Case 1: Software Modules
+## Case 1: Software Modules {#new-modules}
 
 Many common packages have been added to our [new software modules](software-modules#new) which are accessible via [Lmod](https://lmod.readthedocs.io/en/latest/) and the `ml av` command. You can switch to the new modules by using `ml stack`, however we recommend that all uses [consult the guide when choosing this option](software-modules#new). 
 
@@ -35,7 +35,7 @@ $ R
 
 This provides the `Rcpp` package with minimal effort. We over dozens of additional R packages, all of which are kindly provided by [Spack](https://spack.readthedocs.io/en/latest/), on our [new software modules](software-modules#new).
 
-## Case 2: Direct installation
+## Case 2: Direct installation {#direct}
 
 The example above, in which we used the `Rcpp` package installed on our software modules system, is the best-case scenario because it provides software without a custom installation. If you cannot find your software on `ml stack`, then you can install it yourself with `R` directly, using `install.packages`. Before doing so, please consult the documentation for your target. 
 
@@ -61,7 +61,7 @@ Error: Failed to install 'unknown package' from URL:
 
 If you see this error, you must visit a compute node to complete the installation.
 
-## Case 3: Extra dependencies required
+## Case 3: Extra dependencies required {#r-via-conda}
 
 If you cannot install your software according to the two cases above, you will need to manage your extra dependencies in one of two ways, by either compiling the code from source, or by using Anaconda. Since both of these options require extra work, we *strongly recommend checking for your software on our software tree first*.
 
