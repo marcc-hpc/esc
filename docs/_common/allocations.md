@@ -3,7 +3,7 @@ layout: post
 title: Allocation policy
 ---
 
-This page outlines the current allocation policy for the *Blue Crab* cluster at [MARCC](https://www.marcc.jhu.edu/). You can inspect your current allocation with the `new_sbalance` command.
+This page outlines the current allocation policy for the *Blue Crab* cluster at [MARCC](https://www.marcc.jhu.edu/). You can inspect your current allocation with the `sbalance` command.
 
 ## Overview
 
@@ -33,11 +33,11 @@ Groups which consume a larger share of the *Blue Crab* hours, whether because th
 
 ## Condos
 
-If your PI has purchased hardware on *Blue Crab*, you have access to a separate "condo" account with higher priority and additional hours. When you run the `new_sbalance -u $USER` script, you will see more than one account. You can use the condo account a flag (`-A`) in your SLURM scripts to access this account.
+If your PI has purchased hardware on *Blue Crab*, you have access to a separate "condo" account with higher priority and additional hours. When you run the `sbalance -u $USER` script, you will see more than one account. You can use the condo account a flag (`-A`) in your SLURM scripts to access this account.
 
 ## Checking the balance {#sbalance}
 
-We have transitioned to a new account balance system. To preview the new system, run the `new_sbalance` command. Here is some example output. Some users may be associated with multiple projects.
+We have transitioned to a new account balance system. To preview the new system, run the `sbalance` command. Here is some example output. Some users may be associated with multiple projects.
 
 ~~~
 +-----------------------------------------------+
