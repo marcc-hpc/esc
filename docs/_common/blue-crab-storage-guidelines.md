@@ -13,9 +13,13 @@ The most common HPC clusters are generally optimized for very large *calculation
 
 ## Storage interruptions on *Blue Crab* {#storage_problems}
 
-As of Fall 2019 the *Blue Crab* cluster is experiencing a very high level of I/O traffic as well as a technical issue with our Lustre (scratch) filesystem which requires an extensive kernel and driver upgrade (estimated for December 2019). 
+1. **Lustre interruptions.** As of January, 2020, The *Blue Crab* cluster has resolved a number of usability issues that affected our Lustre filesystem, most of which were caused by IOPS-intensive workflows and a minor technical issue. We nevertheless recommend that all users continue to optimize their workflows according to the following guide.
 
-*If you are experiencing a sporadic I/O error, please read the following guide for diagnosing and correcting the problem.* Note that a persistent I/O error (one that occurs every single time you run your program) is more likely to be due to user error, in which case you should try debugging your code first.
+2. <a id="data_unmount"></a>**Limited access to `~/data`.** As of October, 2020, we have removed access to the ZFS filesystem mounted at `~/data` from the compute nodes because many users were continuing to use this system for direct computation and thereby harming its integrity. All direct calculations should be performed on the Lustre filesystem at `~/work` (shared within a group) and `~/scratch` (individual), both of which are not backed up. No executables should be stored in `~/data` or on Lustre. See guidelines below for storing executables in `~/code` or a shared space in `~/work/code`. *If you need to access data from the `~/data` filesystem from a compute job, you must first copy the data to scratch from the login nodes or a data transfer node.*
+
+## Optimizing storage
+
+*If you are experiencing a sporadic I/O error, please read the following guide for diagnosing and correcting the problem.* Note that a persistent I/O error (one that occurs every single time you run your program) is more likely to be due to user error, in which case you should try debugging your code first before seeking assistance from our support team.
 
 ### Step 0: Manage small-file I/O on Lustre
 
@@ -27,7 +31,13 @@ lfs setstripe -c 1 ./path/to/small/file/writes
 
 This will signal to our high-performance Lustre system that you will *not* be performing large block I/O and it will take steps to ease the burden of these small files on our system. The command above will set the concurrency to one. Lustre typically tries to take large files and fragment them across many servers to improve performance and reliability. This is counterproductive when users write many small files, hence the recommendation to write them to a single server.
 
-Additionally, you **should not compile or store executables** on Lustre (`~/scratch` and `~/work`). These should be stored in your home directory or data directory (`~/` or `~/data`) on our ZFS filesystem.
+#### Where to compile code {#compile_where}
+
+Additionally, you **should not compile or store executables** on Lustre (`~/scratch` and `~/work`). These should be stored in your home directory or data directory (`~/` or specifically `~/code`) which provides a read-optimized ZFS filesystem that is appropriate for codes. 
+
+In October, 2020, we have also provided a `~/work/code` directory for **shared codes**. This space is a read-optimized filesystem shared between members of a single group. This change compensates for the removal of the shared `~/data` mount from all compute nodes (see above, [data storage guidelines](#data_unmount)). 
+
+Any codes or scripts which are shared between members of a group should be placed in `~/work/code` while individual codes should be located in `~/` or `~/code`.
 
 ### Step 1: **Determine your I/O profile** {#profile}
 
@@ -54,17 +64,15 @@ We refer to the size of the I/O by *bandwidth* and not the final size on disk. I
 
 #### Case 1. Small reads and writes on Lustre
 
-If you experience an error writing or reading a very modest amount of data on Lustre, it is safe to try to move your workflow to the ZFS system. We recommend the `~/data` location because the home directory has a 20GB quota. 
-
-Since your input files (those that your program reads) are small, it should be easy to move your workflow. If your problem persists, it might be a problem with your application, and not the filesystem. *Our ZFS system has much lower performance than our Lustre system, therefore we do not recommend using this system for all of your high-bandwidth file operations. We only recommend using it as a temporary, stopgap measure.* 
+If you experience an error writing or reading a very modest amount of data on Lustre, we recommend further investigation. Lustre typically only fails on small writes if you have a severly high number of file `stat` operations. If this is the case, your workflow would be better served by moving these operations to `/dev/shm` (a shared memory location) or by reformulating your workflow. It's possible that a collective slowdown of Lustre caused by high IOPS from other users is also causing problems with modest I/O on Lustre, in which case we recommend running at least a few different tests of your code to see if the problem is sporadic. If the problem is sporadic, it is more likely to be traffic. 
 
 #### Case 2. Large writes on Lustre
 
-If you experience an error writing a large amount of data to Lustre, we do not encourage you to move your workflow to ZFS (case #1 above) because this may negatively impact that filesystem. Instead, the best option is to determine whether you can either reduce the frequency that you write your data. If you are writing many separate files but the total size is not very large, see case #3 below. If you cannot reduce your total output size, it may be useful to move some of your write operations to our ZFS filesystem.
+Nearly all of the I/O from compute nodes on *Blue Crab* should occur on the Lustre filesystem which is specifically optimized to write and read large files. If you encounter errors with large write operations on Lustre, it may be due to a fundamental limitation. Since we have recently [removed the `~/data` mount](#data_unmount) from the compute nodes due to technical limits, the only alternatives are to write to your home directory, which has a limited size, or to an optional `~/work-zfs` purchased by some groups. If you experience an I/O bottleneck when writing large files on Lustre, we recommend reformulating your workflow rather than moving to the home directory or `~/work-zfs`. You can reduce the frequency  that you write the data, or alternately, you can consult external documentation (e.g. from [NICS](https://www.nics.tennessee.edu/computing-resources/file-systems/lustre-striping-guide)) to improve your Lustre striping strategy. If you are writing many separate files but the total size is not very large, see case #3 below.
 
 #### Case 3. Writing many files on Lustre
 
-Lustre is optimized for large block I/O operations and has a performance penalty when writing many tiny files. We strongly recommend reducing the number of separate files by altering your code. If you absolutely cannot do this, it may be useful to move some of these operations to memory to reduce the total output. As a last resort, you may try moving some of your write operations to ZFS bearing in mind that if many people do this, performance will decline for all users.
+Lustre is optimized for large block I/O operations and has a performance penalty when writing many tiny files. We strongly recommend reducing the number of separate files by altering your code. If you absolutely cannot do this, it may be useful to move some of these operations to memory to reduce the total output. This can be done by modifying your code dorectly, or by using `/dev/shm`. 
 
 #### Case 3. Large reads on ZFS
 
@@ -82,7 +90,7 @@ There are a few special guidelines for working on our system. These recommendati
 
 Compiling code requires many small file operations and asks many questions about each file. Lustre optimizes large data I/O by separating the act of writing the data from the act of describing it with so-called *metadata*. Lustre will not perform well when your program repeatedly asks for metadata by checking the existence of a file, listing the contents of a directory (especially with `ls -l`), or performing many repetitive 
 
-We recommend that you store source code and compile your code on our ZFS system (at `~/`, `~/data`, and `~/work-zfs`). It is also sub-optimal to run your compiled code from Lustre (see below).
+We recommend that you store source code and compile your code on our read-optimized ZFS file systems (at `~/` and `~/work/code`, see [above](#compile_where)). It is also sub-optimal to run your compiled code from Lustre (see below).
 
 #### Avoid using Lustre for executables
 
