@@ -13,3 +13,6 @@
 - name: "Machine learning: a very quick introduction"
   info: Three exercises illustrate some of the basic patterns for using machine learning algorithms.
   link: "/notebooks/machine-learning/machine-learning.html"
+- name: "Introduction to hierarchical data"
+  info: We introduce the hierarchical data (h5py) format in Python and talk about hashing.
+  link: "/notebooks/hierarchical-data/demo-h5py.html"
