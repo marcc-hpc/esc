@@ -14,8 +14,8 @@ documentation](https://docs.h5py.org/en/stable/quick.html) closely.
  
 # Requirements
 
-We will build a python environment in the usual way. You are welcome to use a
-virtual environment instead. 
+We will build a python environment in the usual way. Our goal is to install the
+`h5py` package. 
 
 **In [1]:**
 
@@ -42,6 +42,22 @@ dependencies:
     - mpi4py
 """
 {% endhighlight %}
+
+**In [2]:**
+
+{% highlight python %}
+# alternative virtual environment instructions
+_ = """
+# get a python if you are on a cluster
+$ ml python/3.8.6
+# install a virtual environment
+$ python -m venv ./env
+# activate the environment
+$ source ./env/bin/activate
+# install packages as needed
+(env) $ pip install h5py
+"""
+{% endhighlight %}
  
 # Use cases
 
@@ -50,21 +66,21 @@ dependencies:
 The documentation says that h5py files can hold two kinds of information. Groups
 work like dictionaries, and datasets work like NumPy arrays. 
 
-**In [37]:**
+**In [3]:**
 
 {% highlight python %}
 import numpy as np
 import h5py
 {% endhighlight %}
 
-**In [38]:**
+**In [4]:**
 
 {% highlight python %}
 eg_dims = (5,4,3)
 data = np.random.rand(*eg_dims)
 {% endhighlight %}
 
-**In [39]:**
+**In [5]:**
 
 {% highlight python %}
 # check the docs on the create_dataset function before we start
@@ -72,7 +88,7 @@ h5py.File.create_dataset?
 # we see that shape is required if the data is not provided
 {% endhighlight %}
 
-**In [24]:**
+**In [6]:**
 
 {% highlight python %}
 # make a new file (we always use a context manager)
@@ -82,11 +98,23 @@ with h5py.File('my_data.hdf5','w') as fp:
     fp.create_dataset('result_1',data=data)
 {% endhighlight %}
 
-**In [41]:**
+**In [7]:**
+
+{% highlight python %}
+# check to see that the file exists using cell magic in Jupyter
+! ls
+{% endhighlight %}
+
+    demo-h5py-v2.ipynb my_data.hdf5       test
+    demo-h5py.ipynb    richer_data.hdf5
+
+
+**In [8]:**
 
 {% highlight python %}
 # read the file. it prefers a read mode
 with h5py.File('my_data.hdf5','r') as fp:
+    # pring the object (it tells us that it is an HDF5 file)
     print(fp)
     # the object acts like a dict
     print(list(fp.keys()))
@@ -111,7 +139,7 @@ with h5py.File('my_data.hdf5','r') as fp:
 
 In short, a hierarchical data format contains a POSIX-like filesystem. 
 
-**In [56]:**
+**In [9]:**
 
 {% highlight python %}
 # create a new file
@@ -124,29 +152,157 @@ with h5py.File('richer_data.hdf5','w') as fp:
         grp.create_dataset(str(i),data=ts)
 {% endhighlight %}
 
-**In [58]:**
+**In [10]:**
 
 {% highlight python %}
 # read the data
 with h5py.File('richer_data.hdf5','r') as fp:
     # create a group
-    print(fp['timeseries/0'])
-    print(np.array(fp['timeseries/0']))
+    print(fp['timeseries/2'])
+    # you can print the data by 
+    # casting it: print(np.array(fp['timeseries/2']))
 {% endhighlight %}
 
-    <HDF5 dataset "0": shape (1000, 2), type "<f8">
-    [[0.60755507 0.25658715]
-     [0.41480807 0.29707645]
-     [0.4591176  0.2710604 ]
-     ...
-     [0.01291844 0.95650034]
-     [0.95477923 0.65849145]
-     [0.94202922 0.08009092]]
+    <HDF5 dataset "2": shape (1000, 2), type "<f8">
 
+ 
+## Question: how can we add columns to arrays?
+
+The best way to include metadata in your file is to attach it directly to an
+Array. You can do this by using the numpy
+[dtype](https://numpy.org/doc/stable/reference/generated/numpy.dtype.html) 
+
+**In [11]:**
+
+{% highlight python %}
+# first we found a nice example from the docs
+np.array?
+{% endhighlight %}
+
+**In [12]:**
+
+{% highlight python %}
+# in this example we set the string and 
+# float types, along with names, for our colums
+data_with_cols = np.array(
+    [('ryan',2.5),('jane',4.0)],
+    dtype=[('student','<S4'),('grades','<f4')])
+{% endhighlight %}
+
+**In [13]:**
+
+{% highlight python %}
+# the strings are converted to bytes
+print(data_with_cols)
+# we can review the column names here
+print(data_with_cols.dtype.names)
+# and this result can be stored directly with h5py
+# in the next section we add unstructured data
+# (possibly metadata) to the h5py file
+{% endhighlight %}
+
+    [(b'ryan', 2.5) (b'jane', 4. )]
+    ('student', 'grades')
+
+
+**In [14]:**
+
+{% highlight python %}
+# we can now add this to our file
+# the following demonstrates the append feature
+# and we also use try/except to rewrite a dataset if it exists
+with h5py.File('richer_data.hdf5','a') as fp:
+    if 'student_data' in fp: del fp['student_data']
+    fp.create_dataset('student_data',data=data_with_cols)
+{% endhighlight %}
+
+**In [15]:**
+
+{% highlight python %}
+# check the file
+with h5py.File('richer_data.hdf5','r') as fp:
+    print(list(fp.keys()))
+{% endhighlight %}
+
+    ['student_data', 'timeseries']
+
+
+**In [16]:**
+
+{% highlight python %}
+# here is an alternate method for formulating the array
+# start with columns, ordered by rows, with distinct types
+students = np.array(['ryan','jane','nikhil']).astype('<S16')
+grades = np.array([2.5,4.0,3.6])
+students,grades
+{% endhighlight %}
+
+
+
+
+    (array([b'ryan', b'jane', b'nikhil'], dtype='|S16'), array([2.5, 4. , 3.6]))
+
+
+
+**In [17]:**
+
+{% highlight python %}
+# if you transpose this without a dtype, h5py will not tolerate the U6 (unicode) type
+np.array(np.transpose((students,grades)))
+{% endhighlight %}
+
+
+
+
+    array([[b'ryan', b'2.5'],
+           [b'jane', b'4.0'],
+           [b'nikhil', b'3.6']], dtype='|S32')
+
+
+
+**In [18]:**
+
+{% highlight python %}
+n_rows = students.shape[0]
+dt = np.dtype([('student','<S32'),('grade','<f4')])
+student_data = np.empty(n_rows,dtype=dt)
+student_data['student'] = students
+student_data['grade'] = grades
+{% endhighlight %}
+
+**In [19]:**
+
+{% highlight python %}
+# our data is now structured by dtype
+student_data
+{% endhighlight %}
+
+
+
+
+    array([(b'ryan', 2.5), (b'jane', 4. ), (b'nikhil', 3.6)],
+          dtype=[('student', 'S32'), ('grade', '<f4')])
+
+
+
+**In [20]:**
+
+{% highlight python %}
+# we can select one column or row
+print(student_data['grade'])
+print(student_data[1])
+{% endhighlight %}
+
+    [2.5 4.  3.6]
+    (b'jane', 4.)
+
+ 
+Users interested in more data science-oriented structures are encouraged to
+check out [pandas](https://pandas.pydata.org/). 
  
 ## Case 3: Using metadata (attributes) 
 
-**In [73]:**
+**In [21]:**
 
 {% highlight python %}
 # simulate some metadata
@@ -160,10 +316,10 @@ meta = {
         'host':'bluecrab',},}
 {% endhighlight %}
 
-**In [74]:**
+**In [22]:**
 
 {% highlight python %}
-# or use yaml (not part of the standard library)
+# or use yaml (not part of the standard library) (pip install pyyaml)
 import yaml
 text = yaml.dump(meta)
 meta = yaml.load(text,Loader=yaml.SafeLoader)
@@ -184,20 +340,19 @@ print(text)
     
 
 
-**In [77]:**
+**In [23]:**
 
 {% highlight python %}
 # serialize the data
 import json
 meta_s = json.dumps(meta)
 print(meta_s)
-
 {% endhighlight %}
 
     {"data": {"host": "bluecrab", "source_path": "path/to/data"}, "integrator": {"dt": 0.001, "method": "rk4"}, "model": {"k0": 1.2, "k1": 1.3, "mass": 123.0, "tau": 0.01}}
 
 
-**In [79]:**
+**In [24]:**
 
 {% highlight python %}
 # create a new file, this time with metadata
@@ -212,7 +367,7 @@ with h5py.File('richer_data.hdf5','w') as fp:
         grp.create_dataset(str(i),data=ts)
 {% endhighlight %}
 
-**In [110]:**
+**In [25]:**
 
 {% highlight python %}
 # extract the data
@@ -231,7 +386,8 @@ with h5py.File('richer_data.hdf5','r') as fp:
     # get an item in the timeseries
     result = fp['timeseries/8']
     # cast this as an array
-    print(np.array(result))
+    # you can view the data by
+    # casting it as an array: print(np.array(result))
 {% endhighlight %}
 
     data:
@@ -246,23 +402,48 @@ with h5py.File('richer_data.hdf5','r') as fp:
       mass: 123.0
       tau: 0.01
     
-    [[0.23862044 0.31504744]
-     [0.67640219 0.47622231]
-     [0.20556927 0.1666343 ]
-     ...
-     [0.48551332 0.84930619]
-     [0.77959628 0.74633257]
-     [0.31485861 0.30996229]]
+
+
+**In [26]:**
+
+{% highlight python %}
+with h5py.File('richer_data.hdf5','r') as fp:
+    this = fp['meta'][()].decode()
+    meta = json.loads(this)
+{% endhighlight %}
+
+**In [27]:**
+
+{% highlight python %}
+import pprint
+pprint.pprint(meta,width=10)
+{% endhighlight %}
+
+    {'data': {'host': 'bluecrab',
+              'source_path': 'path/to/data'},
+     'integrator': {'dt': 0.001,
+                    'method': 'rk4'},
+     'model': {'k0': 1.2,
+               'k1': 1.3,
+               'mass': 123.0,
+               'tau': 0.01}}
 
  
 ## Case 4: Hashing your data
 
 Or, how do I organize the data? The following is a poor-man's database. 
 
-**In [114]:**
+**In [28]:**
 
 {% highlight python %}
-import hashlib
+# if you change the metadata, you change the hash
+meta['data']['host'] = 'rockfish'
+{% endhighlight %}
+
+**In [29]:**
+
+{% highlight python %}
+import hashlib,json
 # serialize the data with some special flags
 # read about stability: https://stackoverflow.com/a/22003440
 meta_s = json.dumps(meta,
@@ -272,5 +453,11 @@ hashcode = hashlib.sha1(meta_s.encode()).hexdigest()[:10]
 print('data_%s.h5py'%hashcode)
 {% endhighlight %}
 
-    data_eba300792d.h5py
+    data_8c9c7dcc57.h5py
 
+ 
+To conclude: you can treat each file as a metaphorical row in a database. The
+filesystem thereby acts as a large parallel database. This saves the effort of
+he traditional wrappers, handlers, validation, etc, that a database requires.
+You only have to perform some modest file management. In the future we can
+discuss more fully-featured database solutions. 
