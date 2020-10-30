@@ -76,11 +76,13 @@ Lustre is optimized for large block I/O operations and has a performance penalty
 
 #### Case 3. Large reads on ZFS
 
-If you have a large number of files or a large amount of input data for your work, and this data is useful for more than one separate calculation, we recommend keeping it on the ZFS filesystem. This filesystem is designed for long-term storage of your data whereas Lustre is designed for temporary storage, hence the name. If you are experiencing errors while reading a large data set on ZFS, it is best to optimize your use of memory to reduce the load rather than moving the data to Lustre.
+*Blue Crab* provides several ZFS storage systems, including the home directory `~/` and shared group code space `~/work/code`. These are typically too small for big data. Some groups have received additional `~/work-zfs` space for storing large (`>50TB`) data sets for an additional fee. If you are experiencing an I/O bottleneck when using this space, the best option is to move the data to Lustre, which can perform massively parallel reads. 
+
+Note that most groups also have a `1TB` space at `~/data`, which is a ZFS filesystem that has been [recently](#data_unmount) removed from the compute nodes. This space is indented for medium-term storage of important data (because it has a disaster-recovery backup). You cannot read from this filesystem during computaitons, so you should migrate your data to Lustre temporarily. Be sure to remove your results from Lustre within six months after last modification.
 
 #### Case 4. Large writes on ZFS
 
-The ZFS filesystem is not optimized for a large amount of writing, especially if you are only writing temporary data. Try migrating the I/O intensive portions of your work to Lustre. It is also best to reduce the number of files you write, along with the frequency of times you write to the file. Lustre performs best with large block operations, so we encourage you to cache your data in memory and then write it all at once in large portions.
+The ZFS filesystem ats `~/work-zfs` and `~/` are not optimized for a large amount of writing, especially if you are only writing temporary data. Try migrating the I/O intensive portions of your work to Lustre. It is also best to reduce the number of files you write, along with the frequency of times you write to the file. Lustre performs best with large block operations, so we encourage you to cache your data in memory and then write it all at once in large portions.
 
 ## General guidance
 

@@ -30,3 +30,5 @@ common:
     link: common/singularity
   - name: Managing R package versions
     link: common/r-packages-versions
+  - name: Rockfish environments quickstart
+    link: common/rockfish-envs
