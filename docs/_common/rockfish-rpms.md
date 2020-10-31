@@ -32,7 +32,7 @@ local-rpms.py -t install.txt -n proot
 rm install.txt
 ~~~
 
-Following installation, we use `ml own` to reveal our module, which has the same name as the "name" flag (`-n`) above. You can activeate your environment with `ml proot` and proceed to compile proot with the following method.
+Following installation, we use `ml own` to reveal our module, which has the same name as the "name" flag (`-n`) above. You can activeate your environment with `ml own` and `ml proot` and proceed to compile proot with the following method. The `ml own` module will automatically check the default location to find the environments you installed.
 
 ~~~
 up=https://github.com/proot-me/proot
