@@ -32,3 +32,6 @@ common:
     link: common/r-packages-versions
   - name: Rockfish environments quickstart
     link: common/rockfish-envs
+  - name: Rockfish local packages feature
+    link: common/rockfish-rpms
+
