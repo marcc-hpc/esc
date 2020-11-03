@@ -18,7 +18,7 @@ cat > install.txt <<EOF
 http://mirror.centos.org/centos/8/BaseOS/x86_64/os/Packages/libtalloc-2.2.0-7.el8.x86_64.rpm
 http://mirror.centos.org/centos/8/BaseOS/x86_64/os/Packages/libtalloc-devel-2.2.0-7.el8.x86_64.rpm
 http://mirror.centos.org/centos/8/BaseOS/x86_64/os/Packages/libarchive-3.3.2-8.el8_1.x86_64.rpm
-http://mirror.centos.org/centos/8/PowerTools/x86_64/os/Packages/
+http://mirror.centos.org/centos/8/PowerTools/x86_64/os/Packages/libarchive-devel-3.3.2-8.el8_1.x86_64.rpm
 EOF
 ~~~
 
